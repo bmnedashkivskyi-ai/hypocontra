@@ -1,0 +1,5 @@
+pair_id,label,rationale
+r7_000,type4_apparent_contextual,"The two hypotheses apply to different domains (machine translation versus computational poetry generation), so the finding that experts matter in one task but not another is not a contradiction."
+r7_003,type4_apparent_contextual,The hypotheses apply to different task settings—encoder-decoder architectures versus single-sequence tasks—meaning the observed differences in attention sensitivity are context-dependent and not mutually exclusive.
+r7_004,type1_direct_negation,"Hypothesis A asserts that attention weights are not a faithful explanation, while Hypothesis B directly negates this by asserting that they can serve as plausible explanations when methodological issues are addressed."
+r7_005,type1_direct_negation,"Hypothesis A asserts a positive relationship between pretraining term frequency and ICL performance, whereas Hypothesis B asserts the opposite, stating that low-frequency (long-tail) tokens contribute more significantly."

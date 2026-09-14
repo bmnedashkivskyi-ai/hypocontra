@@ -1,0 +1,2 @@
+pair_id,label,rationale
+r13_001,type1_direct_negation,"Hypothesis A asserts that LLM outputs usefully represent varied subgroup/demographic perspectives, while Hypothesis B asserts that LLMs misportray and flatten the identity and diversity of the very same demographic groups. These are direct opposites on the same underlying claim (do LLM outputs faithfully capture subgroup diversity), not a difference of measurement scale, causal direction, or evaluation context."

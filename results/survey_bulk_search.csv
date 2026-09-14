@@ -1,0 +1,869 @@
+arxiv_id,title,published
+2609.02309,"Efficient GUI Agents: A Systems Survey of Observation, Memory, Action, and Runtime Optimization",2026-09-02
+2609.01659,Beyond Textual Chain-of-Thought: A Survey on Action-Grounded Reasoning in Autonomous Driving,2026-08-31
+2608.29077,"A Comprehensive Survey on Linguistic Steganography: Methods, Countermeasures, Evaluation, and Challenges",2026-08-29
+2608.27910,AI Alignment through a Game-theoretic Lens: A Survey,2026-08-28
+2608.27505,A Survey on Rubric-Guided Reinforcement Learning for Language Models,2026-08-27
+2608.24982,Unsupervised Post-Training of Foundation Models: A Survey,2026-08-25
+2608.23627,"From Triage to Discharge: A Survey of NLP Tasks, Methods, and Open Challenges in the Emergency Department",2026-08-23
+2608.14797,Beyond Tokens: A Survey on Decoding Methods for Large Language and Vision-Language Models,2026-08-14
+2608.14377,A Survey of Large Models in Sports,2026-08-14
+2608.14737,Class Imbalance and Batch Effects in LLM-Based Screening for Systematic Reviews,2026-08-13
+2608.05993,Clinical Communication Processing with Models Trained on LLM-Generated Synthetic Data: A Structured Survey and Novel Application Case Studies,2026-08-06
+2607.25672,"AI's Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology I: Literature Review",2026-07-28
+2607.25642,"Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications",2026-07-28
+2608.28615,Distributional Validity and Calibration of a Korean Synthetic Persona Panel for Digital and AI Service Use: A Secondary-Data Validation Against the Korea Media Panel Survey,2026-07-23
+2607.21655,Progress Reward Modeling for Robotic Learning: A Comprehensive Survey,2026-07-22
+2608.14626,LLM Safety Alignment in Low-Resource Languages: A Systematic Literature Review,2026-07-20
+2607.12829,Accelerating Masked Diffusion Large Language Models: A Survey of Efficient Inference Techniques,2026-07-14
+2607.13104,Self-Improvements in Modern Agentic Systems: A Survey,2026-07-14
+2607.10787,Detecting AI-Generated Video: A Vision-Language Dual-View Survey,2026-07-12
+2607.08057,Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization,2026-07-09
+2607.07907,"Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks",2026-07-08
+2607.06963,"Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies",2026-07-08
+2607.03709,GRASP: Graph-Reasoning Aided Survey Planning for High-Fidelity Related Work Generation,2026-07-04
+2607.03540,Mental Health Disorder Detection Beyond Social Media: A Systematic Review of Available Datasets,2026-07-03
+2607.00304,Mapping the Evaluation Frontier: An Empirical Survey of the Bias-Reliability Tradeoff Across Eleven Evaluator-Agent Conditions,2026-07-01
+2608.26144,Why Current XAI Is Not Enough for Arabic NLP: A Critical Survey of the Explainability Gap,2026-06-28
+2606.26566,"Adversarial Diffusion Across Modalities: A Fusion Survey of Attacks, Defenses, and Evaluation for Text, Vision, and Vision-Language Models",2026-06-25
+2606.26382,Charting the Growth of Social-Physical HRI (spHRI): A Systematic Review Pipeline Augmented by Small Language Models,2026-06-24
+2606.26196,From Structure to Synergy: A Survey of Vision-Language Perception Paradigm Evolution in Multimodal Large Language Models,2026-06-24
+2606.15932,Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence,2026-06-14
+2606.20683,From Question Answering to Task Completion: A Survey on Agent System and Harness Design,2026-06-14
+2606.12191,"Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application",2026-06-10
+2606.08728,"Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery",2026-06-07
+2606.00136,Generative AI and Digital Ecosystem Resilience: A Proactive Lifecycle-Based Survey,2026-05-28
+2605.26133,"Pretraining Data Exposure in Large Language Models: A Survey of Membership Inference, Data Contamination, and Security Implications",2026-05-21
+2607.21608,From Obligation to Specification: A Survey on Validating EU AI Act Requirements in RE,2026-05-18
+2605.23989,"Towards trustworthy agentic AI: a comprehensive survey of safety, robustness, privacy, and system security",2026-05-17
+2605.16475,Generative Artificial Intelligence for Literature Reviews,2026-05-15
+2606.13691,Incentives Of EdTech: A Systematic Review Of EduNLP Research,2026-05-13
+2606.27380,"A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges",2026-05-11
+2605.10659,When Can Digital Personas Reliably Approximate Human Survey Findings?,2026-05-11
+2605.06716,From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms,2026-05-07
+2608.14551,Auxiliary uncertainty signals for LLM-assisted systematic review screening: a benchmark across eight Cohen drug-class reviews,2026-05-03
+2604.27924,"Can AI Be a Good Peer Reviewer? A Survey of Peer Review Process, Evaluation, and the Future",2026-04-30
+2606.19352,"Sign-Language Datasets at Scale: A Comprehensive Survey on Resources, Benchmarks, and Annotation Standards",2026-04-28
+2604.24977,A Survey on LLM-based Conversational User Simulation,2026-04-27
+2604.24468,"A Survey on Split Learning for LLM Fine-Tuning: Models, Systems, and Privacy Optimizations",2026-04-27
+2604.22294,SLIDERS: Systematic Reviews via Automated Evidence Synthesis and Reconciliation,2026-04-24
+2604.22864,"A Large-Scale, Cross-Disciplinary Corpus of Systematic Reviews",2026-04-23
+2604.20535,"Aligning Stuttered-Speech Research with End-User Needs: Scoping Review, Survey, and Guidelines",2026-04-22
+2604.20166,"Trust Stack for Mental Health AI: A Survey of Calibration across Human, Interaction, and AI Layers",2026-04-22
+2604.19645,The signal is the ceiling: Measurement limits of LLM-predicted experience ratings from open-ended survey text,2026-04-21
+2604.18722,Scripts Through Time: A Survey of the Evolving Role of Transliteration in NLP,2026-04-20
+2604.16548,"A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle",2026-04-17
+2605.22828,"A Survey of Text and Speech Resources for Hausa and Fongbe: Availability, Quality, and Gaps for NLP Development",2026-04-13
+2606.09830,Automated Scoring of Arabic Text Using Large Language Models: A Literature Review,2026-04-10
+2605.23910,Document Classification Pattern Recognition via Information Fusion: A Systematic Review of Multimodal and Multiview Representation Approaches,2026-04-07
+2604.03174,Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation,2026-04-03
+2604.02403,Measuring What Cannot Be Surveyed: LLMs as Instruments for Latent Cognitive Variables in Labor Economics,2026-04-02
+2604.01630,Grounding AI-in-Education Development in Teachers' Voices: Findings from a National Survey in Indonesia,2026-04-02
+2604.00626,A Survey of On-Policy Distillation for Large Language Models,2026-04-01
+2603.27960,Towards Efficient Large Vision-Language Models: A Comprehensive Survey on Inference Strategies,2026-03-30
+2606.28362,LUMEN: Cost-Transparent Multi-Agent Pipeline for Automated Systematic Review and Meta-Analysis,2026-03-29
+2603.24857,AI Security in the Foundation Model Era: A Comprehensive Survey from a Unified Perspective,2026-03-25
+2603.24767,Fine-Tuning A Large Language Model for Systematic Review Screening,2026-03-25
+2604.16380,Data Mixing for Large Language Models Pretraining: A Survey and Outlook,2026-03-25
+2604.14165,EviSearch: A Human in the Loop System for Extracting and Auditing Clinical Evidence for Systematic Reviews,2026-03-23
+2603.22386,From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents,2026-03-23
+2604.08559,Medical Reasoning with Large Language Models: A Survey and MR-Bench,2026-03-17
+2603.05723,Cultural Perspectives and Expectations for Generative AI: A Global Survey Approach,2026-03-05
+2603.04592,From Static Inference to Dynamic Interaction: A Survey of Streaming Large Language Models,2026-03-04
+2603.19279,Multilingual Hate Speech Detection and Counterspeech Generation: A Comprehensive Survey and Practical Guide,2026-03-01
+2603.04445,Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey,2026-02-23
+2602.19598,Eye-Tracking-while-Reading: A Living Survey of Datasets with Open Library Support,2026-02-23
+2602.10138,"Multimodal Information Fusion for Chart Understanding: A Survey of MLLMs -- Evolution, Limitations, and Cognitive Enhancement",2026-02-08
+2603.03300,Benchmarking Legal RAG: The Promise and Limits of AI Statutory Surveys,2026-02-07
+2602.05628,AI chatbots versus human healthcare professionals: a systematic review and meta-analysis of empathy in patient care,2026-02-05
+2602.08145,Reliable and Responsible Foundation Models: A Comprehensive Survey,2026-02-04
+2601.22240,A Systematic Literature Review on LLM Defenses Against Prompt Injection and Jailbreaking: Expanding NIST Taxonomy,2026-01-29
+2602.15866,NLP Privacy Risk Identification in Social Media (NLP-PRISM): A Survey,2026-01-26
+2601.18234,"Generative AI in Saudi Arabia: A National Survey of Adoption, Risks, and Public Perceptions",2026-01-26
+2602.15851,Narrative Theory-Driven LLM Methods for Automatic Story Generation and Understanding: A Survey,2026-01-23
+2602.15845,KD4MT: A Survey of Knowledge Distillation for Machine Translation,2026-01-22
+2601.17058,Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs,2026-01-22
+2601.14004,"Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models",2026-01-20
+2602.11175,"Barriers to Discrete Reasoning with Transformers: A Survey Across Depth, Exactness, and Bandwidth",2026-01-19
+2601.12945,A Component-Based Survey of Interactions between Large Language Models and Multi-Armed Bandits,2026-01-19
+2601.11655,Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey,2026-01-15
+2602.06052,A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents,2026-01-14
+2601.19928,"Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures",2026-01-11
+2601.19927,Attribution Techniques for Mitigating Hallucinated Information in RAG Systems: A Survey,2026-01-10
+2601.19926,The Grammar of Transformers: A Systematic Review of Interpretability Research on Syntactic Knowledge in Language Models,2026-01-09
+2601.03181,Multi-Modal Data-Enhanced Foundation Models for Prediction and Control in Wireless Networks: A Survey,2026-01-06
+2601.02907,Beyond the Black Box: A Survey on the Theory and Mechanism of Large Language Models,2026-01-06
+2601.14270,Opening the Black Box: A Survey on the Mechanisms of Multi-Step Reasoning in Large Language Models,2026-01-02
+2601.03270,Advances and Challenges in Semantic Textual Similarity: A Comprehensive Survey,2025-12-19
+2512.16301,"Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills",2025-12-18
+2601.03262,Roles of MLLMs in Visually Rich Document Retrieval for RAG: A Survey,2025-12-16
+2512.11261,Leveraging LLMs for Title and Abstract Screening for Systematic Review: A Cost-Effective Dynamic Few-Shot Learning Approach,2025-12-12
+2512.02689,An Empirical Survey of Model Merging Algorithms for Social Bias Mitigation,2025-12-02
+2512.01109,How do we measure privacy in text? A survey of text anonymization metrics,2025-11-30
+2602.00011,Chained Prompting for Better Systematic Review Search Strategies,2025-11-28
+2512.02038,Deep Research: A Systematic Survey,2025-11-24
+2511.18538,From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence,2025-11-23
+2511.07491,Quantifying the Impact of CU: A Systematic Literature Review,2025-11-10
+2511.06000,LLMs Do Not See Age: Assessing Demographic Bias in Automated Systematic Review Synthesis,2025-11-08
+2511.03939,"RLHF: A comprehensive Survey for Cultural, Multimodal and Low Latency Alignment Methods",2025-11-06
+2511.03610,A systematic review of relation extraction task since the emergence of Transformers,2025-11-05
+2511.03354,"Generative Artificial Intelligence in Bioinformatics: A Systematic Review of Models, Applications, and Methodological Advances",2025-11-05
+2511.07448,Large Language Models for Scientific Idea Generation: A Creativity-Centered Survey,2025-11-05
+2511.14772,Test-time Scaling of LLMs: A Survey from A Subproblem Structure Perspective,2025-11-01
+2510.27369,From the Rock Floor to the Cloud: A Systematic Survey of State-of-the-Art NLP in Battery Life Cycle,2025-10-31
+2510.27045,Quantitative Intertextuality from the Digital Humanities Perspective: A Survey,2025-10-30
+2510.25817,A Survey on Efficient Large Language Model Training: From Data-centric Perspectives,2025-10-29
+2510.25117,A Survey on Unlearning in Large Language Models,2025-10-29
+2510.23081,A Survey on LLM Mid-Training,2025-10-27
+2510.21131,Large Language Models Meet Text-Attributed Graphs: A Survey of Integration Frameworks and Applications,2025-10-24
+2510.19144,"Tibetan Language and AI: A Comprehensive Survey of Resources, Methods and Challenges",2025-10-22
+2510.17491,"Empowering Real-World: A Survey on the Technology, Practice, and Evaluation of LLM-driven Industry Agents",2025-10-20
+2510.16724,"A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications",2025-10-19
+2510.17892,Advances in Pre-trained Language Models for Domain-Specific Text Classification: A Systematic Review,2025-10-18
+2510.16091,Evaluating Prompting Strategies and Large Language Models in Systematic Literature Review Screening: Relevance and Task-Stage Classification,2025-10-17
+2510.15253,Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding,2025-10-17
+2510.13366,Document Intelligence in the Era of Large Language Models: A Survey,2025-10-15
+2510.13170,Putting on the Thinking Hats: A Survey on Chain of Thought Fine-tuning from the Perspective of Human Reasoning Mechanism,2025-10-15
+2510.12178,Evolution of meta's llama models and parameter-efficient fine-tuning of large language models: a survey,2025-10-14
+2510.12164,A Survey on Parallel Reasoning,2025-10-14
+2510.13890,"A Survey on Collaborating Small and Large Language Models for Performance, Cost-effectiveness, Cloud-edge Privacy, and Trustworthiness",2025-10-14
+2510.10991,A Survey on Agentic Multimodal Large Language Models,2025-10-13
+2510.10182,A Survey of Inductive Reasoning for Large Language Models,2025-10-11
+2510.10161,Large Language Model Sourcing: A Survey,2025-10-11
+2510.09988,Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey,2025-10-11
+2510.09316,"A Survey of LLM Prompt Datasets: Taxonomy, Linguistic Patterns, and Practical Uses",2025-10-10
+2510.09721,A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System,2025-10-10
+2510.08049,A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models,2025-10-09
+2510.07793,LLM4Cell: A Survey of Large Language and Agentic Models for Single-Cell Biology,2025-10-09
+2510.07706,Large Language Models Meet Virtual Cell: A Survey,2025-10-09
+2510.09671,"Table Question Answering in the Era of Large Language Models: A Comprehensive Survey of Tasks, Methods, and Evaluation",2025-10-08
+2510.07037,Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models across Modalities,2025-10-08
+2510.06826,Mid-Training of Large Language Models: A Survey,2025-10-08
+2510.06445,"A Survey on Agentic Security: Applications, Threats and Defenses",2025-10-07
+2510.04905,Retrieval-Augmented Code Generation: A Survey with Focus on Repository-Level Approaches,2025-10-06
+2510.04023,"LLM-Based Data Science Agents: A Survey of Capabilities, Challenges, and Future Directions",2025-10-05
+2510.02665,Self-Improvement in Multimodal Large Language Models: A Survey,2025-10-03
+2510.01925,Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey,2025-10-02
+2510.01145,Automatic Speech Recognition (ASR) for African Low-Resource Languages: A Systematic Literature Review,2025-10-01
+2510.01048,Interpreting Language Models Through Concept Descriptions: A Survey,2025-10-01
+2510.05138,LiRA: A Multi-Agent Framework for Reliable and Readable Literature Review Generation,2025-10-01
+2510.05136,Linguistic Characteristics of AI-Generated Text: A Survey,2025-10-01
+2509.25477,"The Rise of AfricaNLP: A Survey of Contributions, Contributors, Community Impact, and Bibliometric Analysis",2025-09-29
+2509.24435,Alternatives To Next Token Prediction In Text Generation -- A Survey,2025-09-29
+2509.24322,Multimodal Large Language Models Meet Multimodal Emotion Recognition and Reasoning: A Survey,2025-09-29
+2509.23486,Text-Based Approaches to Item Difficulty Modeling in Large-Scale Assessments: A Systematic Review,2025-09-27
+2509.22123,"Multilingual Vision-Language Models, A Survey",2025-09-26
+2509.21631,Towards Transparent AI: A Survey on Explainable Language Models,2025-09-25
+2509.17240,Can Agents Judge Systematic Reviews Like Humans? Evaluating SLRs with LLM-based Multi-Agent System,2025-09-21
+2509.16679,Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle,2025-09-20
+2509.16599,Computational-Assisted Systematic Review and Meta-Analysis (CASMA): Effect of a Subclass of GnRH-a on Endometriosis Recurrence,2025-09-20
+2509.16325,"Overhearing LLM Agents: A Survey, Taxonomy, and Roadmap",2025-09-19
+2509.15896,The Psychology of Falsehood: A Human-Centric Survey of Misinformation Detection,2025-09-19
+2509.14515,From Turn-Taking to Synchronous Dialogue: A Survey of Full-Duplex Spoken Language Models,2025-09-18
+2509.14464,Not What the Doctor Ordered: Surveying LLM-based De-identification and Quantifying Clinical Information Loss,2025-09-17
+2509.11570,"Bhaasha, Bhasa, Zaban: A Survey for Low-Resourced Languages in South Asia -- Current Stage and Challenges",2025-09-15
+2509.19327,A systematic review of trial-matching pipelines using large language models,2025-09-13
+2509.10697,A Survey on Retrieval And Structuring Augmented Generation with Large Language Models,2025-09-12
+2509.10682,LLM in the Middle: A Systematic Review of Threats and Mitigations to Real-World LLM-based Systems,2025-09-12
+2509.09969,Large Language Models Meet Legal Artificial Intelligence: A Survey,2025-09-12
+2509.08827,A Survey of Reinforcement Learning for Large Reasoning Models,2025-09-10
+2509.08463,Adversarial Attacks Against Automated Fact-Checking: A Survey,2025-09-10
+2509.06733,Reinforcement Learning Foundations for Deep Research Systems: A Survey,2025-09-08
+2509.05719,Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models,2025-09-06
+2509.05716,A Survey of the State-of-the-Art in Conversational Question Answering Systems,2025-09-06
+2509.04605,"Spoken in Jest, Detected in Earnest: A Systematic Review of Sarcasm Recognition -- Multimodal Fusion, Challenges, and Future Prospects",2025-09-04
+2509.03871,A Comprehensive Survey on Trustworthiness in Reasoning with Large Language Models,2025-09-04
+2509.02547,The Landscape of Agentic Reinforcement Learning for LLMs: A Survey,2025-09-02
+2509.02350,Implicit Reasoning in Large Language Models: A Comprehensive Survey,2025-09-02
+2509.00496,ResearchQA: Evaluating Scholarly Question Answering at Scale Across 75 Fields with Survey-Mined Questions and Rubrics,2025-08-30
+2509.00290,Wage Sentiment Indices Derived from Survey Comments via Large Language Models,2025-08-30
+2508.21587,A Survey on Current Trends and Recent Advances in Text Anonymization,2025-08-29
+2508.21148,A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers,2025-08-28
+2508.20275,A Systematic Review on the Generative AI Applications in Human Medical Genomics,2025-08-27
+2508.19667,Survey of Specialized Large Language Model,2025-08-27
+2508.17692,LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios,2025-08-25
+2508.17184,Towards Alignment-Centric Paradigm: A Survey of Instruction Tuning in Large Language Models,2025-08-24
+2508.16982,Decoding Alignment: A Critical Survey of LLM Development Initiatives through Value-setting and Data-centric Lens,2025-08-23
+2508.15396,"Attribution, Citation, and Quotation: A Survey of Evidence-based Text Generation with Large Language Models",2025-08-21
+2508.15361,A Survey on Large Language Model Benchmarks,2025-08-21
+2508.16665,Trust but Verify! A Survey on Verification Design for Test-time Scaling,2025-08-20
+2508.13949,Query Logs Analytics: A Aystematic Literature Review,2025-08-19
+2508.15822,An Auditable Pipeline for Fuzzy Full-Text Screening in Systematic Reviews: Integrating Contrastive Semantic Highlighting and LLM Judgment,2025-08-17
+2508.12257,Structuring the Unstructured: A Systematic Review of Text-to-Structure Generation for Agentic AI with a Universal Evaluation Framework,2025-08-17
+2508.11828,A Survey of Idiom Datasets for Psycholinguistic and Computational Research,2025-08-15
+2508.11414,Survey-to-Behavior: Downstream Alignment of Human Values in LLMs via Survey Questions,2025-08-15
+2508.10875,A Survey on Diffusion Language Models,2025-08-14
+2508.10824,Memory-Augmented Transformers: A Systematic Review from Neuroscience Principles to Enhanced Model Architectures,2025-08-14
+2508.10955,Empowering Multimodal LLMs with External Tools: A Comprehensive Survey,2025-08-14
+2508.15804,ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks,2025-08-14
+2508.09878,A Survey of Cognitive Distortion Detection and Classification in NLP,2025-08-13
+2508.09834,Speed Always Wins: A Survey on Efficient Architectures for Large Language Models,2025-08-13
+2508.09516,"Cross-lingual Aspect-Based Sentiment Analysis: A Survey on Tasks, Approaches, and Challenges",2025-08-13
+2508.09016,A Survey on Training-free Alignment of Large Language Models,2025-08-12
+2508.08712,A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models,2025-08-12
+2508.08610,Optimizing Retrieval-Augmented Generation (RAG) for Colloquial Cantonese: A LoRA-Based Systematic Review,2025-08-12
+2508.07959,Large Language Models for Subjective Language Understanding: A Survey,2025-08-11
+2508.07407,A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems,2025-08-10
+2508.06401,"A Systematic Literature Review of Retrieval-Augmented Generation: Techniques, Metrics, and Challenges",2025-08-08
+2508.04638,Can NLP Tackle Hate Speech in the Real World? Stakeholder-Informed Feedback and Survey on Counterspeech,2025-08-06
+2508.04482,OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use,2025-08-06
+2508.04337,Modelling and Classifying the Components of a Literature Review,2025-08-06
+2508.02279,Dialogue Systems Engineering: A Survey and Future Directions,2025-08-04
+2508.05668,"A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges",2025-08-03
+2508.00669,Medical Reasoning in the Era of LLMs: A Systematic Review of Enhancement Techniques and Applications,2025-08-01
+2508.00534,Towards a unified framework for programming paradigms: A systematic review of classification formalisms and methodological foundations,2025-08-01
+2508.00217,Tabular Data Understanding with LLMs: A Survey of Recent Advances and Challenges,2025-07-31
+2508.00083,A Survey on Code Generation with LLM-based Agents,2025-07-31
+2507.20858,"A survey of diversity quantification in natural language processing: The why, what, where and how",2025-07-28
+2507.20783,On The Role of Pretrained Language Models in General-Purpose Text Embeddings: A Survey,2025-07-28
+2507.20419,Survey of NLU Benchmarks Diagnosing Linguistic Phenomena: Why not Standardize Diagnostics Benchmarks?,2025-07-27
+2507.18910,"A Systematic Review of Key Retrieval-Augmented Generation (RAG) Systems: Progress, Gaps, and Future Directions",2025-07-25
+2507.22934,Deep Learning Approaches for Multimodal Intent Recognition: A Survey,2025-07-24
+2507.22933,Augmented Vision-Language Models: A Systematic Review,2025-07-24
+2507.18451,Generation of Synthetic Clinical Text: A Systematic Review,2025-07-24
+2507.17718,AI Telephone Surveying: Automating Quantitative Data Collection with an AI Interviewer,2025-07-23
+2507.22920,Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey,2025-07-21
+2507.19521,Intent-Aware Schema Generation And Refinement For Literature Review Tables,2025-07-18
+2507.12126,Iterative Augmentation with Summarization Refinement (IASR) Evaluation for Unstructured Survey data Modeling and Analysis,2025-07-16
+2507.11936,A Survey of Deep Learning for Geometry Problem Solving,2025-07-16
+2507.09662,Towards Concise and Adaptive Thinking in Large Reasoning Models: A Survey,2025-07-13
+2507.09477,Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs,2025-07-13
+2507.08425,"A Survey of Large Language Models in Discipline-specific Research: Challenges, Methods and Opportunities",2025-07-11
+2507.07741,Code-Switching in End-to-End Automatic Speech Recognition: A Systematic Literature Review,2025-07-10
+2507.21108,A Survey of Classification Tasks and Approaches for Legal Contracts,2025-07-09
+2507.06203,A Survey on Latent Reasoning,2025-07-08
+2507.06085,A Survey on Prompt Tuning,2025-07-08
+2507.04793,"A Survey of Pun Generation: Datasets, Evaluations and Methodologies",2025-07-07
+2507.04469,The role of large language models in UI/UX design: A systematic literature review,2025-07-06
+2507.05288,A Survey on Proactive Defense Strategies Against Misinformation in Large Language Models,2025-07-05
+2507.01903,AI4Research: A Survey of Artificial Intelligence for Scientific Research,2025-07-02
+2507.12472,A Survey of AIOps in the Era of Large Language Models,2025-06-23
+2506.18199,Prompt Engineering Techniques for Mitigating Cultural Bias Against Arabs and Muslims in Large Language Models: A Systematic Review,2025-06-22
+2506.16383,Large Language Models in Argument Mining: A Survey,2025-06-19
+2506.16190,Web(er) of Hate: A Survey on How Hate Speech Is Typed,2025-06-19
+2506.15301,A Survey on LLM-Assisted Clinical Trial Recruitment,2025-06-18
+2506.14602,Computational Studies in Influencer Marketing: A Systematic Literature Review,2025-06-17
+2506.17294,From Multimodal Perception to Strategic Reasoning: A Survey on AI-Generated Game Commentary,2025-06-17
+2506.13199,Do Music Preferences Reflect Cultural Values? A Cross-National Analysis Using Music Embedding and World Values Survey,2025-06-16
+2506.10274,Discrete Audio Tokens: More Than a Survey!,2025-06-12
+2506.08800,Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents,2025-06-10
+2506.08446,A Survey on Large Language Models for Mathematical Reasoning,2025-06-10
+2506.08234,"Compound AI Systems Optimization: A Survey of Methods, Challenges, and Future Directions",2025-06-09
+2506.07583,Beyond the Sentence: A Survey on Context-Aware Machine Translation with Large Language Models,2025-06-09
+2506.07506,What Do Indonesians Really Need from Language Technology? A Nationwide Survey,2025-06-09
+2506.06708,A Survey of Retentive Network,2025-06-07
+2506.06540,Large Language Models Can Be a Viable Substitute for Expert Political Surveys When a Shock Disrupts Traditional Measurement Approaches,2025-06-06
+2506.11102,Evolutionary Perspectives on the Evaluation of LLM-Based AI Agents: A Comprehensive Survey,2025-06-06
+2506.10019,"A Survey of Automatic Evaluation Methods on Text, Visual and Speech Generations",2025-06-06
+2507.02870,Loki's Dance of Illusions: A Comprehensive Survey of Hallucination in Large Language Models,2025-06-06
+2506.05451,Interpretation Meets Safety: A Survey on Interpretation Methods and Tools for Improving LLM Safety,2025-06-05
+2506.04788,Towards LLM-Centric Multimodal Fusion: A Survey on Integration Strategies and Techniques,2025-06-05
+2506.04611,Revisiting Test-Time Scaling: A Survey and a Diversity-Aware Method for Efficient Reasoning,2025-06-05
+2506.04565,From Standalone LLMs to Integrated Intelligence: A Survey of Compound Al Systems,2025-06-05
+2506.04461,Behavioural vs. Representational Systematicity in End-to-End Models: An Opinionated Survey,2025-06-04
+2506.03659,Trustworthy Medical Question Answering: An Evaluation-Centric Survey,2025-06-04
+2506.03408,Trajectory Prediction Meets Large Language Models: A Survey,2025-06-03
+2506.02533,Machine Learning for Enhancing Deliberation in Online Political Discussions and Participatory Processes: A Survey,2025-06-03
+2506.01257,"DeepSeek in Healthcare: A Survey of Capabilities, Risks, and Clinical Applications of Open-Source Large Language Models",2025-06-02
+2505.24757,LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews,2025-05-30
+2505.24377,LLM Inference Enhanced by External Knowledge: A Survey,2025-05-30
+2506.10016,A Survey of Generative Categories and Techniques in Multimodal Generative Models,2025-05-29
+2505.22787,Can Large Language Models Match the Conclusions of Systematic Reviews?,2025-05-28
+2505.22327,"NLP for Social Good: A Survey and Outlook of Challenges, Opportunities, and Responsible Deployment",2025-05-28
+2505.21935,From Reasoning to Learning: A Survey on Hypothesis Discovery and Rule Learning with Large Language Models,2025-05-28
+2505.21907,Modeling and Optimizing User Preferences in AI Copilots: A Comprehensive Survey and Taxonomy,2025-05-28
+2505.21598,Rethinking Data Mixture for Large Language Models: A Comprehensive Survey and New Perspectives,2025-05-27
+2505.21116,Creativity in LLM-based Multi-Agent Systems: A Survey,2025-05-27
+2505.20511,"Multimodal Emotion Recognition in Conversations: A Survey of Methods, Trends, Challenges and Prospects",2025-05-26
+2505.20503,Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review,2025-05-26
+2505.20243,It's High Time: A Survey of Temporal Question Answering,2025-05-26
+2505.19806,"Exploring Consciousness in LLMs: A Systematic Survey of Theories, Implementations, and Frontier Risks",2025-05-26
+2505.19683,Large Language Models for Planning: A Comprehensive and Systematic Survey,2025-05-26
+2505.19240,LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large Language Models,2025-05-25
+2505.18845,Multi-Party Conversational Agents: A Survey,2025-05-24
+2505.18458,A Survey of LLM $\times$ DATA,2025-05-24
+2505.17642,A Survey on Stereotype Detection in Natural Language Processing,2025-05-23
+2505.16782,Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning,2025-05-22
+2505.16408,From Surveys to Narratives: Rethinking Cultural Value Adaptation in LLMs,2025-05-22
+2505.16094,A Survey of Large Language Models for Text-Guided Molecular Discovery: from Molecule Generation to Optimization,2025-05-22
+2505.15957,Towards Holistic Evaluation of Large Audio-Language Models: A Comprehensive Survey,2025-05-21
+2505.15556,A Survey on Multilingual Mental Disorders Detection from Social Media Data,2025-05-21
+2505.14393,Editing Across Languages: A Survey of Multilingual Knowledge Editing,2025-05-20
+2505.13259,From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery,2025-05-19
+2505.12970,A Structured Literature Review on Traditional Approaches in Current Natural Language Processing,2025-05-19
+2505.12543,Disambiguation in Conversational Question Answering in the Era of LLMs and Agents: A Survey,2025-05-18
+2505.11665,Multilingual Prompt Engineering in Large Language Models: A Survey Across NLP Tasks,2025-05-16
+2505.10975,Survey of End-to-End Multi-Speaker Automatic Speech Recognition for Monaural Audio,2025-05-16
+2505.10924,A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?,2025-05-16
+2505.09777,A Survey on Large Language Models in Multimodal Recommender Systems,2025-05-14
+2505.08464,"Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions",2025-05-13
+2505.08245,"Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement",2025-05-13
+2505.08137,Large Language Models for Computer-Aided Design: A Survey,2025-05-13
+2505.07775,Must Read: A Comprehensive Survey of Computational Persuasion,2025-05-12
+2505.07460,A Survey on Collaborative Mechanisms Between Large and Small Language Models,2025-05-12
+2505.07155,Reassessing Large Language Model Boolean Query Generation for Systematic Reviews,2025-05-12
+2505.04921,"Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models",2025-05-08
+2505.04531,Overcoming Data Scarcity in Generative Language Modelling for Low-Resource Languages: A Systematic Review,2025-05-07
+2505.03229,"Survey of Abstract Meaning Representation: Then, Now, Future",2025-05-06
+2505.02686,Sailing by the Stars: A Survey on Reward Models and Learning Strategies for Learning from Rewards,2025-05-05
+2505.02666,A Survey on Progress in LLM Alignment from the Perspective of Reward Design,2025-05-05
+2505.02309,Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques,2025-05-05
+2505.01658,A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency,2025-05-03
+2505.00976,Attack and defense techniques in large language models: A survey and new perspectives,2025-05-02
+2505.00551,100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models,2025-05-01
+2505.00753,LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey,2025-05-01
+2505.00049,"Humanizing LLMs: A Survey of Psychological Measurements with Tools, Datasets, and Human-Agent Applications",2025-04-30
+2504.20679,Are Information Retrieval Approaches Good at Harmonising Longitudinal Survey Questions in Social Science?,2025-04-29
+2504.21051,Multimodal Large Language Models for Medicine: A Comprehensive Survey,2025-04-29
+2504.20276,Enhancing Systematic Reviews with Large Language Models: Using GPT-4 and Kimi,2025-04-28
+2504.19720,Taming the Titans: A Survey of Efficient LLM Inference Serving,2025-04-28
+2506.11012,"A Survey of Task-Oriented Knowledge Graph Reasoning: Status, Applications, and Prospects",2025-04-27
+2504.19056,"Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions",2025-04-27
+2504.18838,Toward Generalizable Evaluation in the LLM Era: A Survey Beyond Benchmarks,2025-04-26
+2504.18346,Comparing Uncertainty Measurement and Mitigation Methods for Large Language Models: A Systematic Review,2025-04-25
+2504.17704,Safety in Large Reasoning Models: A Survey,2025-04-24
+2504.17119,The Rise of Small Language Models in Healthcare: A Comprehensive Survey,2025-04-23
+2504.16081,"Survey of Video Diffusion Models: Foundations, Implementations, and Applications",2025-04-22
+2504.15585,"A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment",2025-04-22
+2504.14891,Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey,2025-04-21
+2504.14822,Completing A Systematic Review in Hours instead of Months with Interactive AI Agents,2025-04-21
+2504.14117,PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models,2025-04-19
+2504.13685,Deep literature reviews: an application of fine-tuned language models to migration research,2025-04-17
+2504.10903,Efficient Reasoning Models: A Survey,2025-04-15
+2504.10284,arXiv2Table: Toward Realistic Benchmarking and Evaluation for LLM-Based Literature-Review Table Generation,2025-04-14
+2504.09848,"A Survey of Large Language Model-Powered Spatial Intelligence Across Scales: Advances in Embodied Agents, Smart Cities, and Earth Science",2025-04-14
+2504.12328,"A Comprehensive Survey of Reward Models: Taxonomy, Applications, Challenges, and Future",2025-04-12
+2504.09100,"A Short Survey on Small Reasoning Models: Training, Inference, Applications and Research Directions",2025-04-12
+2504.09037,"A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems",2025-04-12
+2504.08609,A Survey of Machine Learning Models and Datasets for the Multi-label Classification of Textual Hate Speech in English,2025-04-11
+2504.08528,On The Landscape of Spoken Language Models: A Comprehensive Survey,2025-04-11
+2504.08024,Summarizing Speech: A Comprehensive Survey,2025-04-10
+2504.07274,"Language Modeling for the Future of Finance: A Survey into Metrics, Tasks, and Data Opportunities",2025-04-09
+2504.07070,A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models,2025-04-09
+2504.10499,Graph-based Approaches and Functionalities in Retrieval-Augmented Generation: A Comprehensive Survey,2025-04-08
+2504.05496,A Survey on Hypothesis Generation for Scientific Discovery in the Era of Large Language Models,2025-04-07
+2504.04717,Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models,2025-04-07
+2504.03151,Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1),2025-04-04
+2504.02800,Survey and Experiments on Mental Disorder Detection via Social Media: From Large Language Models and RAG to Agents,2025-04-03
+2504.02917,Bias in Large Language Models Across Clinical Applications: A Systematic Review,2025-04-03
+2504.01919,Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation,2025-04-02
+2504.00977,Chinese Grammatical Error Correction: A Survey,2025-04-01
+2504.00125,LLMs for Explainable AI: A Comprehensive Survey,2025-03-31
+2503.24377,Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models,2025-03-31
+2503.24235,"A Survey on Test-Time Scaling in Large Language Models: What, How, Where, and How Well?",2025-03-31
+2503.23163,The realization of tones in spontaneous spoken Taiwan Mandarin: a corpus-based survey and theory-driven computational modeling,2025-03-29
+2503.23077,Efficient Inference for Large Reasoning Models: A Survey,2025-03-29
+2503.23037,"Agentic Large Language Models, a survey",2025-03-29
+2503.22458,Evaluating LLM-based Agents for Multi-Turn Conversations: A Survey,2025-03-28
+2504.13865,A Survey on (M)LLM-Based GUI Agents,2025-03-27
+2503.21614,"A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond",2025-03-27
+2503.21460,"Large Language Model Agent: A Survey on Methodology, Applications and Challenges",2025-03-27
+2503.22735,Training in translation tools and technologies: Findings of the EMT survey 2023,2025-03-26
+2504.08748,A Survey of Multimodal Retrieval-Augmented Generation,2025-03-26
+2503.19213,A Survey of Large Language Model Agents for Question Answering,2025-03-24
+2503.18888,Toward building next-generation Geocoding systems: a systematic review,2025-03-24
+2503.18095,Clarifying Misconceptions in COVID-19 Vaccine Sentiment and Stance Analysis and Their Implications for Vaccine Hesitancy Mitigation: A Systematic Review,2025-03-23
+2503.17003,A Survey on Personalized Alignment -- The Missing Piece for Large Language Models in Real-World Applications,2025-03-21
+2503.16419,Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models,2025-03-20
+2503.16416,Survey on Evaluation of LLM-based Agents,2025-03-20
+2503.16585,"Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions",2025-03-20
+2503.15850,Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey,2025-03-20
+2503.17403,ChatGPT or A Silent Everywhere Helper: A Survey of Large Language Models,2025-03-19
+2503.13857,Enabling Inclusive Systematic Reviews: Incorporating Preprint Articles with Large Language Model-Driven Evaluations,2025-03-18
+2503.13299,A Survey on Transformer Context Extension: Approaches and Evaluation,2025-03-17
+2503.16515,Highlighting Case Studies in LLM Literature Review of Interdisciplinary System Science,2025-03-16
+2503.11224,Technologies on Effectiveness and Efficiency: A Survey of State Spaces Models,2025-03-14
+2503.10814,Thinking Machines: A Survey of LLM based Reasoning Strategies,2025-03-13
+2503.13505,Ensemble Learning for Large Language Models in Text and Code Generation: A Survey,2025-03-13
+2504.01963,LLMs Working in Harmony: A Survey on the Technological Aspects of Building Effective LLM-Based Multi Agent Systems,2025-03-13
+2503.09701,Reassessing Active Learning Adoption in Contemporary NLP: A Community Survey,2025-03-12
+2503.09567,Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models,2025-03-12
+2503.08979,"Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions",2025-03-12
+2503.16498,"Llms, Virtual Users, and Bias: Predicting Any Survey Question Without Human Data",2025-03-11
+2503.10677,A Survey on Knowledge-Oriented Retrieval-Augmented Generation,2025-03-11
+2503.10665,Small Vision-Language Models: A Survey on Compact Architectures and Techniques,2025-03-09
+2503.06072,A Survey on Post-training of Large Language Models,2025-03-08
+2503.05992,Psycholinguistic Analyses in Software Engineering Text: A Systematic Literature Review,2025-03-08
+2503.05613,A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models,2025-03-07
+2503.04490,Large Language Models in Bioinformatics: A Survey,2025-03-06
+2503.04135,Biological Sequence with Language Model Prompting: A Survey,2025-03-06
+2503.02776,Implicit Bias in LLMs: A Survey,2025-03-04
+2503.01513,Evaluation and Facilitation of Online Discussions in the LLM Era: A Survey,2025-03-03
+2503.01424,From Hypothesis to Publication: A Comprehensive Survey of AI-Driven Research Support Systems,2025-03-03
+2503.01159,Large Language Models for Healthcare Text Classification: A Systematic Review,2025-03-03
+2503.00278,NeuroLit Navigator: A Neurosymbolic Approach to Scholarly Article Searches for Systematic Reviews,2025-03-01
+2503.00172,A Survey of Uncertainty Estimation Methods on Large Language Models,2025-02-28
+2503.05788,Emergent Abilities in Large Language Models: A Survey,2025-02-28
+2502.20478,Explainable AI for Clinical Outcome Prediction: A Survey of Clinician Perceptions and Preferences,2025-02-27
+2502.20140,Telephone Surveys Meet Conversational AI: Evaluating a LLM-Based Telephone Survey System at Scale,2025-02-27
+2502.19784,NaijaNLP: A Survey of Nigerian Low-Resource Languages,2025-02-27
+2502.19732,Speculative Decoding and Beyond: An In-Depth Survey of Techniques,2025-02-27
+2502.19548,When Large Language Models Meet Speech: A Survey on Integration Approaches,2025-02-26
+2502.19411,"Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs",2025-02-26
+2502.19008,Binary Neural Networks for Large Language Model: A Survey,2025-02-26
+2502.18969,(Mis)Fitting: A Survey of Scaling Laws,2025-02-26
+2502.18746,A Survey of Automatic Prompt Optimization with Instruction-focused Heuristic-based Search Algorithm,2025-02-26
+2502.18282,Better Aligned with Survey Respondents or Training Data? Unveiling Political Leanings of LLMs on U.S. Supreme Court Cases,2025-02-25
+2502.18036,Harnessing Multiple Large Language Models: A Survey on LLM Ensemble,2025-02-25
+2502.17364,Bridging Gaps in Natural Language Processing for Yorùbá: A Systematic Review of a Decade of Progress and Prospects,2025-02-24
+2502.16923,A Systematic Survey of Automatic Prompt Optimization Techniques,2025-02-24
+2503.00020,A Systematic Review of Open Datasets Used in Text-to-Image (T2I) Gen AI Model Safety,2025-02-23
+2503.01854,A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models,2025-02-22
+2502.17504,Protein Large Language Models: A Comprehensive Survey,2025-02-21
+2502.15871,A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare,2025-02-21
+2502.15652,Empowering LLMs with Logical Reasoning: A Comprehensive Survey,2025-02-21
+2502.14862,Interpretable Text Embeddings and Text Similarity Explanation: A Survey,2025-02-20
+2502.14425,A Survey on Data Contamination for Large Language Models,2025-02-20
+2502.14333,A Survey on Feedback-based Multi-step Reasoning for Large Language Models on Mathematics,2025-02-20
+2502.14321,Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems,2025-02-20
+2502.13012,Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents,2025-02-18
+2502.12965,Text Classification Under Class Distribution Shift: A Survey,2025-02-18
+2502.12598,Bring Your Own Knowledge: A Survey of Methods for LLM Knowledge Expansion,2025-02-18
+2502.12435,A Survey on Large Language Models for Automated Planning,2025-02-18
+2502.12289,Evaluating Step-by-step Reasoning Traces: A Survey,2025-02-17
+2502.12051,How to Upscale Neural Networks with Scaling Law? A Survey and Practical Guidelines,2025-02-17
+2502.11767,From Selection to Generation: A Survey of LLM-based Active Learning,2025-02-17
+2502.11508,"Chinese Spelling Correction: A Comprehensive Survey of Progress, Challenges, and Opportunities",2025-02-17
+2502.11221,PlanGenLLMs: A Modern Survey of LLM Planning Capabilities,2025-02-16
+2502.11211,A Survey of LLM-based Agents in Medicine: How far are we from Baymax?,2025-02-16
+2502.11095,A Survey of Large Language Models in Psychotherapy: Current Landscape and Future Directions,2025-02-16
+2502.10708,Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey,2025-02-15
+2502.09100,Logical Reasoning in Large Language Models: A Survey,2025-02-13
+2502.15573,A Survey of QUD Models for Discourse Processing,2025-02-13
+2502.08826,Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation,2025-02-12
+2502.08796,A Systematic Review on the Evaluation of Large Language Models in Theory of Mind Tasks,2025-02-12
+2502.10450,"Trustworthy AI: Safety, Bias, and Privacy -- A Survey",2025-02-11
+2502.07855,Vision-Language Models for Edge Networks: A Comprehensive Survey,2025-02-11
+2502.07541,Detecting Greenwashing: A Natural Language Processing Literature Survey,2025-02-11
+2502.06470,"A Survey of Theory of Mind in Large Language Models: Evaluations, Representations, and Safety Risks",2025-02-10
+2502.08660,A Systematic Survey of Semantic Role Labeling in the Era of Pretrained Language Models,2025-02-09
+2502.05568,Large Multimodal Models for Low-Resource Languages: A Survey,2025-02-08
+2502.06872,Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey,2025-02-08
+2502.05151,"Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation",2025-02-07
+2502.06851,Survey on Vision-Language-Action Models,2025-02-07
+2502.04022,Quantification of Biodiversity from Historical Survey Text with LLM-based Best-Worst Scaling,2025-02-06
+2502.03827,"A comprehensive survey of contemporary Arabic sentiment analysis: Methods, Challenges, and Future Directions",2025-02-06
+2502.01524,Efficiently Integrate Large Language Models with Visual Perception: A Survey from the Training Paradigm Perspective,2025-02-03
+2502.00837,Explainability in Practice: A Survey of Explainable NLP Across Various Domains,2025-02-02
+2502.00681,A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models,2025-02-02
+2502.05206,Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety,2025-02-02
+2502.00409,Doing More with Less: A Survey on Routing Strategies for Resource Optimisation in Large Language Model-Based Systems,2025-02-01
+2501.18845,"Text Data Augmentation for Large Language Models: A Comprehensive Survey of Methods, Challenges, and Opportunities",2025-01-31
+2501.17830,A Comprehensive Survey on Legal Summarization: Challenges and Future Directions,2025-01-29
+2501.16836,Misspellings in Natural Language Processing: A survey,2025-01-28
+2501.16112,Survey: Understand the challenges of MachineLearning Experts using Named EntityRecognition Tools,2025-01-27
+2501.17181,An AI-Driven Live Systematic Reviews in the Brain-Heart Interconnectome: Minimizing Research Waste and Advancing Evidence Synthesis,2025-01-25
+2501.13419,"A Survey of Code-switched Arabic NLP: Progress, Challenges, and Future Directions",2025-01-23
+2501.12557,Understanding the LLM-ification of CHI: Unpacking the Impact of LLMs at CHI through a Systematic Literature Review,2025-01-22
+2501.12011,Reference-free Evaluation Metrics for Text Generation: A Survey,2025-01-21
+2501.13958,A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models,2025-01-21
+2501.11632,"Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications",2025-01-20
+2501.13947,A Comprehensive Survey on Integrating Large Language Models with Knowledge-Based Methods,2025-01-19
+2501.10326,Large language models for automated scholarly paper review: A survey,2025-01-17
+2501.10319,Natural Language Processing of Privacy Policies: A Survey,2025-01-17
+2501.09959,A Survey on Multi-Turn Interaction Capabilities of Large Language Models,2025-01-17
+2501.09686,Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models,2025-01-16
+2501.09136,Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG,2025-01-15
+2501.08296,A Survey on Pedophile Attribution Techniques for Online Platforms,2025-01-14
+2501.07766,Large Language Models for Knowledge Graph Embedding: A Survey,2025-01-14
+2501.07670,A Survey of Early Exit Deep Neural Networks in NLP,2025-01-13
+2501.06932,Harnessing Large Language Models for Disaster Management: A Survey,2025-01-12
+2501.06557,A Survey on Spoken Italian Datasets and Corpora,2025-01-11
+2501.05714,"How to Enable Effective Cooperation Between Humans and NLP Models: A Survey of Principles, Formalizations, and Beyond",2025-01-10
+2501.05443,A survey of textual cyber abuse detection using cutting-edge language models and large language models,2025-01-09
+2502.15702,Large language models streamline automated systematic review: A preliminary study,2025-01-09
+2501.04306,LLM4SR: A Survey on Large Language Models for Scientific Research,2025-01-08
+2501.05468,LatteReview: A Multi-Agent Framework for Systematic Review Automation Using Large Language Models,2025-01-05
+2501.02497,A Survey of Test-Time Compute: From Intuitive Inference to Deliberate Reasoning,2025-01-05
+2501.02235,"Survey on Question Answering over Visually Rich Documents: Methods, Challenges, and Trends",2025-01-04
+2501.02189,"A Survey of State of the Art Large Vision Language Models: Alignment, Benchmark, Evaluations and Challenges",2025-01-04
+2501.04040,A Survey on Large Language Models with some Insights on their Capabilities and Limitations,2025-01-03
+2501.05465,Small Language Models (SLMs) Can Still Pack a Punch: A survey (updated 2026),2025-01-03
+2501.01030,Reasoning based on symbolic and parametric knowledge bases: a survey,2025-01-02
+2412.20367,Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey,2024-12-29
+2412.19994,From Generalist to Specialist: A Survey of Large Language Models for Chemistry,2024-12-28
+2412.18163,"Survey of Pseudonymization, Abstractive Summarization & Spell Checker for Hindi and Marathi",2024-12-24
+2412.17686,Large Language Model Safety: A Holistic Survey,2024-12-23
+2412.17558,A Survey of Query Optimization in Large Language Models,2024-12-23
+2412.17481,A Survey on LLM-based Multi-Agent System: Recent Advances and New Frontiers in Application,2024-12-23
+2412.17049,Modular Conversational Agents for Surveys and Interviews,2024-12-22
+2412.15360,Decade of Natural Language Processing in Chronic Pain: A Systematic Review,2024-12-19
+2412.15004,From Vulnerabilities to Remediation: A Systematic Literature Review of LLMs in Code Security,2024-12-19
+2412.14847,A Survey of RWKV,2024-12-19
+2412.14352,A Survey on LLM Inference-Time Self-Improvement,2024-12-18
+2412.14222,A Survey on Large Language Model-based Agents for Statistics and Data Science,2024-12-18
+2412.13612,"Large Language Models for Automated Literature Review: An Evaluation of Reference Generation, Abstract Writing, and Review Composition",2024-12-18
+2412.12767,A Survey of Calibration Process for Black-Box LLMs,2024-12-17
+2412.12472,Knowledge Boundary of Large Language Models: A Survey,2024-12-17
+2412.12456,"Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks",2024-12-17
+2412.11936,"A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges",2024-12-16
+2412.11694,From Specific-MLLMs to Omni-MLLMs: A Survey on MLLMs Aligned with Multi-modalities,2024-12-16
+2412.18619,Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey,2024-12-16
+2412.15249,"LitLLMs, LLMs for Literature Review: Are we there yet?",2024-12-15
+2412.15247,Streamlining Systematic Reviews: A Novel Application of Large Language Models,2024-12-14
+2412.09165,When Text Embedding Meets Large Language Model: A Comprehensive Survey,2024-12-12
+2412.08578,Machine Learning Information Retrieval and Summarisation to Support Systematic Review on Outcomes Based Contracting,2024-12-11
+2412.08291,Code LLMs: A Taxonomy-based Survey,2024-12-11
+2412.08158,How Vision-Language Tasks Benefit from Large Pre-trained Models: A Survey,2024-12-11
+2412.06602,Towards Controllable Speech Synthesis in the Era of Large Language Models: A Systematic Survey,2024-12-09
+2412.05579,LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods,2024-12-07
+2412.05563,"A Survey on Uncertainty Quantification of Large Language Models: Taxonomy, Open Research Challenges, and Future Directions",2024-12-07
+2412.10400,Reinforcement Learning Enhanced LLMs: A Survey,2024-12-05
+2412.03817,Detecting Redundant Health Survey Questions Using Language-agnostic BERT Sentence Embedding (LaBSE),2024-12-05
+2412.02980,"Surveying the Effects of Quality, Diversity, and Complexity in Synthetic Data From Large Language Models",2024-12-04
+2412.02142,Personalized Multimodal Large Language Models: A Survey,2024-12-03
+2412.04498,Large Language Models in Politics and Democracy: A Comprehensive Survey,2024-12-01
+2412.00425,Was that Sarcasm?: A Literature Survey on Sarcasm Detection,2024-11-30
+2412.00323,Cognitive Biases in Large Language Models: A Survey and Mitigation Experiments,2024-11-30
+2412.00230,"Clinical Document Corpora -- Real Ones, Translated and Synthetic Substitutes, and Assorted Domain Proxies: A Survey of Diversity in Corpus Design, with Focus on German Text Data",2024-11-29
+2411.19017,A Survey on Automatic Online Hate Speech Detection in Low-Resource Languages,2024-11-28
+2411.18583,Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation,2024-11-27
+2411.18279,Large Language Model-Brained GUI Agents: A Survey,2024-11-27
+2411.18157,A survey on cutting-edge relation extraction techniques based on language models,2024-11-27
+2411.17558,Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey,2024-11-26
+2411.16613,Recent Trends in Linear Text Segmentation: a Survey,2024-11-25
+2411.16403,Adapter-based Approaches to Knowledge-enhanced Language Models -- A Survey,2024-11-25
+2411.15594,A Survey on LLM-as-a-Judge,2024-11-23
+2411.15296,MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs,2024-11-22
+2411.14499,Understanding World or Predicting Future? A Comprehensive Survey of World Models,2024-11-21
+2411.14493,From Statistical Methods to Pre-Trained Models; A Survey on Automatic Speech Recognition for Resource Scarce Urdu Language,2024-11-20
+2411.13157,Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding,2024-11-20
+2411.14472,Exploring the Potential Role of Generative AI in the TRAPD Procedure for Survey Translation,2024-11-18
+2411.14463,Leveraging AI and NLP for Bank Marketing: A Systematic Review and Gap Analysis,2024-11-17
+2411.10298,Topological Data Analysis Applications in Natural Language Processing: A Survey,2024-11-15
+2411.09937,Refined and Segmented Price Sentiment Indices from Survey Comments,2024-11-15
+2411.13577,WavChat: A Survey of Spoken Dialogue Models,2024-11-15
+2411.09539,Fine-tuning Large Language Models with Limited Data: A Survey and Practical Guide,2024-11-14
+2411.09497,The Use of Readability Metrics in Legal Text: A Systematic Literature Review,2024-11-14
+2411.09259,Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey,2024-11-14
+2411.09166,Unstructured Text Enhanced Open-domain Dialogue System: A Systematic Survey,2024-11-14
+2411.14453,Direct Speech-to-Speech Neural Machine Translation: A Survey,2024-11-13
+2411.10477,A Survey on Importance of Homophones Spelling Correction Model for Khmer Authors,2024-11-11
+2411.06837,"Persuasion with Large Language Models: A Survey of Empirical Evidence, Study Methodologies, and Ethical Implications",2024-11-11
+2411.06159,Mixture of Knowledge Minigraph Agents for Literature Review Generation,2024-11-09
+2411.05902,Autoregressive Models in Vision: A Survey,2024-11-08
+2411.04585,The State and Fate of Summarization Datasets: A Survey,2024-11-07
+2411.02018,Shortcut Learning in In-Context Learning: A Survey,2024-11-04
+2411.03350,"A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness",2024-11-04
+2411.00860,Survey of Cultural Awareness in Language Models: Text and Beyond,2024-10-30
+2411.05025,LLMs as Research Tools: A Large Scale Survey of Researchers' Usage and Perceptions,2024-10-30
+2411.00027,Personalization of Large Language Models: A Survey,2024-10-29
+2410.22370,Survey of User Interface Design and Interaction Techniques in Generative AI Applications,2024-10-28
+2410.21360,A Survey on Automatic Credibility Assessment Using Textual Credibility Signals in the Era of Large Language Models,2024-10-28
+2410.20695,Combining Domain-Specific Models and LLMs for Automated Disease Phenotyping from Survey Data,2024-10-28
+2410.20011,A Survey of Small Language Models,2024-10-25
+2410.21306,"Natural Language Processing for the Legal Domain: A Survey of Tasks, Datasets, Models, and Challenges",2024-10-25
+2410.18966,Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions,2024-10-24
+2410.18882,A Survey of Multimodal Sarcasm Detection,2024-10-24
+2410.19878,Parameter-Efficient Fine-Tuning in Large Models: A Survey of Methodologies,2024-10-24
+2410.18670,Health Misinformation in Social Networks: A Survey of IT Approaches,2024-10-24
+2410.18529,"Instructional Text Across Disciplines: A Survey of Representations, Downstream Tasks, and Open Challenges Toward Capable AI Agents",2024-10-24
+2410.18390,Monolingual and Multilingual Misinformation Detection for Low-Resource Languages: A Comprehensive Survey,2024-10-24
+2410.17532,"Responsible Multilingual Large Language Models: A Survey of Development, Applications, and Societal Impact",2024-10-23
+2410.16498,Natural Language Processing for Human Resources: A Survey,2024-10-21
+2410.16392,Scaffolded Language Models with Language Supervision for Mixed-Autonomy: A Survey,2024-10-21
+2410.16204,Machine Learning Approaches for Mental Illness Detection on Social Media: A Systematic Review of Biases and Methodological Challenges,2024-10-21
+2410.15595,"A Comprehensive Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications",2024-10-21
+2410.15576,A Survey of Conversational Search,2024-10-21
+2410.15326,A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice,2024-10-20
+2410.15144,A survey of neural-network-based methods utilising comparable data for finding translation equivalents,2024-10-19
+2410.15019,A Survey of Ontology Expansion for Conversational Understanding,2024-10-19
+2410.14677,Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts,2024-10-18
+2410.12896,A Survey on Data Synthesis and Augmentation for Large Language Models,2024-10-16
+2410.12388,Prompt Compression for Large Language Models: A Survey,2024-10-16
+2410.14733,Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties,2024-10-16
+2410.11381,Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations,2024-10-15
+2410.11123,A Systematic Review on Prompt Engineering in Large Language Models for K-12 STEM Education,2024-10-14
+2410.09948,State of NLP in Kenya: A Survey,2024-10-13
+2410.09399,Text Classification using Graph Convolutional Networks: A Comprehensive Survey,2024-10-12
+2410.14716,A Systematic Survey on Large Language Models for Algorithm Design,2024-10-11
+2410.12843,Exploring Prompt Engineering: A Systematic Review with SWOT Analysis,2024-10-09
+2410.03105,Mamba in Vision: A Comprehensive Survey of Techniques and Applications,2024-10-04
+2410.12837,"A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions",2024-10-03
+2410.02650,Undesirable Memorization in Large Language Models: A Survey,2024-10-03
+2410.03751,Recent Advances in Speech Language Models: A Survey,2024-10-01
+2409.20204,Divided by discipline? A systematic literature review on the quantification of online sexism and misogyny using a semi-automated approach,2024-09-30
+2409.19737,"A Systematic Review of NLP for Dementia -- Tasks, Datasets and Opportunities",2024-09-29
+2409.18786,A Survey on the Honesty of Large Language Models,2024-09-27
+2409.18538,A Survey on Complex Tasks for Goal-Directed Interactive Agents,2024-09-27
+2409.17467,What is the social benefit of hate speech detection research? A Systematic Review,2024-09-26
+2409.16694,"A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms",2024-09-25
+2409.15790,"Small Language Models: Survey, Measurements, and Insights",2024-09-24
+2409.15690,A Survey of Stance Detection on Social Media: New Directions and Perspectives,2024-09-24
+2409.14924,Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely,2024-09-23
+2409.14195,"The Imperative of Conversation Analysis in the Era of LLMs: A Survey of Tasks, Techniques, and Trends",2024-09-21
+2409.14165,A Survey on Large Language Model-empowered Autonomous Driving,2024-09-21
+2409.13594,"Cross-Target Stance Detection: A Survey of Techniques, Datasets, and Challenges",2024-09-20
+2409.13521,A Survey on Moral Foundation Theory and Pre-Trained Language Models: Current Advances and Challenges,2024-09-20
+2409.13385,Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey,2024-09-20
+2409.18996,From Linguistic Giants to Sensory Maestros: A Survey on Cross-Modal Reasoning with Large Language Models,2024-09-19
+2409.11564,"Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey",2024-09-17
+2409.18991,Surveying the MLLM Landscape: A Meta-Review of Current Surveys,2024-09-17
+2409.16317,A Literature Review of Keyword Spotting Technologies for Urdu,2024-09-16
+2409.10102,Trustworthiness in Retrieval-Augmented Generation Systems: A Survey,2024-09-16
+2409.09822,Causal Inference with Large Language Model: A Survey,2024-09-15
+2409.09030,"Agents in Software Engineering: Survey, Landscape, and Vision",2024-09-13
+2409.06857,What is the Role of Small Models in the LLM Era: A Survey,2024-09-10
+2409.13738,"NLP4PBM: A Systematic Review on Process Extraction using Natural Language Processing with Rule-based, Machine and Deep Learning Methods",2024-09-10
+2409.04833,Achieving Peak Performance for Large Language Models: A Systematic Review,2024-09-07
+2409.03752,Attention Heads of Large Language Models: A Survey,2024-09-05
+2409.02795,Towards a Unified View of Preference Learning for Large Language Models: A Survey,2024-09-04
+2409.02645,Emergent Language: A Survey and Taxonomy,2024-09-04
+2409.01806,LASP: Surveying the State-of-the-Art in Large Language Model-Assisted AI Planning,2024-09-03
+2409.00265,"Explainable Artificial Intelligence: A Survey of Needs, Techniques, Applications, and Future Direction",2024-08-30
+2409.00133,A Survey for Large Language Models in Biomedicine,2024-08-29
+2408.15769,A Survey on Evaluation of Multimodal Large Language Models,2024-08-28
+2408.15040,A Survey of Large Language Models for European Languages,2024-08-27
+2408.14825,"From Rule-Based Models to Deep Learning Transformers Architectures for Natural Language Processing and Sign Language Translation Systems: Survey, Taxonomy and Performance Evaluation",2024-08-27
+2408.14622,What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation,2024-08-26
+2408.14340,Foundation Models for Music: A Survey,2024-08-26
+2408.14317,Claim Verification in the Age of Large Language Models: A Survey,2024-08-26
+2408.14496,A New Era in Computational Pathology: A Survey on Foundation and Vision-Language Models,2024-08-23
+2408.12599,Controllable Text Generation for Large Language Models: A Survey,2024-08-22
+2408.10962,NLP for The Greek Language: A Longer Survey,2024-08-20
+2408.10548,"Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution",2024-08-20
+2408.09169,Automatic Metrics in Natural Language Generation: A Survey of Current Evaluation Practices,2024-08-17
+2408.08632,A Survey on Benchmarks of Multimodal Large Language Models,2024-08-16
+2408.08921,Graph Retrieval-Augmented Generation: A Survey,2024-08-15
+2408.07583,Transformers and Large Language Models for Efficient Intrusion Detection Systems: A Comprehensive Survey,2024-08-14
+2408.07057,A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning,2024-08-13
+2408.05212,Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions,2024-08-10
+2408.04909,"Surveying the Landscape of Image Captioning Evaluation: A Comprehensive Taxonomy, Trends and Metrics Analysis",2024-08-09
+2408.04723,Survey: Transformer-based Models in Data Modality Conversion,2024-08-08
+2408.02479,"From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future",2024-08-05
+2408.02114,Recent Advances in Multi-Choice Machine Reading Comprehension: A Survey on Methods and Datasets,2024-08-04
+2408.02085,Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models,2024-08-04
+2408.04646,Efficacy of Large Language Models in Systematic Reviews,2024-08-03
+2408.01287,Deep Learning based Visually Rich Document Content Understanding: A Survey,2024-08-02
+2408.04643,"Risks, Causes, and Mitigations of Widespread Deployments of Large Language Models (LLMs): A Survey",2024-08-01
+2407.20556,Survey of Design Paradigms for Social Robots,2024-07-30
+2407.20516,Machine Unlearning in Generative AI: A Survey,2024-07-30
+2408.06361,Large Language Model Agent in Financial Trading: A Survey,2024-07-26
+2407.18418,Know Your Limits: A Survey of Abstention in Large Language Models,2024-07-25
+2407.17844,Innovative Speech-Based Deep Learning Approaches for Parkinson's Disease Classification: A Systematic Review,2024-07-25
+2407.17081,A Survey Forest Diagram : Gain a Divergent Insight View on a Specific Research Topic,2024-07-24
+2407.16737,A Survey of Text Style Transfer: Applications and Ethical Implications,2024-07-23
+2408.06345,Deep Learning based Key Information Extraction from Business Documents: Systematic Literature Review,2024-07-23
+2407.16216,Reinforcement Learning for LLM Post-Training: A Survey,2024-07-23
+2407.16148,CHIME: LLM-Assisted Hierarchical Organization of Scientific Studies for Literature Review Support,2024-07-23
+2407.15017,Knowledge Mechanisms in Large Language Models: A Survey and Perspective,2024-07-22
+2407.15186,A Survey on Employing Large Language Models for Text-to-SQL Tasks,2024-07-21
+2407.14727,Economy Watchers Survey Provides Datasets and Tasks for Japanese Financial Domain,2024-07-20
+2407.14507,Internal Consistency and Self-Feedback in Large Language Models: A Survey,2024-07-19
+2407.13205,Transformer-based Single-Cell Language Model: A Survey,2024-07-18
+2407.13193,Retrieval-Augmented Generation for Natural Language Processing: A Survey,2024-07-18
+2407.12994,A Survey of Prompt Engineering Methods in Large Language Models for Different NLP Tasks,2024-07-17
+2407.11511,"Multi-Step Reasoning with Large Language Models, a Survey",2024-07-16
+2407.11484,The Oscars of AI Theater: A Survey on Role-Playing with Language Models,2024-07-16
+2407.11100,Building Intelligence Identification System via Large Language Model Watermarking: A Survey and Beyond,2024-07-15
+2408.10210,A Survey on Symbolic Knowledge Distillation of Large Language Models,2024-07-12
+2407.07035,Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models,2024-07-09
+2407.06089,"Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models",2024-07-08
+2407.11046,A Survey on LoRA of Large Language Models,2024-07-08
+2407.17505,Survey on biomarkers in human vocalizations,2024-07-07
+2407.18369,AI Safety in Generative AI Large Language Models: A Survey,2024-07-06
+2407.04295,Jailbreak Attacks and Defenses Against Large Language Models: A Survey,2024-07-05
+2407.04069,"A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations",2024-07-04
+2407.03993,A Survey on Natural Language Counterfactual Generation,2024-07-04
+2407.02351,Generative Large Language Models in Automated Fact-Checking: A Survey,2024-07-02
+2407.01885,"Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application",2024-07-02
+2407.00936,Large Language Model Enhanced Knowledge Representation Learning: A Survey,2024-07-01
+2407.00418,eFontes. Part of Speech Tagging and Lemmatization of Medieval Latin Texts.A Cross-Genre Survey,2024-06-29
+2407.12814,Computational Politeness in Natural Language Processing: A Survey,2024-06-28
+2407.06204,A Survey on Mixture of Experts in Large Language Models,2024-06-26
+2407.01599,"JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models",2024-06-26
+2406.16674,Computational Approaches to the Detection of Lesser-Known Rhetorical Figures: A Systematic Survey and Research Challenges,2024-06-24
+2406.16527,SyROCCo: Enhancing Systematic Reviews using Machine Learning,2024-06-24
+2406.14644,Unveiling the Spectrum of Data Contamination in Language Models: A Survey from Detection to Remediation,2024-06-20
+2406.14191,Temporal Knowledge Graph Question Answering: A Survey,2024-06-20
+2406.12252,Language and Multimodal Models in Sports: A Survey of Datasets and Applications,2024-06-18
+2406.16937,A Complete Survey on LLM-based AI Chatbots,2024-06-17
+2406.11289,A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models,2024-06-17
+2406.11191,A Survey on Human Preference Learning for Large Language Models,2024-06-17
+2406.10885,"On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions",2024-06-16
+2406.10833,A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery,2024-06-16
+2406.09831,"Recent Advances in Federated Learning Driven Large Language Models: A Survey on Architecture, Performance, and Security",2024-06-14
+2406.15126,"On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey",2024-06-14
+2406.09520,A Systematic Review of Generative AI for Teaching and Learning Practice,2024-06-13
+2406.10294,RelevAI-Reviewer: A Benchmark on AI Reviewers for Survey Paper Relevance,2024-06-13
+2406.08426,Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL,2024-06-12
+2406.08068,Large Language Models Meet Text-Centric Multimodal Sentiment Analysis: A Survey,2024-06-12
+2406.07494,CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization,2024-06-11
+2406.06852,A Survey of Recent Backdoor Attacks and Defenses in Large Language Models,2024-06-10
+2406.06391,Towards Lifelong Learning of Large Language Models: A Survey,2024-06-10
+2406.05615,"Video-Language Understanding: A Survey from Model Architecture, Model Training, and Data Perspectives",2024-06-09
+2406.05424,Recent advancements in computational morphology : A comprehensive survey,2024-06-08
+2406.05392,Deconstructing The Ethics of Large Language Models from Long-standing Issues to New-emerging Dilemmas: A Survey,2024-06-08
+2406.06608,The Prompt Report: A Systematic Survey of Prompt Engineering Techniques,2024-06-06
+2406.04244,Benchmark Data Contamination of Large Language Models: A Survey,2024-06-06
+2406.03930,Culturally Aware and Adapted NLP: A Taxonomy and a Survey of the State of the Art,2024-06-06
+2406.03712,"A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions",2024-06-06
+2406.01297,When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs,2024-06-03
+2406.01252,Towards Scalable Automated Alignment of LLMs: A Survey,2024-06-03
+2406.01197,A Survey of Generative Information Retrieval,2024-06-03
+2406.01171,Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization,2024-06-03
+2406.00936,A Survey of Useful LLM Evaluation,2024-06-03
+2406.00515,A Survey on Large Language Models for Code Generation,2024-06-01
+2406.00252,Towards Rationality in Language and Multimodal Agents: A Survey,2024-06-01
+2406.00240,Exploring Vulnerabilities and Protections in Large Language Models: A Survey,2024-06-01
+2405.20354,Efficient Systematic Reviews: Literature Filtering with Transformers & Transfer Learning,2024-05-30
+2405.19334,LLMs Meet Multimodal Generation and Editing: A Survey,2024-05-29
+2405.18653,Recent Advances of Foundation Language Models-based Continual Learning: A Survey,2024-05-28
+2405.17935,Tool Learning with Large Language Models: A Survey,2024-05-28
+2405.16682,A Systematic Review of Federated Generative Models,2024-05-26
+2405.16640,A Survey of Multimodal Large Language Model from A Data-centric Perspective,2024-05-26
+2405.15604,"Text Generation: A Systematic Literature Review of Tasks, Evaluation, and Challenges",2024-05-24
+2405.14445,Exploring the use of a Large Language Model for data extraction in systematic reviews: a rapid feasibility study,2024-05-23
+2405.14093,A Survey on Vision-Language-Action Models for Embodied AI,2024-05-23
+2405.13245,A Survey of Robotic Language Grounding: Tradeoffs between Symbols and Embeddings,2024-05-21
+2405.12819,Large Language Models Meet NLP: A Survey,2024-05-21
+2405.12669,"A Survey on Multi-modal Machine Translation: Tasks, Methods and Challenges",2024-05-21
+2405.11817,Systematic Review on Healthcare Systems Engineering utilizing ChatGPT,2024-05-20
+2405.13055,Large Language Models for Medicine: A Survey,2024-05-20
+2405.11029,Generative Artificial Intelligence: A Systematic Review and Applications,2024-05-17
+2405.10936,A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers,2024-05-17
+2405.10630,"Medical Dialogue: A Survey of Categories, Methods, Evaluation and Challenges",2024-05-17
+2406.16893,A Survey of Transformer-based Language Models with Focus on Efficiency,2024-05-15
+2405.09589,"A Comprehensive Survey of Hallucination in Large Language, Image, Video and Audio Foundation Models",2024-05-15
+2405.13019,A Comprehensive Survey of Accelerated Generation Techniques in Large Language Models,2024-05-15
+2405.08562,The Unseen Targets of Hate -- A Systematic Review of Hateful Communication Datasets,2024-05-14
+2405.07468,Evaluating large language models in medical applications: a survey,2024-05-13
+2405.07437,Evaluation of Retrieval-Augmented Generation: A Survey,2024-05-13
+2405.13003,A Survey on Recent Advances in Conversational Data Generation,2024-05-12
+2405.13001,Large Language Models for Education: A Survey,2024-05-12
+2406.16891,Survey on Reasoning Capabilities and Accessibility of Large Language Models Using Biology-related Questions,2024-05-11
+2405.06211,A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models,2024-05-10
+2405.04404,Vision Mamba: A Comprehensive Survey and Taxonomy,2024-05-07
+2405.02559,A Framework for Human Evaluation of Large Language Models in Healthcare Derived from Literature Review,2024-05-04
+2405.01976,Conformal Prediction for Natural Language Processing: A Survey,2024-05-03
+2405.01769,"A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law",2024-05-02
+2404.19543,RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing,2024-04-30
+2404.16924,A Survey of Generative Search and Recommendation in the Era of Large Language Models,2024-04-25
+2404.16921,A Short Survey of Human Mobility Prediction in Epidemic Modeling from Transformers to LLMs,2024-04-25
+2404.16789,Continual Learning of Large Language Models: A Comprehensive Survey,2024-04-25
+2405.00711,"Fake Artificial Intelligence Generated Contents (FAIGC): A Survey of Theories, Detection Methods, and Opportunities",2024-04-25
+2404.16226,Computational analysis of the language of pain: a systematic review,2024-04-24
+2404.15777,A Comprehensive Survey on Evaluating Large Language Model Applications in the Medical Industry,2024-04-24
+2404.15676,Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs,2024-04-24
+2404.15667,The Promise and Challenges of Using LLMs to Accelerate the Screening Process of Systematic Reviews,2024-04-24
+2404.14897,Beyond the Speculative Game: A Survey of Speculative Execution in Large Language Models,2024-04-23
+2404.14851,From Matching to Generation: A Survey on Generative Information Retrieval,2024-04-23
+2404.14809,"A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications",2024-04-23
+2404.14387,A Survey on Self-Evolution of Large Language Models,2024-04-22
+2404.14294,A Survey on Efficient Inference for Large Language Models,2024-04-22
+2404.13885,Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals,2024-04-22
+2404.11588,Related Work and Citation Text Generation: A Survey,2024-04-17
+2404.11584,"The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey",2024-04-17
+2404.10981,A Survey on Retrieval-Augmented Text Generation for Large Language Models,2024-04-17
+2404.13074,Towards Compositionally Generalizable Semantic Parsing in Large Language Models: A Survey,2024-04-15
+2404.09516,State Space Model for New-Generation Network Alternative to Transformers: A Survey,2024-04-15
+2404.06364,SurveyAgent: A Conversational System for Personalized and Efficient Research Survey,2024-04-09
+2404.06228,Understanding Cross-Lingual Alignment -- A Survey,2024-04-09
+2404.06001,Privacy Preserving Prompt Engineering: A Survey,2024-04-09
+2404.05783,A Survey on Responsible Generative AI: What to Generate and What Not,2024-04-08
+2404.05399,SafetyPrompts: a Systematic Review of Open Datasets for Evaluating and Improving Large Language Model Safety,2024-04-08
+2404.04925,"Multilingual Large Language Model: A Survey of Resources, Taxonomy and Frontiers",2024-04-07
+2404.03021,Blessing or curse? A survey on the Impact of Generative AI on Fake News,2024-04-03
+2404.01869,Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models -- A Survey,2024-04-02
+2404.01230,LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models,2024-04-01
+2404.01077,Efficient Prompting Methods for Large Language Models: A Survey,2024-04-01
+2404.00938,How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey,2024-04-01
+2404.00929,"A Survey on Multilingual Large Language Models: Corpora, Alignment, and Bias",2024-04-01
+2404.00699,A Comprehensive Survey of Contamination Detection Methods in Large Language Models,2024-03-31
+2404.00629,Against The Achilles' Heel: A Survey on Red Teaming for Generative Models,2024-03-31
+2404.00282,"Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods",2024-03-30
+2404.00227,A Survey of using Large Language Models for Generating Infrastructure as Code,2024-03-30
+2403.20103,NLP for Counterspeech against Hate: A Survey and How-To Guide,2024-03-29
+2403.18969,A Survey on Large Language Models from Concept to Implementation,2024-03-27
+2403.18609,A survey on learning models of spiking neural membrane systems and spiking neural networks,2024-03-27
+2403.18105,Large Language Models for Education: A Survey and Outlook,2024-03-26
+2403.16139,A Little Leak Will Sink a Great Ship: Survey of Transparency for Large Language Models from Start to Finish,2024-03-24
+2403.16129,A Survey on Lexical Ambiguity Detection and Word Sense Disambiguation,2024-03-24
+2403.14469,ChatGPT Alternative Solutions: Large Language Models Survey,2024-03-21
+2403.14734,"A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond",2024-03-21
+2403.14118,From Handcrafted Features to LLMs: A Brief Survey for Machine Translation Quality Estimation,2024-03-21
+2403.13368,Computational Models to Study Language Processing in the Human Brain: A Survey,2024-03-20
+2403.12027,From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models,2024-03-18
+2403.15452,What Are Tools Anyway? A Survey from the Language Model Perspective,2024-03-18
+2403.09997,Identifying Health Risks from Family History: A Survey of Natural Language Processing Techniques,2024-03-15
+2403.09743,The Human Factor in Detecting Errors of Large Language Models: A Systematic Literature Review and Future Research Directions,2024-03-13
+2403.07279,A Survey of Explainable Knowledge Tracing,2024-03-12
+2403.04931,A Survey on Human-AI Collaboration with Large Foundation Models,2024-03-07
+2403.13830,Bridging Text and Molecule: A Survey on Multimodal Frameworks for Molecule,2024-03-07
+2403.15412,"Towards Measuring and Modeling ""Culture"" in LLMs: A Survey",2024-03-05
+2403.01921,Arabic Text Sentiment Analysis: Reinforcing Human-Performed Surveys with Wider Topic Analysis,2024-03-04
+2403.01528,Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey,2024-03-03
+2403.04786,Breaking Down the Defenses: A Comparative Survey of Attacks on Large Language Models,2024-03-03
+2403.04782,A Survey on Temporal Knowledge Graph: Representation Learning and Applications,2024-03-02
+2403.01152,"A Survey of AI-generated Text Forensic Systems: Detection, Attribution, and Characterization",2024-03-02
+2403.00509,Surveying the Dead Minds: Historical-Psychological Text Analysis with Contextualized Construct Representation (CCR) for Classical Chinese,2024-03-01
+2402.19088,Survey in Characterizing Semantic Change,2024-02-29
+2402.18659,Large Language Models and Games: A Survey and Roadmap,2024-02-28
+2402.18267,"A Survey on Neural Question Generation: Methods, Applications, and Prospects",2024-02-28
+2402.18013,A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems,2024-02-28
+2402.17944,"Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding -- A Survey",2024-02-27
+2402.16827,A Survey on Data Selection for Language Models,2024-02-26
+2402.16363,LLM Inference Unveiled: Survey and Roofline Model Insights,2024-02-26
+2402.15116,Large Multimodal Agents: A Survey,2024-02-23
+2402.14558,LLMs with Industrial Lens: Deciphering the Challenges and Prospects -- A Survey,2024-02-22
+2402.13446,Large Language Models for Data Annotation and Synthesis: A Survey,2024-02-21
+2404.07214,Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions,2024-02-20
+2402.13116,A Survey on Knowledge Distillation of Large Language Models,2024-02-20
+2402.12880,Autism Detection in Speech -- A Survey,2024-02-20
+2402.12451,The Revolution of Multimodal Large Language Models: A Survey,2024-02-19
+2403.15401,Large Language Model for Mental Health: A Systematic Review,2024-02-19
+2402.11968,What Do Dialect Speakers Want? A Survey of Attitudes Towards Language Technology for German Dialects,2024-02-19
+2403.00784,"Utilizing BERT for Information Retrieval: Survey, Applications, Resources, and Challenges",2024-02-18
+2402.11291,Puzzle Solving using Reasoning of Large Language Models: A Survey,2024-02-17
+2402.10409,Understanding Survey Paper Taxonomy about Large Language Models via Graph Representation Learning,2024-02-16
+2402.09748,Model Compression and Efficient Inference for Large Language Models: A Survey,2024-02-15
+2402.09283,"Attacks, Defenses and Evaluations for LLM Conversation Safety: A Survey",2024-02-14
+2402.08496,A Systematic Review of Data-to-Text NLG,2024-02-13
+2402.08259,A Survey of Table Reasoning with Large Language Models,2024-02-13
+2402.06853,"History, Development, and Principles of Large Language Models-An Introductory Survey",2024-02-10
+2402.06196,Large Language Models: A Survey,2024-02-09
+2402.05617,Deep Learning-based Computational Job Market Analysis: A Survey on Skill Extraction and Classification from Job Postings,2024-02-08
+2402.04854,Hierarchical Tree-structured Knowledge Graph For Academic Insight Survey,2024-02-07
+2402.07927,A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications,2024-02-05
+2402.05964,A Survey on Transformer Compression,2024-02-05
+2402.02716,Understanding the planning of LLM agents: A survey,2024-02-05
+2402.05123,A Survey on Data Selection for LLM Instruction Tuning,2024-02-04
+2402.02420,Factuality of Large Language Models: A Survey,2024-02-04
+2402.05952,Advancing Graph Representation Learning with Large Language Models: A Comprehensive Survey of Techniques,2024-02-04
+2402.02315,A Survey of Large Language Models in Finance (FinLLMs),2024-02-04
+2402.05121,Large Language Model for Table Processing: A Survey,2024-02-04
+2402.02244,Beyond the Limits: A Survey of Techniques to Extend the Context Length in Large Language Models,2024-02-03
+2402.02212,A Survey to Recent Progress Towards Understanding In-Context Learning,2024-02-03
+2402.01512,"Distractor Generation in Multiple-Choice Tasks: A Survey of Methods, Datasets, and Evaluation",2024-02-02
+2402.01364,Continual Learning for Large Language Models: A Survey,2024-02-02
+2402.01801,Large Language Models for Time Series: A Survey,2024-02-02
+2402.01788,LitLLM: A Toolkit for Scientific Literature Review,2024-02-02
+2402.01097,Let's Negotiate! A Survey of Negotiation Dialogue Systems,2024-02-02
+2401.17824,A Survey of Pre-trained Language Models for Processing Scientific Text,2024-01-31
+2402.01763,When Large Language Models Meet Vector Databases: A Survey,2024-01-30
+2402.01759,Systematic Literature Review: Computational Approaches for Humour Style Classification,2024-01-30
+2402.00888,Security and Privacy Challenges of Large Language Models: A Survey,2024-01-30
+2402.01735,VIALM: A Survey and Benchmark of Visually Impaired Assistance with Large Models,2024-01-29
+2401.15422,A Survey on Data Augmentation in Large Model Era,2024-01-27
+2401.15393,Semantics of Multiword Expressions in Transformer-Based Models: A Survey,2024-01-27
+2401.15351,"A Survey on Neural Topic Models: Methods, Applications, and Challenges",2024-01-27
+2401.15347,A Comprehensive Survey of Compression Algorithms for Language Models,2024-01-27
+2401.14656,Scientific Large Language Models: A Survey on Biological & Chemical Domains,2024-01-26
+2401.14043,Towards Goal-oriented Prompt Engineering for Large Language Models: A Survey,2024-01-25
+2402.01700,Question answering systems for health professionals at the point of care -- a systematic review,2024-01-24
+2401.11972,Synergizing Machine Learning & Symbolic Methods: A Survey on Hybrid Approaches to Natural Language Processing,2024-01-22
+2401.11969,"Claim Detection for Automated Fact-checking: A Survey on Monolingual, Multilingual and Cross-Lingual Research",2024-01-22
+2401.11839,AI for social science and social science of AI: A Survey,2024-01-22
+2401.11631,Text-to-Image Cross-Modal Generation: A Systematic Review,2024-01-21
+2402.01680,Large Language Model based Multi-Agents: A Survey of Progress and Challenges,2024-01-21
+2401.11624,In-context Learning with Retrieved Demonstrations for Language Models: A Survey,2024-01-21
+2401.10825,Recent Advances in Named Entity Recognition: A Comprehensive Survey and Comparative Study,2024-01-19
+2401.10352,Bridging Cultural Nuances in Dialogue Agents through Cultural Value Surveys,2024-01-18
+2401.10034,Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap,2024-01-18
+2401.09890,A Survey on Hardware Accelerators for Large Language Models,2024-01-18
+2401.09244,"Cross-lingual Offensive Language Detection: A Systematic Review of Datasets, Transfer Approaches and Challenges",2024-01-17
+2401.07851,Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding,2024-01-15
+2401.07518,"Survey of Natural Language Processing for Education: Taxonomy, Systematic Review, and Future Trends",2024-01-15
+2401.10279,A systematic review of geospatial location embedding approaches in large language models: A path to spatial AI systems,2024-01-12
+2401.06831,"A Survey on the Applications of Frontier AI, Foundation Models, and Large Language Models to Intelligent Transportation Systems",2024-01-12
+2401.06320,Zero-shot Generative Large Language Models for Systematic Review Screening Automation,2024-01-12

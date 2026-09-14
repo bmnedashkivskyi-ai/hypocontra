@@ -1,0 +1,32 @@
+sentence_id,status,skip_reason,topic,hypothesis_a,source_a,hypothesis_b,source_b
+s0169,skipped,not_genuine_contrast,,,,,
+s0170,skipped,not_genuine_contrast,,,,,
+s0171,skipped,not_genuine_contrast,,,,,
+s0172,skipped,not_genuine_contrast,,,,,
+s0180,skipped,same_finding_different_wording,,,,,
+s0181,skipped,same_finding_different_wording,,,,,
+s0182,skipped,not_genuine_contrast,,,,,
+s0184,skipped,not_genuine_contrast,,,,,
+s0192,skipped,insufficient_context,,,,,
+s0196,skipped,not_genuine_contrast,,,,,
+s0199,skipped,not_genuine_contrast,,,,,
+s0212,skipped,not_genuine_contrast,,,,,
+s0228,pair_created,,retrieval-augmented generation re-ranking,"Text generation can be steered effectively by exemplar-based adaptive decoding that directly incorporates retrieved exemplars into the decoding process, without requiring a separate re-ranking step over retrieved candidates.",peng2019text,"Effective retrieval-augmented text generation requires an explicit intermediate re-ranking stage between retrieval and generation, as in retrieve-rerank-rewrite pipelines that rerank retrieved templates before rewriting them into output.",DBLP:conf/acl/LiWLC18
+s0232,skipped,not_genuine_contrast,,,,,
+s0243,skipped,not_genuine_contrast,,,,,
+s0246,skipped,not_genuine_contrast,,,,,
+s0247,skipped,not_genuine_contrast,,,,,
+s0248,skipped,not_genuine_contrast,,,,,
+s0251,pair_created,,transfer learning for text classification,"Semi-supervised sequence learning using RNNs and autoencoders (e.g., pretraining a sequence autoencoder or RNN language model before task training) is an effective way to improve text classification and other sequence models.",Dai2015,"Effective transfer learning for text classification with LSTM-based language models requires novel fine-tuning techniques (discriminative fine-tuning, slanted triangular learning rates, and gradual unfreezing) rather than relying on RNN/autoencoder pretraining alone.",ulmfit
+s0256,skipped,not_genuine_contrast,,,,,
+s0257,skipped,not_genuine_contrast,,,,,
+s0258,skipped,not_genuine_contrast,,,,,
+s0262,pair_created,,subword segmentation for low-resource MT,"Using linguistically motivated subword segmentation units, rather than purely statistical ones, can affect neural machine translation quality for the Tamil-English language pair, though results are mixed.",dhar-etal-2020-linguistically,"A purely statistics-based, language-independent subword tokenizer (SentencePiece) can perform effective subword segmentation and detokenization for neural text processing without relying on linguistic knowledge of the specific language.",kudo-richardson-2018-sentencepiece
+s0267,skipped,insufficient_context,,,,,
+s0268,skipped,insufficient_context,,,,,
+s0269,skipped,not_genuine_contrast,,,,,
+s0275,skipped,not_genuine_contrast,,,,,
+s0276,skipped,not_genuine_contrast,,,,,
+s0277,skipped,not_genuine_contrast,,,,,
+s0279,pair_created,,attention as explanation debate,"Attention weights do not constitute genuine explanations of model predictions, because only interpretability methods that are faithful to the model's actual reasoning process can be considered truly interpretable.",jain2019attention,"Attention can be considered a valid form of explanation if explanations are held to a standard of plausibility rather than strict faithfulness to the model's internal reasoning process.",wiegreffe2019attention
+s0284,skipped,insufficient_context,,,,,

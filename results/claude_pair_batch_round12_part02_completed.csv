@@ -1,0 +1,31 @@
+sentence_id,status,skip_reason,topic,hypothesis_a,source_a,hypothesis_b,source_b
+s0169,skipped,not_genuine_contrast,,,,,
+s0171,skipped,not_genuine_contrast,,,,,
+s0172,skipped,not_genuine_contrast,,,,,
+s0173,skipped,not_genuine_contrast,,,,,
+s0174,skipped,not_genuine_contrast,,,,,
+s0181,skipped,not_genuine_contrast,,,,,
+s0184,skipped,not_genuine_contrast,,,,,
+s0185,skipped,not_genuine_contrast,,,,,
+s0188,skipped,not_genuine_contrast,,,,,
+s0190,skipped,not_genuine_contrast,,,,,
+s0194,pair_created,,channel pruning redundancy scope,"Prunable channels in a convolutional network can be identified by measuring channel redundancy within each layer independently (e.g., via filter-magnitude/geometric-median criteria), without accounting for redundancy relationships across different layers.",li2016pruning,"Channel redundancy for pruning should instead be measured jointly across multiple different layers rather than within a single layer alone, which better minimizes the resulting accuracy loss.",wang2019cop
+s0195,pair_created,,channel pruning regularization strategy,"Prunable channels in a convolutional network can be identified by applying an L1-norm sparsity-inducing penalty to batch-normalization scaling factors during training, shrinking unimportant channels' factors toward zero.",liu2017learning,"Prunable channels are better identified using a polarization regularizer on the scaling factors instead of a plain L1-norm penalty, since polarization explicitly pushes each factor toward either zero or a large nonzero value, creating a clear margin between pruned and kept channels rather than uniform shrinkage.",zhuang2020neuron
+s0196,pair_created,,privileged vs standard distillation,"A student neural network can acquire a teacher network's knowledge through the standard knowledge distillation paradigm, in which the student learns only from the teacher's outputs and information otherwise available to the student itself.",hinton2015distilling,"Beyond standard teacher-student distillation, model accuracy can be further improved by having the student also learn from privileged information: additional information available only during training (not to the deployed/student model), used for similarity control and knowledge transfer.",vapnik2015learning
+s0198,skipped,not_genuine_contrast,,,,,
+s0199,skipped,not_genuine_contrast,,,,,
+s0203,skipped,not_genuine_contrast,,,,,
+s0205,skipped,not_genuine_contrast,,,,,
+s0208,skipped,insufficient_context,,,,,
+s0218,pair_created,,backdoor attack target in diffusion models,"Backdoors can be injected into text-to-image diffusion models by poisoning the text prompt data used to fine-tune the model's text encoder, so that a trigger phrase causes the encoder to produce an attacker-chosen embedding.",struppek2023rickrolling,"Text-to-image diffusion models can instead be backdoored through multimodal (image-text) data poisoning that fine-tunes the UNet denoising component, rather than the text encoder, to embed the backdoor trigger behavior.",zhai2023text
+s0221,skipped,not_genuine_contrast,,,,,
+s0222,skipped,not_genuine_contrast,,,,,
+s0223,skipped,not_genuine_contrast,,,,,
+s0224,skipped,not_genuine_contrast,,,,,
+s0227,skipped,not_genuine_contrast,,,,,
+s0228,skipped,not_genuine_contrast,,,,,
+s0229,skipped,not_genuine_contrast,,,,,
+s0230,skipped,not_genuine_contrast,,,,,
+s0231,skipped,not_genuine_contrast,,,,,
+s0232,skipped,not_genuine_contrast,,,,,
+s0233,skipped,not_genuine_contrast,,,,,

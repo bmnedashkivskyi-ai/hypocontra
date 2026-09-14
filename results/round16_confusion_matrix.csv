@@ -1,0 +1,5 @@
+label_A,not_contradiction,type1_direct_negation,type4_apparent_contextual
+not_contradiction,3,0,0
+type1_direct_negation,0,2,0
+type3_causal_conflict,1,1,0
+type4_apparent_contextual,3,0,1

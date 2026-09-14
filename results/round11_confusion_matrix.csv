@@ -1,0 +1,4 @@
+label_A,PARSE_ERROR,not_contradiction,type1_direct_negation,type4_apparent_contextual
+not_contradiction,0,1,0,0
+type1_direct_negation,1,1,8,0
+type4_apparent_contextual,0,3,0,1

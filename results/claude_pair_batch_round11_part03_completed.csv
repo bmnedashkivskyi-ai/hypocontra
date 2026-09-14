@@ -1,0 +1,38 @@
+sentence_id,status,skip_reason,topic,hypothesis_a,source_a,hypothesis_b,source_b
+s0211,skipped,not_genuine_contrast,,,,,
+s0212,pair_created,,Context effects on lexical complexity,"Malmasi & Zampieri's MAZA system attributes its superior performance on complex word/lexical complexity prediction (SemEval-2016 Task 11) to the use of contextual features, indicating that surrounding context influences how complex a word is perceived to be.",malmasi-zampieri:2016:SemEval,"Kuru's AI-KU system (SemEval-2016 Task 11), using word embeddings and substring features with an SVM classifier, found that context was uninfluential on performance, indicating a word's complexity can be predicted without relying on contextual information.",kuru:2016:SemEval
+s0214,skipped,not_genuine_contrast,,,,,
+s0215,skipped,insufficient_context,,,,,
+s0216,skipped,insufficient_context,,,,,
+s0217,skipped,not_genuine_contrast,,,,,
+s0220,skipped,not_genuine_contrast,,,,,
+s0221,skipped,not_genuine_contrast,,,,,
+s0222,skipped,same_finding_different_wording,,,,,
+s0226,skipped,not_genuine_contrast,,,,,
+s0232,skipped,same_finding_different_wording,,,,,
+s0235,skipped,not_genuine_contrast,,,,,
+s0236,skipped,not_genuine_contrast,,,,,
+s0245,skipped,not_genuine_contrast,,,,,
+s0248,skipped,not_genuine_contrast,,,,,
+s0249,skipped,not_genuine_contrast,,,,,
+s0252,skipped,not_genuine_contrast,,,,,
+s0253,skipped,not_genuine_contrast,,,,,
+s0255,skipped,not_genuine_contrast,,,,,
+s0256,skipped,not_genuine_contrast,,,,,
+s0257,pair_created,,Video-text embedding similarity measure,"Le et al. (NII-HITACHI-UIT, TRECVID 2016) trained their video-text common-space embedding model by minimizing the L2 (Euclidean) distance between paired video and text representations.",Le2016NII-HITACHI-UIT2016,"Phan et al. (NII-Hitachi-UIT, TRECVID 2017) obtained better results by instead defining the similarity measure in the common embedding space as the dot product between representations, rather than minimizing L2 distance.",Phan2017NII-Hitachi-UIT2017
+s0258,pair_created,,Video representation learning modality scope,"Dwibedi et al.'s temporal cycle-consistency learning approach learns video representations using only the video domain, via self-supervised temporal alignment of video frames, without incorporating text.",Dwibedi2019TemporalLearning,"Ging et al.'s COOT (Cooperative Hierarchical Transformer) approach holds that effective video representation learning should align video and text in a cross-modal way, rather than modeling video alone.",Ging2020COOT:Learning
+s0260,pair_created,,Comprehensiveness of FEVER rationale highlights,"Carton et al. (2020) expect that the human-annotated highlights/rationales in the FEVER fact-verification dataset are non-comprehensive, i.e. they do not mark all evidence relevant to a verdict.",carton-etal-2020-evaluating,"DeYoung et al.'s ERASER benchmark (2020) characterizes/relies on FEVER's rationale annotations as comprehensive evidence spans when using them to evaluate rationalized NLP models, in contrast to Carton et al.'s characterization.",deyoung-etal-2020-eraser
+s0261,skipped,not_genuine_contrast,,,,,
+s0264,skipped,not_genuine_contrast,,,,,
+s0265,skipped,not_genuine_contrast,,,,,
+s0266,skipped,not_genuine_contrast,,,,,
+s0269,skipped,not_genuine_contrast,,,,,
+s0273,skipped,not_genuine_contrast,,,,,
+s0274,skipped,not_genuine_contrast,,,,,
+s0275,skipped,not_genuine_contrast,,,,,
+s0277,skipped,same_finding_different_wording,,,,,
+s0283,skipped,not_genuine_contrast,,,,,
+s0288,skipped,not_genuine_contrast,,,,,
+s0296,skipped,not_genuine_contrast,,,,,
+s0299,pair_created,,Discourse parsing for document representation,Bhatia et al. (2015) show that using an external RST discourse parser to derive a document's discourse structure improves document-level sentiment analysis.,bhatia2015better,"Ji & Smith (2017) point out limitations of relying on external discourse parsers for tasks like text categorization, arguing discourse structure should instead be modeled directly rather than depending on an off-the-shelf parser.",ji2017neural
+s0315,skipped,not_genuine_contrast,,,,,

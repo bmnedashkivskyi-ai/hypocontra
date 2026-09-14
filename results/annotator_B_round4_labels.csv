@@ -1,0 +1,4 @@
+pair_id,label,rationale
+r4_000,type1_direct_negation,"A asserts perturbations preserve gold labels (foundational assumption); B directly found a significant portion do not, with high human disagreement, same techniques/conditions."
+r4_001,type4_apparent,"B qualifies scope rather than flatly negating A: methods still work but generalize less broadly than implied, varying by model architecture."
+r4_002,type4_apparent,"B is a methodological critique of an assumption NLI classifiers rely on (input-granularity mismatch), limiting applicability rather than negating effectiveness outright."

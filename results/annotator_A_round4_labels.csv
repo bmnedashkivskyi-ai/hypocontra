@@ -1,0 +1,4 @@
+pair_id,label,rationale
+r4_000,type1_direct_negation,"A: perturbations preserve the gold label (assumption). B: a significant portion do NOT preserve the label for the same technique class -- direct empirical negation of a stated assumption under the same conditions"
+r4_001,type4_apparent,"B doesn't say the methods fail entirely, but that their claimed effectiveness doesn't generalize beyond decoder-only architectures -- a scope/condition qualification, not a flat negation"
+r4_002,type4_apparent,"B is a methodological critique of NLI-classifiers' applicability for a specific subtask (granularity mismatch), not an independent competing claim -- same pattern as round-3 PMI/BLEU critiques"

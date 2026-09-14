@@ -1,0 +1,32 @@
+sentence_id,status,skip_reason,topic,hypothesis_a,source_a,hypothesis_b,source_b
+s0094,skipped,not_genuine_contrast,,,,,
+s0097,pair_created,,Syntactic vs lexical-semantic drivers of brain-LM alignment,"In studies of brain alignment with language models, syntactic processing tasks are the primary driver of the alignment between brain activity and language model representations.",oota2022joint,"Lexical-semantic content, not syntactic structure, is the main contributor to the similarity between artificial neural network representations and brain (fMRI) responses in the language network.",kauf2023lexical
+s0102,skipped,not_genuine_contrast,,,,,
+s0113,skipped,insufficient_context,,,,,
+s0114,pair_created,,Classifier-guided vs classifier-free diffusion for text generation,"Controllable text generation with diffusion language models can be achieved through classifier-guided diffusion, i.e. using an external classifier to steer the diffusion process toward desired attributes (Diffusion-LM).",https://doi.org/10.48550/arxiv.2205.14217,"Sequence-to-sequence text generation with diffusion models can be achieved without an external classifier, using a classifier-free diffusion approach directed by spatial points instead (DiffuSeq).",https://doi.org/10.48550/arxiv.2210.08933
+s0118,skipped,not_genuine_contrast,,,,,
+s0119,skipped,insufficient_context,,,,,
+s0122,skipped,not_genuine_contrast,,,,,
+s0123,skipped,not_genuine_contrast,,,,,
+s0124,skipped,not_genuine_contrast,,,,,
+s0126,skipped,not_genuine_contrast,,,,,
+s0127,skipped,not_genuine_contrast,,,,,
+s0128,skipped,not_genuine_contrast,,,,,
+s0129,skipped,not_genuine_contrast,,,,,
+s0131,skipped,not_genuine_contrast,,,,,
+s0135,pair_created,,Joint vs separate representation-space clustering for multimodal self-supervised learning,"Effective self-supervised multimodal representation learning from audio, video, and text can be achieved by clustering on a joint multimodal representation space, combined with a pairwise contrastive loss across modalities (MCN).",Chen2021MultimodalCN,"Effective self-supervised representation learning from audio and video can be achieved by clustering on separate, modality-specific representation spaces via cross-modal deep clustering (XDC), rather than a single joint representation space.",Alwassel2019SelfSupervisedLB
+s0137,skipped,not_genuine_contrast,,,,,
+s0138,skipped,not_genuine_contrast,,,,,
+s0139,skipped,not_genuine_contrast,,,,,
+s0140,skipped,not_genuine_contrast,,,,,
+s0142,skipped,insufficient_context,,,,,
+s0147,skipped,not_genuine_contrast,,,,,
+s0150,skipped,not_genuine_contrast,,,,,
+s0151,skipped,not_genuine_contrast,,,,,
+s0152,pair_created,,Whether correct input-label mapping matters for in-context learning,The correctness of input-label mapping in few-shot demonstrations matters little to in-context learning performance; models can perform comparably well even with random or incorrect labels.,min2022rethinking,Ground-truth (correct) input-label mapping in in-context learning demonstrations does matter and significantly influences in-context learning performance.,ground_truth
+s0154,skipped,not_genuine_contrast,,,,,
+s0155,skipped,not_genuine_contrast,,,,,
+s0158,skipped,not_genuine_contrast,,,,,
+s0160,skipped,not_genuine_contrast,,,,,
+s0162,skipped,insufficient_context,,,,,
+s0164,skipped,insufficient_context,,,,,

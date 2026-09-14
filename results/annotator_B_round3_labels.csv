@@ -1,0 +1,10 @@
+pair_id,label,rationale
+r3_000,type4_apparent,"B disputes whether BLEU gains can be credibly attributed to gender control; a methodological critique of the causal attribution, not an independent counter-claim."
+r3_001,type1_direct_negation,"A says existing debiasing methods address gender bias in embeddings; B directly negates this for indirect bias specifically, calling it disregarded/unaddressed."
+r3_002,type3_causal_conflict,"Same observed effect (context-concatenation improves coref/translation) attributed to two incompatible causes: added gender context vs. mere regularization from extra signal."
+r3_003,type1_direct_negation,"A claims adversarial training removes the protected attribute entirely; B directly negates this, showing traces of the attribute persist despite training."
+r3_004,type4_apparent,"Differ by measurement scope: A claims success on surface bias/quality metrics; B shows portrayal-level bias persists. Compatible once scope is distinguished."
+r3_005,type4_apparent,"Different constructs measured (language positivity vs. narrative agency); apparent tension dissolves once distinguished -- positive language doesn't imply high agency."
+r3_006,type4_apparent,"Different scope: A reports persistent stereotype patterns (cross-sectional); B reports a decreasing bias trend (longitudinal). Not directly opposed once scope is separated."
+r3_007,type4_apparent,"Different scope/dataset: A concerns power-framing within powerful-women coverage; B concerns overall coverage-volume gender gap. Distinct measures, apparently compatible."
+r3_008,type4_apparent,"B is a methodological critique of PMI's reliability as a bias metric (overgeneralization on heterogeneous data), not an independent competing empirical claim."

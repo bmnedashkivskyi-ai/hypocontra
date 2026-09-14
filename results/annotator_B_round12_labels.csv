@@ -1,0 +1,4 @@
+pair_id,label,rationale
+r12_009,not_contradiction,"The hypotheses describe two different optimization approaches (query-dependent vs. distributionally optimal) used by different models, rather than making conflicting claims about a single method."
+r12_016,type1_direct_negation,"Hypothesis A asserts that the list of identity terms should be manually created, whereas Hypothesis B explicitly proposes using existing dataset annotations instead of manual curation."
+r12_021,type1_direct_negation,"Hypothesis A asserts that pretraining should use separate, independent Transformers for each modality (two-stream), whereas Hypothesis B directly negates this by asserting that a single unified Transformer should be used instead."

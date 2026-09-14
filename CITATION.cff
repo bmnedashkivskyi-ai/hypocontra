@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this software, corpus, or its results, please cite it as below."
+type: software
+title: "hypocontra"
+version: "2.0.0"
+date-released: "2026-09-11"
+abstract: >
+  HypoContra: a 103-pair curated corpus (rounds 1-17) and evaluation
+  pipeline for detecting conceptual contradictions between scientific
+  hypotheses in NLP/CS literature, plus three trained and evaluated
+  baseline NLI models. A curated candidate-selection strategy (mining
+  explicit contrast markers from the full text of NLP survey papers, not
+  automatic topical clustering) yielded 16/17 (94%) genuine contradictions
+  in the pilot versus 1/97 (1%) for clustering, and scaled to 103 curated
+  pairs with Cohen's kappa = 0.556 (five-way) / 0.607 (three-way, n=85).
+  Three baseline NLI models were trained and evaluated on this corpus
+  (rule-based macro F1=0.310, fine-tuned RoBERTa=0.575, LLM few-shot=0.690,
+  the latter with disclosed evaluation circularity), plus a cross-domain
+  generalization check (fine-tuned on the Alamri & Stevenson 2016
+  biomedical corpus, zero-shot evaluated on HypoContra, F1=0.378). Labels
+  are assigned by two independent AI annotation passes (Claude and a
+  locally-hosted Gemma model, not human annotators) -- disclosed as a
+  materially weaker validity claim than the original methodology's
+  human-human inter-annotator agreement protocol, and a permanent
+  characteristic of this corpus (replacing it with human annotation was
+  deliberately decided against, not deferred).
+authors:
+  - given-names: "Bohdan"
+    family-names: "Nedashkivskyi"
+    orcid: "https://orcid.org/0000-0002-9886-2674"
+    alias: "bmnedashkivskyi-ai"
+repository-code: "https://github.com/bmnedashkivskyi-ai/hypocontra"
+license: Apache-2.0
+keywords:
+  - contradiction detection
+  - natural language inference
+  - scientific claim verification
+  - taxonomy
+  - inter-annotator agreement
+  - Cohen's kappa
+  - arXiv
+  - literature survey mining
+  - baseline evaluation
+  - cross-domain generalization
+  - RoBERTa
+  - large language models

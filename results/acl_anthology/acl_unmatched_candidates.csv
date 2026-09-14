@@ -1,0 +1,307 @@
+key,year,title,url
+ollagnier-2026-antisocial,2026,Antisocial Behavior Prediction: A Survey and Practical Guide,https://aclanthology.org/2026.wassa-1.18/
+pedinotti-santus-2026-structsurvey,2026,{S}truct{S}urvey: Structured Agentic Retrieval for Automated Survey Paper Generation,https://aclanthology.org/2026.surgellm-1.10/
+zevallos-etal-2026-amazonianlp,2026,{A}mazonia{NLP}: A Survey of Extreme Low-Resource Languages in the {P}eruvian-{B}razilian {A}mazon,https://aclanthology.org/2026.sigul-1.28/
+plausinaityte-zinsmeister-2026-survey,2026,A Survey of the Digitisation of {G}erman Newspapers in interwar {L}ithuania (1918{--}1940),https://aclanthology.org/2026.pressmint-1.11/
+chakraborty-etal-2026-datasets,2026,Datasets and Methods for Improving the Cultural Capabilities of {NLP} Systems: A Survey,https://aclanthology.org/2026.nlpcss-1.14/
+alali-etal-2026-llms,2026,{LLM}s in the Enterprise: A Systematic Review of Security Architectures for {RAG}-Augmented Chatbots,https://aclanthology.org/2026.nlpaics-1.25/
+libovicky-2026-credibility,2026,On the Credibility of Evaluating {LLM}s using Survey Questions,https://aclanthology.org/2026.mme-main.2/
+pannitto-etal-2026-survey,2026,Survey of Tools for Manual Linguistic Annotation: Supporting Diversity through Interactive Exploration,https://aclanthology.org/2026.lrec-1.905/
+rodrigo-gines-chamorro-padial-2026-media,2026,Media Bias within Information Disorder: Bridging Two Research Communities through a Systematic Review,https://aclanthology.org/2026.indor-1.5/
+nourbakhsh-etal-2026-llm,2026,Are {LLM} Benchmarks Already Contaminated? A Systematic Review of Contamination Detection Methods,https://aclanthology.org/2026.gem-main.50/
+acarturk-etal-2026-survey,2026,A Survey of Incorporating Gaze Data into Natural Language Processing Models and Applications,https://aclanthology.org/2026.gaze4nlp-1.10/
+wischounig-etal-2026-negative,2026,Negative Sampling Techniques in Dense Retrieval: A Survey,https://aclanthology.org/2026.findings-eacl.157/
+deng-etal-2026-data,2026,Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey,https://aclanthology.org/2026.findings-acl.78/
+xu-etal-2026-towards,2026,Towards Modern Topic Models: A Survey of Taxonomies and Paradigm Shifts from Algorithm-Centric to {LLM}-Centered Topic Analysis,https://aclanthology.org/2026.findings-acl.326/
+wan-etal-2026-test,2026,Test-Time Scaling in Multimodal Foundation Models: A Comprehensive Survey of Generation and Reasoning,https://aclanthology.org/2026.findings-acl.383/
+zhou-etal-2026-attack,2026,From Attack Surfaces to Actual Operations: A Survey of {M}odern {LLM} Jailbreaks,https://aclanthology.org/2026.findings-acl.929/
+yehudai-etal-2026-survey,2026,A Survey on Evaluation of {LLM}-based Agents,https://aclanthology.org/2026.findings-acl.1330/
+zhang-etal-2026-datasets,2026,Datasets for Scientific Literature Understanding: A Survey,https://aclanthology.org/2026.findings-acl.1414/
+lan-etal-2026-making,2026,"Making Revisions Understandable: A Survey of Edit Intentions, Methods, and Applications",https://aclanthology.org/2026.findings-acl.1747/
+dan-etal-2026-survey,2026,A Survey of Toxicity Mitigation Strategies for Multilingual Language Models,https://aclanthology.org/2026.findings-acl.1780/
+liu-zhang-2026-ai,2026,"{AI} Agents for the Science of Science: A Survey of Tasks, Architectures, Evaluations, and Challenges",https://aclanthology.org/2026.findings-acl.1804/
+ma-etal-2026-towards,2026,Towards Unified Multimodal Large Language Models: A survey,https://aclanthology.org/2026.findings-acl.1853/
+orrego-carmona-etal-2026-reaching,2026,Reaching multilingual communities: a survey mapping {MT} use in the West Midlands ({UK}) third and public sector organisations,https://aclanthology.org/2026.eamt-1.38/
+ilkilic-etal-2026-automatic,2026,Automatic translation in public services: A survey of the {F}innish public sector,https://aclanthology.org/2026.eamt-1.45/
+ma-etal-2026-text,2026,Text-to-Text Automatic Story Generation: A Survey,https://aclanthology.org/2026.eacl-srw.39/
+krasnodebska-etal-2026-safety,2026,"Safety of Large Language Models Beyond {E}nglish: A Systematic Literature Review of Risks, Biases, and Safeguards",https://aclanthology.org/2026.eacl-long.44/
+schoch-2026-derived,2026,Derived Text Formats as Strategic Transformations of In-Copyright Materials to Support Open Science: A Survey,https://aclanthology.org/2026.dtf-1.1/
+yang-etal-2026-annotation,2026,"Annotation Tools for Language Documentation: A Survey of Capabilities, Gaps, and Morphological Support",https://aclanthology.org/2026.computel-1.9/
+molino-pinar-etal-2026-automatic,2026,Automatic Generation of Discharge Summaries Using Large Language Models: A Systematic Literature Review,https://aclanthology.org/2026.clinicalnlp-1.9/
+thompson-etal-2026-evaluating,2026,Evaluating Professional Acceptability of {LLM}-Generated Systematic Review Summaries in Healthcare: Psychiatrists' Perspectives,https://aclanthology.org/2026.cl4health-1.18/
+alharbi-stevenson-2026-nlp,2026,Can {NLP} Models Detect When One Publication Outweighs Twenty? Predicting Systematic Review Conclusion Changes,https://aclanthology.org/2026.bionlp-1.68/
+tzachristas-tzachristas-2026-natural,2026,From Natural Language to Certified Geometry Proofs: A Survey of {LLM}-Augmented Verification and Neuro-Symbolic Theorem Proving,https://aclanthology.org/2026.bigpicture-main.1/
+tzachristas-etal-2026-open,2026,Open Problems Solved by {LLM}s? A Survey of Verifiable Mathematical Discovery,https://aclanthology.org/2026.bigpicture-main.2/
+saha-etal-2026-reference,2026,Reference-Free Schema Generation for Literature Review Tables via Multi-Faceted Rewards,https://aclanthology.org/2026.acl-srw.111/
+zheng-etal-2026-comprehensive,2026,"A Comprehensive Survey of Process Reward Models: Data Generation, Model Construction, and Usage",https://aclanthology.org/2026.acl-long.163/
+kumar-etal-2026-looking,2026,Looking at Radiology Report Generation through a Causal Lens: A Survey,https://aclanthology.org/2026.acl-long.186/
+yuan-etal-2026-reducing,2026,Reducing Token Redundancy in {LVLM}s: A Systematic Review of Token Pruning Methods,https://aclanthology.org/2026.acl-long.328/
+xi-etal-2026-survey,2026,A Survey of Large Language Model-Based Search Agents,https://aclanthology.org/2026.acl-long.374/
+sheth-etal-2026-beyond,2026,Beyond Monolingual Assumptions: A Survey on Code-Switched {NLP} in the Era of Large Language Models across Modalities,https://aclanthology.org/2026.acl-long.386/
+yang-etal-2026-survey-multimodal,2026,"A Survey of Multimodal Mathematical Reasoning: From Perception, Alignment to Reasoning",https://aclanthology.org/2026.acl-long.1961/
+dong-etal-2026-revealing,2026,"Revealing the Seen, Imagining the Beyond: A Survey of Image-Grounded Chain-of-Thought Reasoning in Multimodal {LLM}s",https://aclanthology.org/2026.acl-long.2087/
+chen-etal-2026-jarvis,2026,{JARVIS} or Ultron? A Survey on the Safety and Security Threats of Computer-Using Agents,https://aclanthology.org/2026.acl-long.2106/
+yao-yu-2026-llm,2026,{LLM}-Based Multi-Agent Systems for Clinical Workflows: A Survey of {AI} Hospitals,https://aclanthology.org/2026.acl-long.2123/
+wang-etal-2026-words,2026,From Words to Pixels: A Comprehensive Survey on Large Language Models in Visual Segmentation,https://aclanthology.org/2026.acl-long.2155/
+dias-sumanathilaka-2025-systematic,2025,A Systematic Review on Machine Translation and Transliteration Techniques for Code-Mixed {I}ndo-{A}ryan Languages,https://aclanthology.org/2025.wat-1.6/
+gari-soler-etal-2025-potentially,2025,Potentially Problematic Word Usages and How to Detect Them: A Survey,https://aclanthology.org/2025.starsem-1.35/
+lamsiyah-etal-2025-trust,2025,Trust but Verify: A Comprehensive Survey of Faithfulness Evaluation Methods in Abstractive Text Summarization,https://aclanthology.org/2025.ranlp-1.74/
+nguyen-etal-2025-survey,2025,A Survey on Small Language Models,https://aclanthology.org/2025.ranlp-1.93/
+vats-etal-2025-systematic,2025,"A Systematic Survey of Quantum Natural Language Processing: Models, Encoding Paradigms, and Evaluation Methods",https://aclanthology.org/2025.quantumnlp-1.8/
+phukan-ekbal-2025-survey,2025,A Survey of Quantum Natural Language Processing: From Compositional Models to {NISQ}-Era Empiricism,https://aclanthology.org/2025.quantumnlp-1.9/
+d-lewis-etal-2025-tapping,2025,Tapping into Social Media in Crisis: A Survey,https://aclanthology.org/2025.nlp4pi-1.27/
+zhang-2025-bridging,2025,Bridging Multimodal and Video Summarization: A Unified Survey,https://aclanthology.org/2025.newsum-main.11/
+liu-best-2025-survey,2025,A Survey of {NLP} Progress in {S}ino-{T}ibetan Low-Resource Languages,https://aclanthology.org/2025.naacl-long.396/
+mititelu-etal-2025-survey,2025,Survey on Lexical Resources Focused on Multiword Expressions for the Purposes of {NLP},https://aclanthology.org/2025.mwe-1.6/
+jimenez-crespo-rodriguez-2025-ai,2025,Is it {AI} or {PE} that worry translation professionals: results from a Human-Centered {AI} survey,https://aclanthology.org/2025.mtsummit-1.32/
+anikina-etal-2025-building,2025,Building Common Ground in Dialogue: A Survey,https://aclanthology.org/2025.luhme-1.2/
+sorato-zavala-rojas-2025-evaluating,2025,Evaluating the Feasibility of Using {C}hat{GPT} for Cross-cultural Survey Translation,https://aclanthology.org/2025.konvens-1.16/
+bellinghausen-riedel-2025-systematic,2025,Systematic Review of Linguistic Characteristics in Profiling and Automated Detection of Autistic Speech,https://aclanthology.org/2025.konvens-1.23/
+castillo-lopez-etal-2025-survey,2025,A Survey of Recent Advances on Turn-taking Modeling in Spoken Dialogue Systems,https://aclanthology.org/2025.iwsds-1.27/
+schmidtova-etal-2025-eyes,2025,Do My Eyes Deceive Me? A Survey of Human Evaluations of Hallucinations in {NLG},https://aclanthology.org/2025.inlg-main.4/
+perera-sumanathilaka-2025-machine,2025,Machine Translation and Transliteration for {I}ndo-{A}ryan Languages: A Systematic Review,https://aclanthology.org/2025.indonlp-1.2/
+zhu-etal-2025-asaudio,2025,{ASA}udio: A Survey of Advanced Spatial Audio Research,https://aclanthology.org/2025.ijcnlp-long.25/
+das-etal-2025-video,2025,"Video-guided Machine Translation: A Survey of Models, Datasets, and Challenges",https://aclanthology.org/2025.ijcnlp-long.178/
+belosevic-2025-user,2025,User-Centric Design Paradigms for Trust and Control in Human-{LLM}-Interactions: A Survey,https://aclanthology.org/2025.hcinlp-1.3/
+pitts-etal-2025-survey,2025,A Survey of {LLM}-Based Applications in Programming Education: Balancing Automation and Human Oversight,https://aclanthology.org/2025.hcinlp-1.21/
+liu-etal-2025-large-language,2025,Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey,https://aclanthology.org/2025.findings-naacl.427/
+shao-etal-2025-llm,2025,{LLM}-Empowered Patient-Provider Communication: A Data-Centric Survey From a Clinical Perspective,https://aclanthology.org/2025.findings-ijcnlp.40/
+poria-huang-2025-bhaasha,2025,"Bhaasha, Bh{\={a}}ṣ{\={a}}, Zaban: A Survey for Low-Resourced Languages in {S}outh {A}sia {--} Current Stage and Challenges",https://aclanthology.org/2025.findings-emnlp.73/
+ti-etal-2025-towards,2025,Towards Reverse Engineering of Language Models: A Survey,https://aclanthology.org/2025.findings-emnlp.395/
+brito-etal-2025-modeling,2025,"Modeling, Evaluating, and Embodying Personality in {LLM}s: A Survey",https://aclanthology.org/2025.findings-emnlp.506/
+li-etal-2025-survey,2025,A Survey of {RAG}-Reasoning Systems in Large Language Models,https://aclanthology.org/2025.findings-emnlp.648/
+wu-etal-2025-multi,2025,"Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances, Resources, and Future Directions",https://aclanthology.org/2025.findings-emnlp.683/
+hu-etal-2025-mitigating,2025,Mitigating Sequential Dependencies: A Survey of Algorithms and Systems for Generation-Refinement Frameworks in Autoregressive Models,https://aclanthology.org/2025.findings-emnlp.716/
+teleki-etal-2025-survey,2025,A Survey on {LLM}s for Story Generation,https://aclanthology.org/2025.findings-emnlp.750/
+zhu-etal-2025-survey,2025,A Survey on Multi-modal Intent Recognition: Recent Advances and New Frontiers,https://aclanthology.org/2025.findings-emnlp.823/
+wu-2025-comprehensive,2025,A Comprehensive Survey on Learning from Rewards for Large Language Models: Reward Models and Learning Strategies,https://aclanthology.org/2025.findings-emnlp.970/
+dong-etal-2025-large,2025,"Large Language Model Agents in Finance: A Survey Bridging Research, Practice, and Real-World Deployment",https://aclanthology.org/2025.findings-emnlp.972/
+zerong-etal-2025-systematic,2025,"A Systematic Survey of Claim Verification: Corpora, Systems, and Case Studies",https://aclanthology.org/2025.findings-emnlp.1170/
+zhu-etal-2025-trust,2025,Can We Trust {AI} Doctors? A Survey of Medical Hallucination in Large Language and Large Vision-Language Models,https://aclanthology.org/2025.findings-acl.350/
+he-etal-2025-breaking,2025,Breaking the Reasoning Barrier A Survey on {LLM} Complex Reasoning through the Lens of Self-Evolution,https://aclanthology.org/2025.findings-acl.386/
+atapattu-etal-2025-exploring,2025,Exploring the Role of Mental Health Conversational Agents in Training Medical Students and Professionals: A Systematic Literature Review,https://aclanthology.org/2025.findings-acl.1069/
+cui-etal-2025-heuristic,2025,Heuristic-based Search Algorithm in Automatic Instruction-focused Prompt Optimization: A Survey,https://aclanthology.org/2025.findings-acl.1140/
+nguyen-etal-2025-gui,2025,{GUI} Agents: A Survey,https://aclanthology.org/2025.findings-acl.1158/
+sen-etal-2025-missing,2025,Missing the Margins: A Systematic Literature Review on the Demographic Representativeness of {LLM}s,https://aclanthology.org/2025.findings-acl.1246/
+sim-etal-2025-vlms,2025,Can {VLM}s Actually See and Read? A Survey on Modality Collapse in Vision-Language Models,https://aclanthology.org/2025.findings-acl.1256/
+chen-etal-2025-benchmarking-large,2025,Benchmarking Large Language Models Under Data Contamination: A Survey from Static to Dynamic Evaluation,https://aclanthology.org/2025.emnlp-main.511/
+wu-etal-2025-incorporating,2025,Incorporating Diverse Perspectives in Cultural Alignment: Survey of Evaluation Benchmarks Through A Three-Dimensional Framework,https://aclanthology.org/2025.emnlp-main.862/
+resck-etal-2025-explainability,2025,Explainability and Interpretability of Multilingual Large Language Models: A Survey,https://aclanthology.org/2025.emnlp-main.1033/
+feng-etal-2025-multimodal,2025,Multimodal Neural Machine Translation: A Survey of the State of the Art,https://aclanthology.org/2025.emnlp-main.1125/
+chen-etal-2025-language,2025,"How do Language Models Reshape Entity Alignment? A Survey of {LM}-Driven {EA} Methods: Advances, Benchmarks, and Future",https://aclanthology.org/2025.emnlp-main.1184/
+wei-etal-2025-survey,2025,A Survey of Link Prediction in N-ary Knowledge Graphs,https://aclanthology.org/2025.emnlp-main.1451/
+dong-etal-2025-beyond,2025,Beyond A Single {AI} Cluster: A Survey of Decentralized {LLM} Training,https://aclanthology.org/2025.emnlp-main.1486/
+schoch-ji-2025-good,2025,"The Good, the Bad, and the Debatable: A Survey on the Impacts of Data for In-Context Learning",https://aclanthology.org/2025.emnlp-main.1514/
+zhang-etal-2025-survey,2025,A Survey of Generative Information Extraction,https://aclanthology.org/2025.coling-main.324/
+ticona-etal-2025-indigenous,2025,Indigenous Languages Spoken in {A}rgentina: A Survey of {NLP} and Speech Resources,https://aclanthology.org/2025.coling-main.565/
+benedetto-etal-2025-survey,2025,A Survey on Automated Distractor Evaluation in Multiple-Choice Tasks,https://aclanthology.org/2025.bea-1.5/
+frederick-eneye-etal-2025-advances,2025,Advances in Auto-Grading with Large Language Models: A Cross-Disciplinary Survey,https://aclanthology.org/2025.bea-1.35/
+wagner-etal-2025-mitigating,2025,Mitigating Hallucination by Integrating Knowledge Graphs into {LLM} Inference {--} a Systematic Literature Review,https://aclanthology.org/2025.acl-srw.53/
+rachmat-etal-2025-qa,2025,{QA} Analysis in Medical and Legal Domains: A Survey of Data Augmentation in Low-Resource Settings,https://aclanthology.org/2025.acl-srw.89/
+zhang-etal-2025-survey-foundation,2025,A Survey on Foundation Language Models for Single-cell Biology,https://aclanthology.org/2025.acl-long.26/
+lai-etal-2025-survey,2025,A Survey of Post-Training Scaling in Large Language Models,https://aclanthology.org/2025.acl-long.140/
+hu-etal-2025-os,2025,"{OS} Agents: A Survey on {MLLM}-based Agents for Computer, Phone and Browser Use",https://aclanthology.org/2025.acl-long.369/
+guo-etal-2025-sdbench,2025,{SDB}ench: A Survey-based Domain-specific {LLM} Benchmarking and Optimization Framework,https://aclanthology.org/2025.acl-long.662/
+xu-etal-2025-personalized,2025,Personalized Generation In Large Model Era: A Survey,https://aclanthology.org/2025.acl-long.1201/
+tjuatja-etal-2024-llms,2024,Do {LLM}s Exhibit Human-like Response Biases? A Case Study in Survey Design,https://aclanthology.org/2024.tacl-1.56/
+svoboda-sevcikova-2024-compounds,2024,Compounds in {U}niversal {D}ependencies: A Survey in Five {E}uropean Languages,https://aclanthology.org/2024.sigtyp-1.12/
+deleanu-etal-2024-accessible,2024,Accessible Communication: a systematic review and comparative analysis of official {E}nglish Easy-to-Understand ({E}2{U}) language guidelines,https://aclanthology.org/2024.readi-1.7/
+skubic-fiser-2024-parliamentary,2024,Parliamentary Discourse Research in Political Science: Literature Review,https://aclanthology.org/2024.parlaclarin-1.1/
+roxas-2024-large,2024,Large Language Models and Natural Language Processing On Minority Languages: A Systematic Review,https://aclanthology.org/2024.paclic-1.1/
+nakajima-etal-2024-survey,2024,A Survey for {LLM} Tuning Methods:Classifying Approaches Based on Model Internal Accessibility,https://aclanthology.org/2024.paclic-1.52/
+li-etal-2024-viewpoints,2024,A Viewpoints Embedded Diff-table System For Cross-sectional Insight Survey In a Research Task,https://aclanthology.org/2024.paclic-1.53/
+sadeddine-etal-2024-survey,2024,A Survey of Meaning Representations {--} From Theory to Practical Utility,https://aclanthology.org/2024.naacl-long.159/
+goswami-etal-2024-native,2024,Native Language Identification in Texts: A Survey,https://aclanthology.org/2024.naacl-long.173/
+mihajlik-etal-2024-spoken,2024,Is Spoken {H}ungarian Low-resource?: A Quantitative Survey of {H}ungarian Speech Data Sets,https://aclanthology.org/2024.lrec-main.820/
+forkel-etal-2024-linguistic,2024,Linguistic Survey of {I}ndia and Polyglotta Africana: Two Retrostandardized Digital Editions of Large Historical Collections of Multilingual Wordlists,https://aclanthology.org/2024.lrec-main.925/
+chen-etal-2024-retrieval,2024,Retrieval-Augmented Knowledge Integration into Language Models: A Survey,https://aclanthology.org/2024.knowllm-1.5/
+krause-vossen-2024-gricean-maxims,2024,The {G}ricean Maxims in {NLP} - A Survey,https://aclanthology.org/2024.inlg-main.39/
+dhaini-etal-2024-explainability-meets,2024,Explainability Meets Text Summarization: A Survey,https://aclanthology.org/2024.inlg-main.49/
+anuranjana-etal-2024-survey,2024,Survey on Computational Approaches to Implicature,https://aclanthology.org/2024.icon-1.25/
+kapil-ekbal-2024-survey,2024,A Survey on Combating Hate Speech through Detection and Prevention in {E}nglish,https://aclanthology.org/2024.icon-1.57/
+zheng-etal-2024-comprehensive,2024,A Comprehensive Survey on Document-Level Information Extraction,https://aclanthology.org/2024.futured-1.6/
+simon-etal-2024-generative,2024,Generative Approaches to Event Extraction: Survey and Outlook,https://aclanthology.org/2024.futured-1.7/
+shi-etal-2024-medical,2024,"Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges",https://aclanthology.org/2024.findings-acl.167/
+reinig-etal-2024-survey,2024,A Survey on Modelling Morality for Text Analysis,https://aclanthology.org/2024.findings-acl.245/
+liu-etal-2024-sumsurvey,2024,{S}um{S}urvey: An Abstractive Dataset of Scientific Survey Papers for Long Document Summarization,https://aclanthology.org/2024.findings-acl.574/
+deng-etal-2024-unveiling,2024,Unveiling the Spectrum of Data Contamination in Language Model: A Survey from Detection to Remediation,https://aclanthology.org/2024.findings-acl.951/
+wein-opitz-2024-survey,2024,A Survey of {AMR} Applications,https://aclanthology.org/2024.emnlp-main.390/
+mccurdy-etal-2024-toward,2024,Toward Compositional Behavior in Neural Models: A Survey of Current Views,https://aclanthology.org/2024.emnlp-main.524/
+nguyen-ng-2024-computational,2024,Computational Meme Understanding: A Survey,https://aclanthology.org/2024.emnlp-main.1184/
+di-bonaventura-etal-2024-explanation,2024,Is Explanation All You Need? An Expert Survey on {LLM}-generated Explanations for Abusive Language Detection,https://aclanthology.org/2024.clicit-1.34/
+braovic-etal-2024-systematic,2024,A Systematic Review of Computational Approaches to Deciphering {B}ronze {A}ge {A}egean and {C}ypriot Scripts,https://aclanthology.org/2024.cl-2.7/
+hanmeng-yue-2024-da,2024,大模型逻辑推理研究综述(Survey on Logical Reasoning of Large Pre-trained Language Models),https://aclanthology.org/2024.ccl-2.3/
+changjiang-etal-2024-da,2024,大模型时代的多语言研究综述(A Survey of Multilingual Research in the Large Language Model Era),https://aclanthology.org/2024.ccl-2.4/
+xu-2024-ji,2024,基于大语言模型的自主智能体概述(A Survey on Large Language Model based Autonomous Agents Xu {C}hen),https://aclanthology.org/2024.ccl-2.8/
+tian-etal-2024-sheng,2024,生成式文本质量的自动评估方法综述(A Survey of Automatic Evaluation on the Quality of Generated Text),https://aclanthology.org/2024.ccl-2.10/
+olsen-etal-2024-socio,2024,Socio-political Events of Conflict and Unrest: A Survey of Available Datasets,https://aclanthology.org/2024.case-1.5/
+agarwal-anastasopoulos-2024-concise,2024,A Concise Survey of {OCR} for Low-Resource Languages,https://aclanthology.org/2024.americasnlp-1.10/
+feng-etal-2024-legal,2024,Legal Case Retrieval: A Survey of the State of the Art,https://aclanthology.org/2024.acl-long.350/
+li-etal-2024-fundamental,2024,Fundamental Capabilities of Large Language Models and their Applications in Domain Scenarios: A Survey,https://aclanthology.org/2024.acl-long.599/
+otmakhova-etal-2024-media,2024,Media Framing: A typology and Survey of Computational Approaches Across Disciplines,https://aclanthology.org/2024.acl-long.822/
+abercrombie-etal-2023-resources,2023,Resources for Automated Identification of Online Gender-Based Violence: A Systematic Review,https://aclanthology.org/2023.woah-1.17/
+lorandi-belz-2023-control,2023,How to Control Sentiment in Text Generation: A Survey of the State-of-the-Art in Sentiment-Control Techniques,https://aclanthology.org/2023.wassa-1.30/
+ducel-etal-2024-la,2024,La recherche sur les biais dans les mod{\`e}les de langue est biais{\'e}e : {\'e}tat de l{'}art en abyme [Bias Research for Language Models is Biased: a Survey for Deconstructing Bias in Large Language Models],https://aclanthology.org/2023.tal-3.6/
+badaro-etal-2023-transformers,2023,Transformers for Tabular Data Representation: A Survey of Models and Applications,https://aclanthology.org/2023.tacl-1.14/
+liu-etal-2023-pre,2023,"Pre-train, Prompt, and Recommendation: A Comprehensive Survey of Language Modeling Paradigm Adaptations in Recommender Systems",https://aclanthology.org/2023.tacl-1.88/
+orasan-2023-chatgpt,2023,{C}hat{GPT} for translators: a survey,https://aclanthology.org/2023.nlp4tia-1.10/
+ganesh-etal-2023-survey,2023,A Survey of Challenges and Methods in the Computational Modeling of Multi-Party Dialog,https://aclanthology.org/2023.nlp4convai-1.12/
+ramisch-etal-2023-survey,2023,A Survey of {MWE} Identification Experiments: The Devil is in the Details,https://aclanthology.org/2023.mwe-1.15/
+akhtar-etal-2023-multimodal,2023,Multimodal Automated Fact-Checking: A Survey,https://aclanthology.org/2023.findings-emnlp.361/
+shen-etal-2023-neural,2023,Neural Ranking with Weak Supervision for Open-Domain Question Answering : A Survey,https://aclanthology.org/2023.findings-eacl.129/
+song-etal-2023-survey,2023,A Survey on Recent Advances in Keyphrase Extraction from Pre-trained Language Models,https://aclanthology.org/2023.findings-eacl.161/
+hiebl-gromann-2023-quality,2023,Quality in Human and Machine Translation: An Interdisciplinary Survey,https://aclanthology.org/2023.eamt-1.37/
+lewis-2023-survey,2023,A Survey of Computational Infrastructure to Help Preserve and Revitalize Bodw{\'e}wadmimwen,https://aclanthology.org/2023.computel-1.7/
+zhou-etal-2023-survey,2023,A Survey of Evaluation Methods of Generated Medical Textual Reports,https://aclanthology.org/2023.clinicalnlp-1.48/
+sommerschield-etal-2023-machine,2023,Machine Learning for Ancient Languages: A Survey,https://aclanthology.org/2023.cl-3.5/
+apidianaki-2023-word,2023,From Word Types to Tokens and Back: A Survey of Approaches to Word Meaning Representation and Interpretation,https://aclanthology.org/2023.cl-2.7/
+guerraoui-etal-2023-teach,2023,Teach Me How to Argue: A Survey on {NLP} Feedback Systems in Argumentation,https://aclanthology.org/2023.argmining-1.3/
+rahmani-etal-2023-survey,2023,A Survey on Asking Clarification Questions Datasets in Conversational Systems,https://aclanthology.org/2023.acl-long.152/
+mosca-etal-2022-explaining,2022,Explaining Neural {NLP} Models for the Joint Analysis of Open-and-Closed-Ended Survey Answers,https://aclanthology.org/2022.trustnlp-1.5/
+berhe-etal-2022-survey,2022,Survey on Narrative Structure: from Linguistic Theories to Automatic Extraction Approaches,https://aclanthology.org/2022.tal-1.3/
+shinde-etal-2022-extractive,2022,An Extractive-Abstractive Approach for Multi-document Summarization of Scientific Articles for Literature Review,https://aclanthology.org/2022.sdp-1.25/
+skubic-fiser-2022-parliamentary,2022,Parliamentary Discourse Research in Sociology: Literature Review,https://aclanthology.org/2022.parlaclarin-1.12/
+park-jeoung-2022-raison,2022,Raison d'{\^e}tre of the benchmark dataset: A Survey of Current Practices of Benchmark Dataset Sharing Platforms,https://aclanthology.org/2022.nlppower-1.1/
+voigt-etal-2022-survey,2022,The Why and The How: A Survey on Natural Language Interaction in Visualization,https://aclanthology.org/2022.naacl-main.27/
+goncalo-oliveira-etal-2022-brief,2022,A Brief Survey of Textual Dialogue Corpora,https://aclanthology.org/2022.lrec-1.135/
+vargas-etal-2022-rhetorical,2022,Rhetorical Structure Approach for Online Deception Detection: A Survey,https://aclanthology.org/2022.lrec-1.635/
+nwafor-andy-2022-survey,2022,A Survey of Machine Translation Tasks on {N}igerian Languages,https://aclanthology.org/2022.lrec-1.695/
+arreerard-etal-2022-survey,2022,Survey on {T}hai {NLP} Language Resources and Tools,https://aclanthology.org/2022.lrec-1.697/
+nordhoff-kramer-2022-imtvault,2022,{IMTV}ault: Extracting and Enriching Low-resource Language Interlinear Glossed Text from Grammatical Descriptions and Typological Survey Articles,https://aclanthology.org/2022.ldl-1.3/
+khan-etal-2022-survey,2022,"A Survey of Guidelines and Best Practices for the Generation, Interlinking, Publication, and Validation of Linguistic Linked Data",https://aclanthology.org/2022.ldl-1.9/
+marini-2022-croatpas,2022,{C}roa{TPAS}: A Survey-based Evaluation,https://aclanthology.org/2022.isa-1.10/
+huidrom-belz-2022-survey,2022,A Survey of Recent Error Annotation Schemes for Automatically Generated Text,https://aclanthology.org/2022.gem-1.33/
+ali-hassan-2022-survey,2022,A Survey of Computational Framing Analysis Approaches,https://aclanthology.org/2022.emnlp-main.633/
+pluymaekers-2022-well,2022,How well do real-time machine translation apps perform in practice? Insights from a literature review,https://aclanthology.org/2022.eamt-1.8/
+girletti-2022-working,2022,Working with Pre-translated Texts: Preliminary Findings from a Survey on Post-editing and Revision Practices in {S}wiss Corporate In-house Language Services,https://aclanthology.org/2022.eamt-1.30/
+salchner-jatowt-2022-survey,2022,A Survey of Automatic Text Summarization Using Graph Neural Networks,https://aclanthology.org/2022.coling-1.536/
+li-etal-2022-ji-qi,2022,机器音译研究综述(Survey on Machine Transliteration),https://aclanthology.org/2022.ccl-1.29/
+valizadeh-parde-2022-ai,2022,The {AI} Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications,https://aclanthology.org/2022.acl-long.458/
+vanderlyn-etal-2022-toward,2022,Toward Implicit Reference in Dialog: A Survey of Methods and Data,https://aclanthology.org/2022.aacl-main.45/
+bannour-etal-2021-evaluating,2021,Evaluating the carbon footprint of {NLP} methods: a survey and analysis of existing tools,https://aclanthology.org/2021.sustainlp-1.2/
+balaraman-etal-2021-recent,2021,Recent Neural Methods on Dialogue State Tracking for Task-Oriented Dialogue Systems: A Survey,https://aclanthology.org/2021.sigdial-1.25/
+mahajan-shaikh-2021-need,2021,On the Need for Thoughtful Data Collection for Multi-Party Dialogue: A Survey of Available Corpora and Collection Methods,https://aclanthology.org/2021.sigdial-1.36/
+lu-lu-2021-survey,2021,A Survey of Approaches to Automatic Question Generation:from 2019 to Early 2021,https://aclanthology.org/2021.rocling-1.21/
+djabri-caro-quintana-2021-introducing-linguistic,2021,"Introducing linguistic transformation to improve translation memory retrieval. Results of a professional translators' survey for {S}panish, {F}rench and {A}rabic",https://aclanthology.org/2021.ranlp-srw.7/
+boldsen-wahlberg-2021-survey,2021,Survey and reproduction of computational approaches to dating of historical texts,https://aclanthology.org/2021.nodalida-main.15/
+tuggener-etal-2021-summarizing,2021,Are We Summarizing the Right Way? A Survey of Dialogue Summarization Data Sets,https://aclanthology.org/2021.newsum-1.12/
+bazoge-2021-revue,2021,Revue de la litt{\'e}rature : entrep{\^o}ts de donn{\'e}es biom{\'e}dicales et traitement automatique de la langue (Literature review : biomedical data warehouse and natural language processing ),https://aclanthology.org/2021.jeptalnrecital-recital.8/
+khalilia-etal-2021-quality,2021,The Quality of Lexical Semantic Resources: A Survey,https://aclanthology.org/2021.icnlsp-1.14/
+wu-etal-2021-natural,2021,Natural Language Processing Meets Quantum Physics: A Survey and Categorization,https://aclanthology.org/2021.emnlp-main.254/
+zhou-bhat-2021-paraphrase,2021,Paraphrase Generation: A Survey of the State of the Art,https://aclanthology.org/2021.emnlp-main.414/
+ignatius-thayasivam-2021-survey,2021,A Survey on Paralinguistics in {T}amil Speech Processing,https://aclanthology.org/2021.dravidianlangtech-1.12/
+zhang-etal-2021-brief,2021,A Brief Survey and Comparative Study of Recent Development of Pronoun Coreference Resolution in {E}nglish,https://aclanthology.org/2021.crac-1.1/
+rao-etal-2021-yue,2021,阅读分级相关研究综述(A Survey of Leveled Reading),https://aclanthology.org/2021.ccl-1.62/
+tyers-howell-2021-survey,2021,A survey of part-of-speech tagging approaches applied to K{'}iche',https://aclanthology.org/2021.americasnlp-1.6/
+vecchi-etal-2021-towards,2021,Towards Argument Mining for Social Good: A Survey,https://aclanthology.org/2021.acl-long.107/
+johnson-wolfe-2020-survey,2020,A survey of Shading Techniques for Facial Deformations on Sign Language Avatars,https://aclanthology.org/2020.signlang-1.17/
+robin-etal-2020-term,2020,A Term Extraction Approach to Survey Analysis in Health Care,https://aclanthology.org/2020.lrec-1.254/
+neveol-etal-2020-medline,2020,"{MEDLINE} as a Parallel Corpus: a Survey to Gain Insight on {F}rench-, {S}panish- and {P}ortuguese-speaking Authors' Abstract Writing Practice",https://aclanthology.org/2020.lrec-1.453/
+silberer-etal-2020-object,2020,Object Naming in Language and Vision: A Survey and a New Dataset,https://aclanthology.org/2020.lrec-1.710/
+amin-burghardt-2020-survey,2020,A Survey on Approaches to Computational Humor Generation,https://aclanthology.org/2020.latechclfl-1.4/
+iacob-etal-2020-neural,2020,Neural Approaches for Natural Language Interfaces to Databases: A Survey,https://aclanthology.org/2020.coling-main.34/
+kobayashi-ng-2020-bridging,2020,Bridging Resolution: A Survey of the State of the Art,https://aclanthology.org/2020.coling-main.331/
+stajner-yenikent-2020-survey,2020,A Survey of Automatic Personality Detection from Texts,https://aclanthology.org/2020.coling-main.553/
+alva-manchego-etal-2020-data,2020,Data-Driven Sentence Simplification: Survey and Benchmark,https://aclanthology.org/2020.cl-1.4/
+hu-liu-2020-xiao,2020,小样本关系分类研究综述(Few-Shot Relation Classification: A Survey),https://aclanthology.org/2020.ccl-1.34/
+diaz-etal-2020-survey,2020,A Survey of Qualitative Error Analysis for Neural Machine Translation Systems,https://aclanthology.org/2020.amta-user.3/
+clinciu-hastie-2019-survey,2019,A Survey of Explainable {AI} Terminology,https://aclanthology.org/W19-8403/
+partanen-rueter-2019-survey,2019,Survey of {U}ralic {U}niversal {D}ependencies development,https://aclanthology.org/W19-8009/
+drewes-2019-survey,2019,A Survey of Recent Advances in Efficient Parsing for Graph Grammars,https://aclanthology.org/W19-3102/
+pavlopoulos-etal-2019-survey,2019,A Survey on Biomedical Image Captioning,https://aclanthology.org/W19-1803/
+ghazouani-etal-2019-assessing,2019,Assessing socioeconomic status of {T}witter users: A survey,https://aclanthology.org/R19-1046/
+yaneva-etal-2019-survey,2019,A Survey of the Perceived Text Adaptation Needs of Adults with Autism,https://aclanthology.org/R19-1155/
+lawrence-reed-2019-argument,2019,Argument Mining: A Survey,https://aclanthology.org/J19-4006/
+iyer-etal-2019-survey,2019,A Survey on Ontology Enrichment from Text,https://aclanthology.org/2019.icon-1.11/
+oco-roxas-2018-survey,2018,A Survey of Machine Translation Work in the {P}hilippines: From 1998 to 2018,https://aclanthology.org/W18-2204/
+ocampo-diaz-ng-2018-modeling,2018,Modeling and Prediction of Online Product Review Helpfulness: A Survey,https://aclanthology.org/P18-1065/
+neale-2018-survey,2018,A Survey on Automatically-Constructed {W}ord{N}ets and their Evaluation: Lexical and Word Embedding-based Approaches,https://aclanthology.org/L18-1270/
+rehm-hegele-2018-language,2018,"Language Technology for Multilingual {E}urope: An Analysis of a Large-Scale Survey regarding Challenges, Demands, Gaps and Needs",https://aclanthology.org/L18-1519/
+norman-etal-2018-automating,2018,Automating Document Discovery in the Systematic Review Process: How to Use Chaff to Extract Wheat,https://aclanthology.org/L18-1582/
+soria-etal-2018-dldp,2018,The {DLDP} Survey on Digital Use and Usability of {EU} Regional and Minority Languages,https://aclanthology.org/L18-1656/
+knyazeva-etal-2018-les,2018,Les m{\'e}thodes {\guillemotleft} apprendre {\`a} chercher {\guillemotright} en traitement automatique des langues : un {\'e}tat de l{'}art [A survey of learning-to-search techniques in Natural Language Processing],https://aclanthology.org/2018.tal-1.2/
+serban-etal-2018-survey,2018,A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version,https://aclanthology.org/2018.dnd-9.7/
+gollapudi-choppella-2017-notion,2017,Notion of Semantics in Computer Science - A Systematic Literature Review,https://aclanthology.org/W17-7562/
+mazziotta-kahane-2017-extent,2017,To What Extent is Immediate Constituency Analysis Dependency-Based? A Survey of Foundational Texts,https://aclanthology.org/W17-6515/
+goncalo-oliveira-2017-survey,2017,"A Survey on Intelligent Poetry Generation: Languages, Features, Techniques, Reutilisation and Evaluation",https://aclanthology.org/W17-3502/
+zielinski-mutschke-2017-mining,2017,Mining Social Science Publications for Survey Variables,https://aclanthology.org/W17-2907/
+schmidt-wiegand-2017-survey,2017,A Survey on Hate Speech Detection using Natural Language Processing,https://aclanthology.org/W17-1101/
+wang-etal-2017-short,2017,"A Short Survey on Taxonomy Learning from Text Corpora: Issues, Resources and Recent Advances",https://aclanthology.org/D17-1123/
+mulki-etal-2017-modern,2017,Modern Trends in {A}rabic Sentiment Analysis: A Survey,https://aclanthology.org/2017.tal-3.3/
+ganek-eriks-brophy-2016-language,2016,The Language {EN}vironment Analysis ({LENA}) system: A literature review,https://aclanthology.org/W16-6504/
+eger-etal-2016-lemmatization,2016,Lemmatization and Morphological Tagging in {G}erman and {L}atin: A Comparison and a Survey of the State-of-the-art,https://aclanthology.org/L16-1239/
+dipersio-cieri-2016-trends,2016,Trends in {HLT} Research: A Survey of {LDC}{'}s Data Scholarship Program,https://aclanthology.org/L16-1255/
+losnegaard-etal-2016-parseme,2016,{PARSEME} Survey on {MWE} Resources,https://aclanthology.org/L16-1364/
+rosen-etal-2016-mwes,2016,{MWE}s in Treebanks: From Survey to Guidelines,https://aclanthology.org/L16-1368/
+koiso-etal-2016-survey,2016,Survey of Conversational Behavior: Towards the Design of a Balanced Corpus of Everyday {J}apanese Conversation,https://aclanthology.org/L16-1702/
+bisazza-federico-2016-surveys,2016,{S}urveys: A Survey of Word Reordering in Statistical Machine Translation: Computational Models and Language Phenomena,https://aclanthology.org/J16-2001/
+neubig-watanabe-2016-optimization,2016,Optimization for Statistical Machine Translation: A Survey,https://aclanthology.org/J16-1001/
+hicks-etal-2016-analysis,2016,An Analysis of {W}ord{N}et{'}s Coverage of Gender Identity Using {T}witter and The National Transgender Discrimination Survey,https://aclanthology.org/2016.gwc-1.19/
+shoufan-alameri-2015-natural,2015,Natural Language Processing for Dialectical {A}rabic: A Survey,https://aclanthology.org/W15-3205/
+osborne-liang-2015-survey,2015,A Survey of Ellipsis in {C}hinese,https://aclanthology.org/W15-2130/
+friedrich-etal-2015-annotating,2015,"Annotating genericity: a survey, a scheme, and a corpus",https://aclanthology.org/W15-1603/
+nagase-etal-2015-survey,2015,A survey of usage environment of machine translation by professional translators,https://aclanthology.org/2015.mtsummit-users.9/
+schluter-2015-critical,2015,A critical survey on measuring success in rank-based keyword assignment to documents,https://aclanthology.org/2015.jeptalnrecital-court.9/
+canales-martinez-barco-2014-emotion,2014,Emotion Detection from text: A Survey,https://aclanthology.org/W14-6905/
+hernandez-a-gomez-2014-survey,2014,"Survey in sentiment, polarity and function analysis of citation",https://aclanthology.org/W14-2115/
+mesa-lao-2014-speech,2014,Speech-Enabled Computer-Aided Translation: A Satisfaction Survey with Post-Editor Trainees,https://aclanthology.org/W14-0315/
+petrolito-bond-2014-survey,2014,A Survey of {W}ord{N}et Annotated Corpora,https://aclanthology.org/W14-0132/
+hasan-ng-2014-automatic,2014,Automatic Keyphrase Extraction: A Survey of the State of the Art,https://aclanthology.org/P14-1119/
+shaalan-2014-survey,2014,A Survey of {A}rabic Named Entity Recognition and Classification,https://aclanthology.org/J14-2008/
+guo-etal-2014-crab,2014,{CRAB} 2.0: A text mining tool for supporting literature review in chemical cancer risk assessment,https://aclanthology.org/C14-2017/
+johnston-etal-2013-spoken,2013,Spoken Dialog Systems for Automated Survey Interviewing,https://aclanthology.org/W13-4050/
+ai-2013-perceptual,2013,Perceptual Feedback in Computer Assisted Pronunciation Training: A Survey,https://aclanthology.org/R13-2001/
+ivanova-etal-2013-survey,2013,Survey on parsing three dependency representations for {E}nglish,https://aclanthology.org/P13-3005/
+dridan-oepen-2012-tokenization,2012,"{T}okenization: Returning to a Long Solved Problem {---} A Survey, Contrastive Experiment, Recommendations, and Toolkit {---}",https://aclanthology.org/P12-2074/
+bank-schierle-2012-survey,2012,A Survey of Text Mining Architectures and the {UIMA} Standard,https://aclanthology.org/L12-1047/
+chiarcos-2012-ontologies,2012,Ontologies of Linguistic Annotation: Survey and perspectives,https://aclanthology.org/L12-1545/
+krahmer-van-deemter-2012-computational,2012,Computational Generation of Referring Expressions: A Survey,https://aclanthology.org/J12-1006/
+dimitrova-etal-2011-survey,2011,Survey on Current State of {B}ulgarian-{P}olish Online Dictionary,https://aclanthology.org/W11-4107/
+wiegand-etal-2010-survey,2010,A survey on the role of negation in sentiment analysis,https://aclanthology.org/W10-3111/
+chen-ji-2010-graph,2010,Graph-Based Clustering for Computational Linguistics: A Survey,https://aclanthology.org/W10-2301/
+lee-etal-2010-qualia,2010,Qualia Modification in Noun-Noun Compounds: A Cross-Language Survey,https://aclanthology.org/O10-2010/
+fritzinger-etal-2010-survey,2010,A Survey of Idiomatic Preposition-Noun-Verb Triples on Token Level,https://aclanthology.org/L10-1504/
+madnani-dorr-2010-generating,2010,Generating Phrasal and Sentential Paraphrases: A Survey of Data-Driven Methods,https://aclanthology.org/J10-3003/
+tomanek-olsson-2009-web,2009,A Web Survey on the Use of Active Learning to Support Annotation of Text Data,https://aclanthology.org/W09-1906/
+baldwin-etal-2009-prepositions,2009,Prepositions in Applications: A Survey and Introduction to the Special Issue,https://aclanthology.org/J09-2001/
+reed-etal-2008-linguistic,2008,"The {L}inguistic {D}ata {C}onsortium Member Survey: Purpose, Execution and Results",https://aclanthology.org/L08-1006/
+elenius-etal-2008-language,2008,Language Resources and Tools for {S}wedish: A Survey,https://aclanthology.org/L08-1410/
+artstein-poesio-2008-survey,2008,Survey Article: Inter-Coder Agreement for Computational Linguistics,https://aclanthology.org/J08-4004/
+lu-etal-2008-analyzing,2008,Analyzing {C}hinese Synthetic Words with Tree-based Information and a Survey on {C}hinese Morphologically Derived Words,https://aclanthology.org/I08-4008/
+hammarstrom-2007-survey,2007,A Survey and Classification of Methods for (Mostly) Unsupervised Learning of Morphology,https://aclanthology.org/W07-2446/
+meng-etal-2006-statistical,2006,Statistical Survey of Monophthong Formants in {M}andarin for Students Being Trained as Broadcasters,https://aclanthology.org/Y06-1037/
+hsieh-huang-2006-conset,2006,When Conset Meets Synset: A Preliminary Survey of an Ontological Lexical Resource Based on {C}hinese Characters,https://aclanthology.org/P06-2050/
+gillard-etal-2006-question,2006,Question Answering Evaluation Survey,https://aclanthology.org/L06-1312/
+lagoudaki-2006-translation,2006,Translation Memories Survey 2006: User{'}s Perceptions Around {TM} Usage,https://aclanthology.org/2006.tc-1.2/
+hsieh-2005-word,2005,Word Meaning Inducing via Character Ontology: A Survey on the Semantic Prediction of {C}hinese Two-Character Words,https://aclanthology.org/I05-3008/
+murata-etal-2005-trend,2005,Trend Survey on {J}apanese Natural Language Processing Studies over the Last Decade,https://aclanthology.org/I05-2043/
+zielinski-2005-research,2005,Research Meets Practice: t-survey 2005: An Online Survey on Terminology Extraction and Terminology Management,https://aclanthology.org/2005.tc-1.10/
+poesio-etal-2004-discourse,2004,Discourse-New Detectors for Definite Description Resolution: A Survey and a Preliminary Proposal,https://aclanthology.org/W04-0707/
+lai-bird-2004-querying,2004,Querying and Updating Treebanks: A Critical Survey and Requirements Analysis,https://aclanthology.org/U04-1019/
+lavelli-etal-2004-critical,2004,A Critical Survey of the Methodology for {IE} Evaluation,https://aclanthology.org/L04-1245/
+sekine-nobata-2003-survey,2003,A survey for Multi-Document Summarization,https://aclanthology.org/W03-0509/
+binnenpoorte-etal-2002-field,2002,A Field Survey for Establishing Priorities in the Development of {HLT} Resources for {D}utch,https://aclanthology.org/L02-1252/
+gaspari-2001-teaching,2001,Teaching machine translation to trainee translators: a survey of their knowledge and opinions,https://aclanthology.org/2001.mtsummit-teach.5/
+carroll-oepen-2000-efficient,2000,Efficient Large-Scale Parsing {--} a Survey,https://aclanthology.org/W00-1601/
+allen-choukri-2000-survey,2000,Survey of Language Engineering Needs: a Language Resources Perspective,https://aclanthology.org/L00-1238/
+wiemer-hastings-etal-2000-dp,2000,{DP}: A Detector for Presuppositions in survey questions,https://aclanthology.org/A00-1013/
+akman-1999-book,1999,Book Reviews: Survey of the State of the Art in Human Language Technology,https://aclanthology.org/J99-1005/
+macklovitch-1999-regional,1999,Regional survey: {M}(A){T} in {N}orth {A}merica,https://aclanthology.org/1999.mtsummit-1.11/
+somers-1998-survey,1998,Survey of methodological approaches to {MT},https://aclanthology.org/1998.amta-tutorials.2/
+oneill-brown-1998-survey,1998,Survey of (second) language learning technologies,https://aclanthology.org/1998.amta-tutorials.3/
+hsieh-lin-1997-zhong,1997,中央研究院古籍全文資料庫的發展概要 (A Survey of Full-text Data Bases and Related Techniques for {C}hinese Ancient Documents in Academia Sinica) [in {C}hinese],https://aclanthology.org/O97-3005/
+lee-juang-1996-survey,1996,A Survey on Automatic Speech Recognition with an Illustrative Example on Continuous Speech Recognition of {M}andarin,https://aclanthology.org/O96-2001/
+rinsche-1995-translation,1995,Translation technology - A survey of latest product developments,https://aclanthology.org/1995.mtsummit-1.24/
+sundheim-chinchor-1993-survey,1993,Survey of the {M}essage {U}nderstanding {C}onferences,https://aclanthology.org/H93-1011/
+procter-1993-cambridge,1993,The {C}ambridge language survey,https://aclanthology.org/1993.eamt-1.5/
+kamei-wakao-1992-metonymy,1992,"Metonymy: Reassessment, Survey of Acceptability, and Its Treatment in a Machine Translation System",https://aclanthology.org/P92-1047/
+mcnaught-1987-survey,1987,A survey of termbanks worldwide,https://aclanthology.org/1987.tc-1.11/
+hartley-1986-continuing,1986,Continuing training for the language professions: a survey of needs,https://aclanthology.org/1986.tc-1.2/
+slocum-1985-survey,1985,"A Survey of Machine Translation: Its History, Current Status and Future Prospects",https://aclanthology.org/J85-1001/
+lawson-1984-basic,1984,A basic survey of practical machine translation,https://aclanthology.org/1984.bcs-1.2/
+nn-1980-results,1980,Results of the 1978 Publications Survey,https://aclanthology.org/J80-1007/
+leunbach-1979-om,1979,Om automatisk orddeling. Forslag til en unders{\o}gelse. (About automatic word-splitting. A survey proposal.) [In {D}anish],https://aclanthology.org/W79-0105/
+thavenius-1979-projektet,1979,Projektet Engelskt talspr{\r{a}}k (The Survey of Spoken {E}nglish Project) [In {S}wedish],https://aclanthology.org/W79-0108/
+young-1977-text,1977,Text Understanding: A Survey,https://aclanthology.org/J77-4002/
+grishman-1976-survey,1976,A Survey of Syntactic Analysis Procedures for Natural Language,https://aclanthology.org/J76-2006/
+wilks-1976-natural,1976,Natural Language Understanding Systems within the {A}. {I}. Paradigm: A Survey and Some Comparisons,https://aclanthology.org/J76-1007/

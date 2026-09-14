@@ -1,0 +1,4 @@
+pair_id,label,rationale
+r17_000,not_contradiction,"Both hypotheses are consistent in asserting that gradient-based meta-learning methods like MAML exhibit high scalability, with hypothesis B using this property as a point of contrast against the limitations of classic HPO."
+r17_001,not_contradiction,"The hypotheses describe two different models proposed by different authors, and the second hypothesis explicitly identifies itself as an alternative approach that differs from the first."
+r17_002,not_contradiction,The hypotheses describe two different methodological approaches applied to different research papers; they are complementary descriptions of a spectrum rather than conflicting claims.

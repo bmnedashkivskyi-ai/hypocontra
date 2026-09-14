@@ -1,0 +1,45 @@
+sentence_id,status,skip_reason,topic,hypothesis_a,source_a,hypothesis_b,source_b
+s0242,skipped,not_genuine_contrast,,,,,
+s0244,skipped,not_genuine_contrast,,,,,
+s0246,skipped,not_genuine_contrast,,,,,
+s0248,pair_created,,Multi-task learning low-rank regularization,Chen et al. (2011) propose a multi-task learning method that jointly and explicitly optimizes both a low-rank structure component and a group-sparse structure component within the objective function to achieve robust multi-task learning.,chen2011integrating,"Chen et al. (2012) instead learn incoherent sparse and low-rank patterns across multiple tasks by imposing a constraint on the trace norm, which implicitly encourages a low-rank structure rather than optimizing for it directly in the objective.",chen2012learning
+s0249,skipped,insufficient_context,,,,,
+s0252,skipped,insufficient_context,,,,,
+s0253,skipped,not_genuine_contrast,,,,,
+s0254,skipped,not_genuine_contrast,,,,,
+s0261,skipped,not_genuine_contrast,,,,,
+s0263,skipped,not_genuine_contrast,,,,,
+s0268,skipped,not_genuine_contrast,,,,,
+s0272,skipped,not_genuine_contrast,,,,,
+s0273,skipped,not_genuine_contrast,,,,,
+s0277,skipped,not_genuine_contrast,,,,,
+s0286,pair_created,,Local feature matching paradigm,"S-TREK (Santellani et al., 2023) follows a detect-then-describe strategy for local feature matching, using a translation- and rotation-equivariant keypoint detector paired with a lightweight descriptor extractor.",santellani2023s,"SE2-LoFTR (Bökman & Kahl, 2022) instead adopts a detector-free paradigm, directly extracting pixel-level correspondences between image pairs without any preliminary keypoint detection step.",bokman2022case
+s0288,skipped,not_genuine_contrast,,,,,
+s0289,pair_created,,Speech waveform generation pipeline design,"WaveGrad (Chen et al., 2020) generates audio by converting a Mel-spectrogram into a waveform, functioning as a vocoder stage in a cascaded text-to-speech pipeline.",chen2020wavegrad,"WaveGrad 2 (Chen et al., 2021) instead adopts an end-to-end approach that takes a phoneme sequence as direct input and generates the audio waveform through an iterative refinement process, without an intermediate Mel-spectrogram step.",chen2021wavegrad
+s0290,skipped,insufficient_context,,,,,
+s0292,skipped,not_genuine_contrast,,,,,
+s0293,skipped,insufficient_context,,,,,
+s0295,skipped,not_genuine_contrast,,,,,
+s0296,skipped,not_genuine_contrast,,,,,
+s0298,skipped,not_genuine_contrast,,,,,
+s0300,skipped,not_genuine_contrast,,,,,
+s0303,skipped,not_genuine_contrast,,,,,
+s0309,skipped,insufficient_context,,,,,
+s0311,skipped,not_genuine_contrast,,,,,
+s0312,pair_created,,Offline RLHF benchmark construction methodology,Shin et al. (2023) construct offline preference-based reward learning benchmarks and algorithms leveraging synthetic rewards rather than real human preference data.,shin2023benchmarks,"Yuan et al. (2024, Uni-RLHF) instead propose a dataset and benchmark suite for offline RLHF that includes diverse, real human preference data rather than relying on synthetic rewards.",yuan2024unirlhf
+s0318,skipped,not_genuine_contrast,,,,,
+s0322,pair_created,,Specialized vs. generalist models for medical image segmentation,"nnU-Net (Isensee et al., 2021) is a self-configuring, task-specialized deep learning pipeline designed to achieve state-of-the-art performance in biomedical image segmentation across diverse target classes.",isensee2021nnu,"MedSAM (Ma & Wang, 2023), an adaptation of the generalist Segment Anything Model to medical images, achieves remarkable performance across 14 unseen datasets, 50 target classes, and seven imaging modalities, even surpassing specialized nnU-Net models on each target class.",ma2023segment
+s0332,skipped,not_genuine_contrast,,,,,
+s0333,skipped,not_genuine_contrast,,,,,
+s0335,skipped,not_genuine_contrast,,,,,
+s0342,skipped,not_genuine_contrast,,,,,
+s0343,pair_created,,Prompt optimization objective granularity,"Prompt-OIRL (Sun, 2023) proposes a query-dependent prompt optimization approach using offline inverse reinforcement learning, tailoring the prompt to each individual query.",sun2023offline,"RLPrompt (Deng et al., 2022) instead optimizes discrete text prompts via reinforcement learning to find a single, distributionally optimal prompt that maximizes expected answer quality across the whole query distribution, rather than adapting the prompt per query.",deng2022rlprompt
+s0345,pair_created,,Differentiable neural network pruning mechanism,"DSA (Ning et al., 2020) achieves differentiable budgeted pruning via differentiable sparsity allocation, a mechanism that (unlike PDP) relies on extra trainable parameters.",ning2020dsa,"PDP (Cho et al., 2023) shows that soft pruning masks for weights can be generated in a parameter-free manner, without extra trainable parameters, to accomplish differentiable pruning for both CNNs and Transformers.",cho2023pdp
+s0348,skipped,not_genuine_contrast,,,,,
+s0357,skipped,not_genuine_contrast,,,,,
+s0358,skipped,not_genuine_contrast,,,,,
+s0359,skipped,not_genuine_contrast,,,,,
+s0362,skipped,not_genuine_contrast,,,,,
+s0364,skipped,not_genuine_contrast,,,,,
+s0367,skipped,not_genuine_contrast,,,,,
+s0368,skipped,not_genuine_contrast,,,,,

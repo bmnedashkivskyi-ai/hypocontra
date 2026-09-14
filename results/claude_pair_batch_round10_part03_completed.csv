@@ -1,0 +1,31 @@
+sentence_id,status,skip_reason,topic,hypothesis_a,source_a,hypothesis_b,source_b
+s0299,skipped,not_genuine_contrast,,,,,
+s0300,skipped,not_genuine_contrast,,,,,
+s0304,skipped,not_genuine_contrast,,,,,
+s0308,pair_created,,Syntactic parsing in semantic query graph generation,"Semantic parsing for question answering over knowledge bases can be performed by using a syntactic parser (e.g. a CCG or dependency-tree parser) to help construct the semantic query graph from the input question (Reddy et al., 2014, large-scale semantic parsing without question-answer pairs).",reddy-etal-2014-large,"Semantic query graph generation for knowledge-base question answering can be achieved via a staged generation process without relying on any syntactic parser (Yih, Chang, He & Gao, 2015, staged query graph generation for QA with a knowledge base).",Scott_yih_and_Jianfeng_2015_SQG-Tx-KB
+s0315,skipped,not_genuine_contrast,,,,,
+s0316,skipped,not_genuine_contrast,,,,,
+s0317,skipped,not_genuine_contrast,,,,,
+s0318,skipped,not_genuine_contrast,,,,,
+s0323,skipped,not_genuine_contrast,,,,,
+s0326,skipped,insufficient_context,,,,,
+s0332,skipped,insufficient_context,,,,,
+s0333,skipped,insufficient_context,,,,,
+s0335,skipped,insufficient_context,,,,,
+s0338,skipped,insufficient_context,,,,,
+s0340,skipped,not_genuine_contrast,,,,,
+s0343,skipped,not_genuine_contrast,,,,,
+s0345,skipped,not_genuine_contrast,,,,,
+s0346,skipped,not_genuine_contrast,,,,,
+s0349,pair_created,,Acoustic modeling for code-switched ASR,"A speech recognition system for code-switched (e.g. Mandarin-English) conversational speech can be built by training the acoustic model directly on bilingual, code-switched data (Vu et al., 2012, first speech recognition system for Mandarin-English code-switch conversational speech).",vu2012first,"Mixed-language (Hindi-English) automatic speech recognition can instead be achieved by reusing existing monolingual acoustic models together with a phone-mapped lexicon and a modified language model, rather than training a new bilingual acoustic model (Bhuvanagiri & Kopparapu, 2010, an approach to mixed language ASR).",bhuvanagiri2010approach
+s0355,skipped,not_genuine_contrast,,,,,
+s0363,skipped,not_genuine_contrast,,,,,
+s0365,skipped,same_finding_different_wording,,,,,
+s0366,pair_created,,Adversarial techniques in dialogue generation,"Adversarial techniques can be used to evaluate dialogue generation systems, by training a discriminator to distinguish machine-generated responses from human-written ones as a proxy for response quality (Kannan & Vinyals, 2017, adversarial evaluation of dialogue models).",kannan2017adversarial,"Rather than only being used for evaluation, adversarial learning can be applied directly inside the dialogue generation training process itself to improve the quality of the generated responses (Li et al., 2017, adversarial learning for neural dialogue generation).",li-EtAl:2017:EMNLP20175
+s0368,skipped,not_genuine_contrast,,,,,
+s0370,skipped,same_finding_different_wording,,,,,
+s0372,pair_created,,Seed-pair supervision for cross-lingual embeddings,"Learning a linear mapping between the word embedding spaces of two languages (e.g. for machine translation) requires a sizeable bilingual seed lexicon, on the order of thousands of translation pairs (as used with about 5000 pairs) (Mikolov, Le & Sutskever, 2013, exploiting similarities among languages for machine translation).",Mikolov2013b,"A cross-lingual word embedding mapping can instead be learned with almost no bilingual supervision, requiring as few as 25 seed translation pairs (Artetxe, Labaka & Agirre, 2017, learning bilingual word embeddings with almost no bilingual data).",Artetxe:2017acl
+s0375,skipped,not_genuine_contrast,,,,,
+s0380,skipped,not_genuine_contrast,,,,,
+s0381,pair_created,,Understandability evaluation of controlled natural languages,"Attempto Controlled English (ACE) has been empirically shown to be easier and faster for people to understand than a conventional ontology notation, when used for authoring or reading OWL statements (Kuhn, 2013, the understandability of OWL statements in controlled English).",kuhn2013swj,"In contrast, empirical experiments evaluating the understandability of the Rabbit controlled natural language for ontology authoring produced only mixed results (Hart, Johnson & Dolbear, 2008, Rabbit: developing a controlled natural language for authoring ontologies).",hart2008eswc
+s0384,skipped,not_genuine_contrast,,,,,

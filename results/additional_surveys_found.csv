@@ -1,0 +1,54 @@
+arxiv_id,title,query
+2102.07259,Thank you for Attention: A survey on Attention-based Artificial Neural Networks for Automatic Speech Recognition,attention interpretability survey
+1705.03865,Survey of Visual Question Answering: Datasets and Techniques,attention interpretability survey
+2506.05399,Attention-based transformer models for image captioning across languages: An in-depth survey and evaluation,attention interpretability survey
+2507.19595,Efficient Attention Mechanisms for Large Language Models: A Survey,attention interpretability survey
+2405.08603,A Comprehensive Survey of Large Language Models and Multimodal Large Language Models in Medicine,attention interpretability survey
+2208.10099,Recent Advances in Text-to-SQL: A Survey of What We Have and What We Expect,attention interpretability survey
+1811.05544,An Introductory Survey on Attention Mechanisms in NLP Problems,attention interpretability survey
+2506.11111,Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions,attention interpretability survey
+1905.08110,Image Captioning based on Deep Learning Methods: A Survey,attention interpretability survey
+1703.09902,"Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation",attention interpretability survey
+2507.13334,A Survey of Context Engineering for Large Language Models,in-context learning survey
+2503.17407,A Comprehensive Survey on Long Context Language Modeling,in-context learning survey
+2311.00237,The Mystery of In-Context Learning: A Comprehensive Survey on Interpretation and Analysis,in-context learning survey
+2403.08319,Knowledge Conflicts for LLMs: A Survey,in-context learning survey
+2401.07872,"The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey",in-context learning survey
+2412.15831,Enriching Social Science Research via Survey Item Linking,in-context learning survey
+2502.12378,"Pragmatics in the Era of Large Language Models: A Survey on Datasets, Evaluation, Opportunities and Challenges",in-context learning survey
+2309.05922,A Survey of Hallucination in Large Foundation Models,hallucination detection survey
+2608.26168,"Hallucinations in LLMs: A Lifecycle-Based Survey of Causes, Detection, Mitigation, and Prevention",hallucination detection survey
+2402.00253,A Survey on Hallucination in Large Vision-Language Models,hallucination detection survey
+2202.03629,Survey of Hallucination in Natural Language Generation,hallucination detection survey
+2311.07914,Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey,hallucination detection survey
+2309.01219,Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models,hallucination detection survey
+2510.24476,"Mitigating Hallucination in Large Language Models (LLMs): An Application-Oriented Survey on RAG, Reasoning, and Agentic Systems",hallucination detection survey
+2311.05232,"A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",hallucination detection survey
+2510.06265,Large Language Models Hallucination: A Comprehensive Survey,hallucination detection survey
+2404.12041,A Survey of Automatic Hallucination Evaluation on Natural Language Generation,hallucination detection survey
+2601.17431,The 17% Gap: Quantifying Epistemic Decay in AI-Assisted Survey Papers,hallucination detection survey
+2205.08740,A reproducible experimental survey on biomedical sentence similarity: a string-based method sets the state of the art,reproducibility survey natural language
+2410.20238,A Survey of Large Language Models for Arabic Language and its Dialects,reproducibility survey natural language
+2510.13430,"Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps",reproducibility survey natural language
+2306.16900,Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research,reproducibility survey natural language
+2402.01799,Faster and Lighter LLMs: A Survey on Current Challenges and Way Forward,reproducibility survey natural language
+2606.11470,"The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes",spurious correlations survey NLP
+2210.07566,A Survey of Parameters Associated with the Quality of Benchmarks in NLP,spurious correlations survey NLP
+2606.30219,EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures,benchmark evaluation survey language models
+2306.12719,Natural Language Generation for Advertising: A Survey,benchmark evaluation survey language models
+2401.05632,Natural Language Processing for Dialects of a Language: A Survey,benchmark evaluation survey language models
+2604.18423,"BhashaSutra: A Task-Centric Unified Survey of Indian NLP Datasets, Corpora, and Resources",benchmark evaluation survey language models
+2502.09457,A Survey of Multilingual Reasoning in Language Models,benchmark evaluation survey language models
+2410.20161,Causal Abstraction in Model Interpretability: A Compact Survey,causal inference survey natural language
+2403.09606,Large Language Models and Causal Inference in Collaboration: A Survey,causal inference survey natural language
+2503.09326,A Survey on Enhancing Causal Reasoning Ability of Large Language Models,causal inference survey natural language
+2109.08120,A Survey of Online Hate Speech through the Causal Lens,causal inference survey natural language
+2101.06426,A Survey on Extraction of Causal Relations from Natural Language Text,causal inference survey natural language
+1605.07895,Automatic Extraction of Causal Relations from Natural Language Texts: A Comprehensive Survey,causal inference survey natural language
+2412.01265,Indexing Economic Fluctuation Narratives from Keiki Watchers Survey,causal inference survey natural language
+2411.10371,"A Survey of Event Causality Identification: Taxonomy, Challenges, Assessment, and Prospects",causal inference survey natural language
+2408.16444,SurveySum: A Dataset for Summarizing Multiple Scientific Articles into a Survey Section,dataset artifacts survey NLP
+2205.10977,What should I Ask: A Knowledge-driven Approach for Follow-up Questions Generation in Conversational Surveys,dataset artifacts survey NLP
+2402.18041,Datasets for Large Language Models: A Comprehensive Survey,dataset artifacts survey NLP
+2312.07622,Mathematical Language Models: A Survey,dataset artifacts survey NLP
+2310.06260,An experiment on an automated literature survey of data-driven speech enhancement methods,model comparison survey natural language

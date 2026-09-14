@@ -1,0 +1,114 @@
+sentence_id,status,skip_reason,topic,hypothesis_a,source_a,hypothesis_b,source_b,reject_reason
+s0005,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0008,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0009,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0010,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0011,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0014,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0015,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0021,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0022,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0025,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0026,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0027,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0031,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0032,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0033,skipped,insufficient_context,,,,,,skipped_by_annotator
+s0034,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0038,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0039,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0041,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0042,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0045,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0047,skipped,insufficient_context,,,,,,skipped_by_annotator
+s0052,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0053,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0054,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0055,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0059,skipped,not_genuine_contrast: the two refs (physician gender bias in clinical evaluation) are co-cited and unrelated to the sentence's actual claim about human-validation scope/methodology; not contrasted with each other,,,,,,skipped_by_annotator
+s0061,skipped,"not_genuine_contrast: co-cited as parallel supporting examples for the same claim that prompt variation causes inconsistent LLM results, not contrasted with each other",,,,,,skipped_by_annotator
+s0062,skipped,"not_genuine_contrast: co-cited together supporting the same description of philosophy's methodological toolkit, not contrasted with each other",,,,,,skipped_by_annotator
+s0063,skipped,"not_genuine_contrast: both are methodological citations for the survey's own annotation/statistics procedure (dataset + Cohen's kappa extension), not two contrasted works",,,,,,skipped_by_annotator
+s0072,skipped,insufficient_context: kweon2024publicly's abstract describes an unrelated topic (a clinical LLM built on synthetic notes) with no mention of the rubric-based GPT-4 scoring method the sentence attributes to it; jones2024teaching has no abstract/context beyond a bare bibliographic entry to confirm its described evaluation method,,,,,,skipped_by_annotator
+s0074,skipped,"not_genuine_contrast: co-cited together as examples of approaches that suffer hallucinations, not contrasted with each other",,,,,,skipped_by_annotator
+s0075,skipped,not_genuine_contrast: the two works use different rule-based taggers (HeidelTime vs SUTime) for two different downstream tasks (question generation vs Wikipedia pretraining) -- not opposing claims about the same question,,,,,,skipped_by_annotator
+s0076,skipped,"not_genuine_contrast: each citation illustrates a separate, independent failure mode (cultural variation vs description length), not contrasted against each other",,,,,,skipped_by_annotator
+s0077,skipped,"not_genuine_contrast: co-cited together supporting the same human-centered-AI principle, not contrasted with each other",,,,,,skipped_by_annotator
+s0083,skipped,"not_genuine_contrast: three works listed as parallel manifestations of the same general training principle, not contrasted",,,,,,skipped_by_annotator
+s0085,skipped,"not_genuine_contrast: the citation describes an analogy/support relationship (method 'resonates with' Piaget's theory), not a contradiction",,,,,,skipped_by_annotator
+s0087,skipped,not_genuine_contrast: three methods listed together as parallel examples for the same voice-quality-assessment task,,,,,,skipped_by_annotator
+s0088,skipped,"not_genuine_contrast: different feature types (EEG+speech vs acoustic) listed as parallel examples for the same schizophrenia-detection task, not opposing claims",,,,,,skipped_by_annotator
+s0093,skipped,not_genuine_contrast: two specialized reasoning-augmentation techniques (code simulation vs formal-logic checks) target different reasoning styles and are complementary rather than competing claims,,,,,,skipped_by_annotator
+s0095,skipped,"insufficient_context: vatsal2024can2 and vatsal2024can have no abstract/context confirming the 'Implicit RAG' self-retrieval mechanism the sentence attributes to them; their titles concern GPT evaluation on biomedical/prior-authorization QA, not a retrieval-method contribution",,,,,,skipped_by_annotator
+s0098,skipped,not_genuine_contrast: four refs co-cited as supporting examples for the same claim about the effectiveness of hard negatives,,,,,,skipped_by_annotator
+s0099,skipped,"insufficient_context: the fine-tuning/pretraining side (yu2024automated, academicgpt) has no abstract confirming a fine-tuning/pretraining methodology specifically applied to peer-review feedback generation",,,,,,skipped_by_annotator
+s0100,skipped,"not_genuine_contrast: three methods enumerated as parallel prior approaches to comparative opinion extraction, not contrasted",,,,,,skipped_by_annotator
+s0104,skipped,not_genuine_contrast: two models are co-cited with a vague joint 'mixed results' description; no distinct individual claim is given for either,,,,,,skipped_by_annotator
+s0108,skipped,"not_genuine_contrast: both refs are cited together as general background for the discriminative-vs-generative dichotomy itself, not as two works whose own claims conflict",,,,,,skipped_by_annotator
+s0109,skipped,not_genuine_contrast: co-cited together as parallel examples of continuous-channel emergent-communication work,,,,,,skipped_by_annotator
+s0110,skipped,"not_genuine_contrast: the contrast drawn is between the current survey and prior surveys collectively, not between the two cited surveys themselves",,,,,,skipped_by_annotator
+s0116,skipped,not_genuine_contrast: co-cited together as parallel examples of studies on production-level LMs,,,,,,skipped_by_annotator
+s0117,skipped,not_genuine_contrast: duplicate of s0116's citation context; co-cited together as parallel examples of studies on production-level LMs,,,,,,skipped_by_annotator
+s0122,skipped,"not_genuine_contrast: Zaki2024-mt (MaScQA) and Auer2023-wq (SciQA) are benchmark datasets used to test Zhang2024-ks's model's generalization, not independent works making contradicting claims",,,,,,skipped_by_annotator
+s0124,skipped,not_genuine_contrast: the two works address different chemistry sub-tasks (reaction atom-mapping vs H-NMR peak assignment) rather than opposing claims about the same question,,,,,,skipped_by_annotator
+s0136,skipped,"not_genuine_contrast: enumeration of training datasets for different task categories, not contrasted works",,,,,,skipped_by_annotator
+s0140,skipped,not_genuine_contrast: co-cited together supporting the same claim about coordinated review-bombing behavior,,,,,,skipped_by_annotator
+s0142,skipped,"not_genuine_contrast: the two studies examine complementary aspects of LLM/human preference alignment (whose opinions LLMs reflect vs how much disagreement is captured), not opposing claims",,,,,,skipped_by_annotator
+s0143,skipped,"not_genuine_contrast: same underlying citations/claim as s0142; complementary investigations, not opposing claims",,,,,,skipped_by_annotator
+s0146,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0152,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0153,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0155,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0161,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0162,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0163,skipped,insufficient_context,,,,,,skipped_by_annotator
+s0164,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0165,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0168,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0170,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0179,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0180,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0182,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0183,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0184,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0193,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0197,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0198,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0200,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0201,skipped,insufficient_context,,,,,,skipped_by_annotator
+s0203,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0205,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0211,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0214,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0215,skipped,insufficient_context,,,,,,skipped_by_annotator
+s0216,skipped,insufficient_context,,,,,,skipped_by_annotator
+s0217,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0220,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0221,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0222,skipped,same_finding_different_wording,,,,,,skipped_by_annotator
+s0226,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0232,skipped,same_finding_different_wording,,,,,,skipped_by_annotator
+s0235,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0236,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0245,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0248,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0249,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0252,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0253,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0255,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0256,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0261,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0264,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0265,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0266,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0269,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0273,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0274,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0275,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0277,skipped,same_finding_different_wording,,,,,,skipped_by_annotator
+s0283,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0288,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0296,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0315,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+,,,LLM-driven chemical reaction optimization strategies,Large language models are most effective for optimizing chemical reactions when used as an in-context-learning surrogate model embedded within a Bayesian Optimization algorithm that guides the search over reaction/catalyst conditions.,Ramos2023-cs,"Large language models can instead autonomously conduct chemical research by framing reaction-condition selection as a strategic game aimed directly at maximizing reaction yield, rather than serving as a surrogate model inside a separate optimization algorithm.",Boiko2023-ot,exact_duplicate_within_round11
+,,,mechanistic view of transformer feed-forward layers,"Transformer feed-forward layers function as key-value memories at the level of individual neurons: each neuron/key correlates with a textual pattern in the training data, and each value induces a distribution over the output vocabulary.",geva-etal-2021-transformer,"Based on causal tracing analysis of GPT-2, transformer MLP layers are better characterized as a single linear associative memory rather than a collection of per-neuron key-value pairs.",NEURIPS2022_6f1d43d5,exact_duplicate_within_round11

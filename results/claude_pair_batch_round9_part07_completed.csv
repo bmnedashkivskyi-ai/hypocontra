@@ -1,0 +1,41 @@
+sentence_id,status,skip_reason,topic,hypothesis_a,source_a,hypothesis_b,source_b
+s0537,skipped,not_genuine_contrast,,,,,
+s0540,pair_created,,computational politeness labeling tool,A computational model of politeness strategies can be built to link linguistic markers of politeness to social factors (such as power and social relations) in text.,danescu2013computational,"Directly applying an existing computational politeness-labeling approach to broader, more general social computing data reveals notable challenges, though the tool can be revalidated as usable for labeling politeness more broadly once these are addressed.",hoffman2017evaluating
+s0541,pair_created,,MoE routing for multilingual MT,"Multilingual neural machine translation can be effectively scaled to many language pairs (including low-resource ones) using trainable/learned gating within a mixture-of-experts architecture, achieving better translation quality than approaches based on explicit language-specific expert selection.",costa2022no,"Multilingual neural machine translation can be scaled beyond English-centric pairs using an architecture with explicit, language-specific expert/module selection rather than a learned gating mechanism.",fan2021beyond
+s0543,skipped,not_genuine_contrast,,,,,
+s0544,pair_created,,methodology for studying ChatGPT's impact,"Understanding of ChatGPT's use, benefits, and challenges in domains like education, healthcare, and research is best obtained through an exploratory survey that collects direct feedback from practitioners.",hosseini2023exploratory,"A comprehensive review that aggregates findings from existing studies can characterize ChatGPT's background, applications, key challenges, bias, ethics, and limitations, offering a generalized perspective without collecting new primary data.",ray2023chatgpt
+s0546,skipped,not_genuine_contrast,,,,,
+s0548,skipped,not_genuine_contrast,,,,,
+s0552,skipped,not_genuine_contrast,,,,,
+s0553,skipped,not_genuine_contrast,,,,,
+s0557,pair_created,,effect of output format constraints on LLM performance,"Imposing rigid output format restrictions on large language models (e.g., forcing structured formats) reduces their task performance compared to allowing free-form generation.",tam2024letspeakfreelystudy,"Structuring large language model outputs does not necessarily harm, and can actually improve, task performance; claims that format restrictions hurt performance rest on flawed evaluation.",kurt2024saywhatyoumean
+s0561,skipped,not_genuine_contrast,,,,,
+s0563,pair_created,,code generation vs. tool orchestration for visual reasoning,"Complex visual reasoning tasks can be solved by having a system generate an explicit program (executable code) that composes vision and language modules, without additional training.",gupta2023visual,"Visual reasoning and image editing/generation tasks can be accomplished by having a language model orchestrate external visual foundation models directly, without the system itself generating code.",wu2023visual
+s0564,skipped,not_genuine_contrast,,,,,
+s0567,pair_created,,evaluation paradigms for continual learning in LMs,Continual learning ability of language models should be evaluated primarily by domain-specific adaptability and incremental-learning performance across a sequence of new training domains.,ke2022continualb,"Continual learning ability of language models should instead be evaluated with a dedicated benchmark that measures whether a model retains time-invariant knowledge, updates outdated information, and acquires new knowledge over time.",jang2021towards
+s0576,skipped,not_genuine_contrast,,,,,
+s0577,skipped,insufficient_context,,,,,
+s0578,skipped,insufficient_context,,,,,
+s0579,skipped,not_genuine_contrast,,,,,
+s0582,skipped,not_genuine_contrast,,,,,
+s0584,skipped,same_finding_different_wording,,,,,
+s0585,skipped,not_genuine_contrast,,,,,
+s0586,skipped,not_genuine_contrast,,,,,
+s0589,skipped,not_genuine_contrast,,,,,
+s0592,skipped,not_genuine_contrast,,,,,
+s0593,skipped,not_genuine_contrast,,,,,
+s0594,skipped,not_genuine_contrast,,,,,
+s0608,skipped,not_genuine_contrast,,,,,
+s0615,skipped,not_genuine_contrast,,,,,
+s0619,skipped,not_genuine_contrast,,,,,
+s0621,skipped,not_genuine_contrast,,,,,
+s0623,skipped,not_genuine_contrast,,,,,
+s0626,skipped,insufficient_context,,,,,
+s0629,skipped,not_genuine_contrast,,,,,
+s0632,pair_created,,role of LLMs in skill-extraction pipelines,Skill extraction and standardization from job-posting text can be delivered as a live API service that queries a large language model at inference/request time.,li2023skillgpt,"For skill extraction, a large language model is better used only during the training stage (to produce training signal for a smaller extraction model), keeping the LLM out of the inference path to reduce latency and improve reproducibility.",decorte2023extreme
+s0636,pair_created,,scale vs. quality of instruction-tuning data,"Instruction-following large language models can be effectively built by fine-tuning on a large, automatically constructed instruction dataset.",alpaca,"Strong instruction-following and alignment can be achieved with only a small number of carefully selected, high-quality examples rather than large-scale automatically constructed data -- 'less is more' for alignment.",zhou2023lima
+s0637,skipped,not_genuine_contrast,,,,,
+s0638,skipped,not_genuine_contrast,,,,,
+s0641,skipped,not_genuine_contrast,,,,,
+s0642,skipped,not_genuine_contrast,,,,,
+s0646,skipped,not_genuine_contrast,,,,,

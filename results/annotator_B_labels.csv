@@ -1,0 +1,43 @@
+pair_id,label,rationale
+p000,not_contradiction,Different languages and tasks (math pretraining corpus vs Hindi LLM); no shared claim to conflict.
+p001,not_contradiction,Compute-accuracy tradeoff analysis vs demonstration selection for in-context learning; unrelated specific claims.
+p002,not_contradiction,Conditional BERT data augmentation vs code-switching language model training; unrelated specific tasks.
+p003,not_contradiction,"Both do unsupervised aspect-based review analysis via different methods; complementary, not incompatible."
+p004,not_contradiction,"LayoutLMv2 is an explicit successor/improvement of LayoutLM, an iteration rather than a conflicting claim."
+p005,not_contradiction,Indian-language word embeddings release vs cross-lingual cognate detection method; different specific claims.
+p006,not_contradiction,"Both stock-prediction papers agree textual signals help; different methods and metrics, no real conflict."
+p007,not_contradiction,"Both target fake review detection using different methods; complementary approaches, not incompatible claims."
+p008,not_contradiction,Arabic social media processing toolkit vs suicidal ideation detection model; unrelated tasks.
+p009,type4_apparent,A claims SOTA within existing TOD benchmarks; B critiques that same benchmark paradigm as unrealistic for real-world use.
+p010,not_contradiction,"Different agent-improvement mechanisms (RL training pipeline vs skill libraries); complementary, not conflicting."
+p011,not_contradiction,Factuality-robustness benchmark vs Fourier-based parameter-efficient fine-tuning method; unrelated specific claims.
+p012,not_contradiction,"Broad deep learning NER survey vs few-shot-specific NER study; different scope, not conflicting."
+p013,not_contradiction,"Both papers agree context (community/corpus) matters more than fixed keywords; same direction, no conflict."
+p014,not_contradiction,Any-gram kernels for sentiment classification vs skip-gram subvector decomposition; unrelated specific claims.
+p015,not_contradiction,Different shared-task systems: Arabic question similarity vs aggressiveness/bias identification; unrelated tasks.
+p016,not_contradiction,Noisy-supervision boost to an existing parser vs label-free end-to-end IE architecture; complementary goals.
+p017,not_contradiction,Social-determinants-of-health extraction pipeline vs medical error detection benchmark; unrelated clinical NLP tasks.
+p018,not_contradiction,Massively multilingual African LM pretraining vs cross-lingual reranking evaluation; different specific tasks.
+p019,not_contradiction,Unified-modal contrastive pretraining architecture vs visual dialogue dataset release; different contributions.
+p020,not_contradiction,Batch-wise general text evaluation paradigm vs math meta-reasoning benchmark; different evaluation domains.
+p021,not_contradiction,Text-only functional test suite for hate speech vs multimodal meme classifier; different modality/task.
+p022,not_contradiction,New piecewise latent-variable distribution proposal vs general tutorial on the field; not conflicting.
+p023,not_contradiction,Shared 'temporal reasoning' vocabulary but different domains: text timeline summarization vs audio hallucination.
+p024,not_contradiction,Attention-span reduction for NMT efficiency vs attention-function comparison for handwriting recognition; unrelated.
+p025,not_contradiction,"Two different jailbreak-attack methods (evolutionary search vs GCG breadth search); complementary, not incompatible."
+p026,not_contradiction,Unsupervised aspect category detection vs aspect-term discovery via capsule network; different ABSA subtasks.
+p027,not_contradiction,Joint interactive ASR-ST decoding vs non-autoregressive re-translation model; different systems and specific claims.
+p028,not_contradiction,Two different KV-cache-reduction techniques (GQA conversion vs new MFA architecture); not mutually incompatible.
+p029,not_contradiction,CNN admission-note diagnosis classification vs XLNet ventilation-duration prediction; different clinical tasks/metrics.
+p030,not_contradiction,Visual-code-construction reasoning framework vs subgraph-based reasoning framework; complementary LLM reasoning enhancements.
+p031,not_contradiction,"Variational treatment of encoder-decoder cross-attention vs of self-attention; different components/tasks, not conflicting."
+p032,not_contradiction,"AraGPT2 (text generation) vs AraELECTRA (discriminative understanding); complementary objectives, not incompatible."
+p033,not_contradiction,Exploratory adversarial-attack study vs analysis of diffusion-LM design tradeoffs; different specific claims.
+p034,not_contradiction,English reading-comprehension evaluation server vs Chinese judicial reading dataset; different contributions and languages.
+p035,not_contradiction,"Text instruction-tuning data selection vs vision-language data selection; different modalities, not conflicting."
+p036,not_contradiction,Pretrained cross-lingual encoder initialization for MT vs open-source NMT toolkit; different contribution types.
+p037,not_contradiction,General entity synonym discovery framework vs anti-infective drug ontology construction; different domains/tasks.
+p038,not_contradiction,AraELECTRA pretraining objective vs AraGPT2-based data augmentation for classification; different specific tasks.
+p039,not_contradiction,Arabic question-similarity shared-task system vs clinical ICD coding neural network; unrelated domains.
+p040,not_contradiction,"Sequence-to-sequence query expansion vs event-driven query expansion; different methods, no directly conflicting claim."
+p041,not_contradiction,Causal-attribution interpretability fine-tuning vs LLM4Causal task-execution fine-tuning; complementary causal-LLM research directions.

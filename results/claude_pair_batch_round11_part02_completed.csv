@@ -1,0 +1,32 @@
+sentence_id,status,skip_reason,topic,hypothesis_a,source_a,hypothesis_b,source_b
+s0146,skipped,not_genuine_contrast,,,,,
+s0147,pair_created,,LLM annotator performance on non-English languages,"GPT-3 shows meaningful potential as a data annotator even on languages other than English, suggesting its effectiveness as an annotator extends beyond English-only settings.",ding2022gpt,"Open-source LLMs show a considerable decline in performance when applied to non-English languages (evaluated on French, Dutch, and English NLI tasks), indicating current open-source models do not generalize well as annotators outside English.",mohta2023large
+s0152,skipped,not_genuine_contrast,,,,,
+s0153,skipped,not_genuine_contrast,,,,,
+s0155,skipped,not_genuine_contrast,,,,,
+s0161,skipped,not_genuine_contrast,,,,,
+s0162,skipped,not_genuine_contrast,,,,,
+s0163,skipped,insufficient_context,,,,,
+s0164,skipped,not_genuine_contrast,,,,,
+s0165,skipped,not_genuine_contrast,,,,,
+s0166,pair_created,,RL-based prompt optimization strategy,"Effective discrete prompts can be discovered via task-agnostic reinforcement learning, learning a general prompt-optimization policy rather than adapting the prompt to each individual query.",deng2022rlprompt,"Effective prompting instead requires test-time, query-dependent reinforcement learning that evaluates and adapts the prompt separately for each specific input, rather than relying on one fixed task-agnostic policy.",zhang2022tempera
+s0168,skipped,not_genuine_contrast,,,,,
+s0169,pair_created,,distributional acquisition of syntactic categories in children,"The child represents each target word as a context vector of frequently co-occurring words, then iteratively groups words into categories using a similarity score computed over these vectors.",redington1998distributional,The child does not need vector-based similarity computations; it is sufficient for the child to count how often words occur within particular frames and group together the words that appear in the most frequent frames.,mintz2003
+s0170,skipped,not_genuine_contrast,,,,,
+s0173,pair_created,,nature of language: symbol system vs. use,"Language, like cognition generally, can be defined as an abstract, formal symbol-manipulation system, in line with computational theories of mind.",pylyshyn1986computation,Language is not an abstract symbol-manipulation system; it is a system that has a function and acquires meaning only when it is actually used to do things in the world.,wittgenstein1953philosophische
+s0178,pair_created,,LLM self-correction without external feedback,"LLMs can iteratively improve their own outputs through self-refinement, using self-generated feedback to critique and revise their own responses without external input.",madaan2023selfrefine,"LLMs cannot reliably self-correct their own reasoning errors; without external feedback, self-correction attempts fail to fix, and can even worsen, their initial responses.",huang2023noselfcorrect
+s0179,skipped,not_genuine_contrast,,,,,
+s0180,skipped,not_genuine_contrast,,,,,
+s0182,skipped,not_genuine_contrast,,,,,
+s0183,skipped,not_genuine_contrast,,,,,
+s0184,skipped,not_genuine_contrast,,,,,
+s0189,pair_created,,mechanistic view of transformer feed-forward layers,"Transformer feed-forward layers function as key-value memories at the level of individual neurons: each neuron/key correlates with a textual pattern in the training data, and each value induces a distribution over the output vocabulary.",geva-etal-2021-transformer,"Based on causal tracing analysis of GPT-2, transformer MLP layers are better characterized as a single linear associative memory rather than a collection of per-neuron key-value pairs.",NEURIPS2022_6f1d43d5
+s0190,pair_created,,mechanistic view of transformer feed-forward layers,"Transformer feed-forward layers function as key-value memories at the level of individual neurons: each neuron/key correlates with a textual pattern in the training data, and each value induces a distribution over the output vocabulary.",geva-etal-2021-transformer,"Based on causal tracing analysis of GPT-2, transformer MLP layers are better characterized as a single linear associative memory rather than a collection of per-neuron key-value pairs.",NEURIPS2022_6f1d43d5
+s0193,skipped,not_genuine_contrast,,,,,
+s0197,skipped,not_genuine_contrast,,,,,
+s0198,skipped,not_genuine_contrast,,,,,
+s0200,skipped,not_genuine_contrast,,,,,
+s0201,skipped,insufficient_context,,,,,
+s0203,skipped,not_genuine_contrast,,,,,
+s0205,skipped,not_genuine_contrast,,,,,
+s0207,pair_created,,lexical overlap and cross-lingual transfer,"Lexical overlap between source and target languages is a highly important feature for predicting cross-lingual transfer success on syntactic tasks (POS tagging, NER, dependency parsing), but a much less important feature for the semantic task of NLI.",lin_choosing_2019,"Lexical overlap shows the opposite importance pattern across task types when predicting zero-shot cross-lingual transfer performance, contrary to the syntactic-vs-semantic pattern found elsewhere.",ahuja_multi_2022

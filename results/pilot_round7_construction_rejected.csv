@@ -1,0 +1,58 @@
+sentence_id,status,skip_reason,topic,hypothesis_a,source_a,hypothesis_b,source_b,reject_reason
+s0005,skipped,insufficient_context,,,,,,skipped_by_annotator
+s0015,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0016,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0022,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0023,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0027,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0031,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0032,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0033,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0034,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0041,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0045,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0049,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0051,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0054,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0056,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0058,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0061,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0069,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0072,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0084,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0089,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0093,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0097,skipped,same_finding_different_wording,,,,,,skipped_by_annotator
+s0098,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0099,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0104,skipped,not_genuine_contrast,,,,,,skipped_by_annotator
+s0105,skipped,not_genuine_contrast: two different mitigation methods (constrained decoding vs RL-based bootstrapping) presented side by side under a 'Mitigation Methods' heading; no competing claim or contradictory finding is asserted between them.,,,,,,skipped_by_annotator
+s0113,skipped,"not_genuine_contrast: luo2023chatgpt is cited only as an analogous example of using an LLM evaluator for factual consistency, not as a work whose claim is contrasted with mundler2023self.",,,,,,skipped_by_annotator
+s0114,skipped,"not_genuine_contrast: 'chatgpt' is cited merely as a tool reference (naming the evaluator LLM used), not as a work presenting a contrasting claim.",,,,,,skipped_by_annotator
+s0115,skipped,"not_genuine_contrast: duplicate/commented-out variant of s0114; 'chatgpt' is again only a tool reference, not a contrasted work.",,,,,,skipped_by_annotator
+s0116,skipped,"not_genuine_contrast: the three refs are co-cited as parallel illustrative examples of hallucination in different NLG tasks (MT, summarization), not contrasted with each other.",,,,,,skipped_by_annotator
+s0120,skipped,not_genuine_contrast: sentence describes an extension of experimental scope (single-evidence to multi-evidence setting) rather than a competing/contradictory hypothesis; additionally no abstract is available to confirm longpre2021entity's or Li et al.'s own specific finding.,,,,,,skipped_by_annotator
+s0122,skipped,"not_genuine_contrast: the four QA-based-metric works are co-cited together as belonging to one shared category, contrasted only with an uncited 'classifier-based metrics' category not present in cited_refs for this sentence.",,,,,,skipped_by_annotator
+s0130,skipped,"not_genuine_contrast: both refs are co-cited jointly as supporting evidence for one general claim about vision-language knowledge conflicts, not contrasted with each other.",,,,,,skipped_by_annotator
+s0141,skipped,"not_genuine_contrast: the two works use different explanation-generation techniques for math word problems (operation sequence vs. added natural-language rationale), presented as different approaches rather than as competing/contradictory claims.",,,,,,skipped_by_annotator
+s0143,skipped,"not_genuine_contrast: the two works propose taxonomies differing in granularity/scope of subcategories for harmful content; this is a design difference, not a contradiction between hypotheses.",,,,,,skipped_by_annotator
+s0145,skipped,"not_genuine_contrast: the three refs are co-cited jointly as supporting evidence for one claim (annotator identity/beliefs influence toxicity judgments), not contrasted with each other.",,,,,,skipped_by_annotator
+s0149,skipped,"insufficient_context: no abstracts available for either work, and the titles do not clearly support the sentence's framing of one as 'reducing disagreement' vs. the other as 'analyzing causes of disagreement'; sentence is also marked in source as '% not a correct version'.",,,,,,skipped_by_annotator
+s0150,skipped,"insufficient_context: no abstracts available for either work; titles (an annotation-guideline paper vs. a crowd-learning paper) do not clearly confirm the specific contrast claimed by the sentence, so hypotheses cannot be stated without inventing detail.",,,,,,skipped_by_annotator
+s0156,skipped,"not_genuine_contrast: the three taxonomies are co-cited as prior work the survey builds upon, not contrasted with each other.",,,,,,skipped_by_annotator
+s0159,skipped,"same_finding_different_wording: sentence explicitly states goyal2022toxicity and sang2022origin reach a 'similar conclusion' (rater identity/individual differences affect annotation), i.e. agreement rather than contrast.",,,,,,skipped_by_annotator
+s0163,skipped,not_genuine_contrast: the two refs are unrelated statements strung together by the regex mining (a Bengali toxicity-detection paper and a general crowdsourcing-subjectivity paper); no contrast is drawn between them in the text.,,,,,,skipped_by_annotator
+s0168,skipped,"not_genuine_contrast: the two refs are co-cited jointly as supporting evidence for one shared claim (crowdsourcing platforms lack robust quality control), not contrasted with each other.",,,,,,skipped_by_annotator
+s0172,skipped,"not_genuine_contrast: the three works are described sequentially as separate, unrelated methods (toxicity-trigger detection, veiled-toxicity fortification, denoising autoencoder) with no contrast asserted between them.",,,,,,skipped_by_annotator
+s0174,skipped,"insufficient_context: sentence text is truncated before it discusses zhou2012learning; only raykar2010learning's contribution is described in the visible text, so no genuine contrast between the two cited works can be confirmed.",,,,,,skipped_by_annotator
+s0175,skipped,insufficient_context: sentence text is truncated; dawid1979maximum is not actually discussed or contrasted with yang2023semisupervised in the visible text.,,,,,,skipped_by_annotator
+s0176,skipped,not_genuine_contrast: sentence text is truncated after describing 5543189's model; the Turkopticon reference is not discussed or contrasted with it in the visible text.,,,,,,skipped_by_annotator
+s0177,skipped,"not_genuine_contrast: the sentence mentions two unrelated topics in sequence (a Turker discussion forum, then separately a rater-bias-correction score), with no contrast drawn between the two cited works.",,,,,,skipped_by_annotator
+s0179,skipped,"not_genuine_contrast: the three refs are co-cited jointly as supporting evidence for one claim (disagreements reflect plausible ranges of human judgment), not contrasted with each other.",,,,,,skipped_by_annotator
+s0185,skipped,"not_genuine_contrast: the works are described sequentially as complementary approaches to using rater disagreement constructively (measuring label stability; collaborative labeling), with no contradiction asserted between them.",,,,,,skipped_by_annotator
+s0188,skipped,not_genuine_contrast: duplicate/near-duplicate of s0185's content and citations; same lack of an asserted contradiction between the cited works.,,,,,,skipped_by_annotator
+s0189,skipped,"not_genuine_contrast: the four refs are co-cited jointly as a summary of prior literature on rater disagreement, not contrasted with each other.",,,,,,skipped_by_annotator
+s0192,skipped,not_genuine_contrast: all three cited works are on the same side of the contradiction described (they all argue LLMs rely on accurate input-label mappings); the actual contrasting finding ('This finding') belongs to a work not present in this sentence's cited_refs.,,,,,,skipped_by_annotator
+s0193,skipped,"not_genuine_contrast: both refs are described jointly as contributing to the same understanding of ICL via probing internal architecture, with a shared caveat about being early-stage, not contrasted with each other.",,,,,,skipped_by_annotator
+,,,Attention weights as explanation for model predictions,"Attention weights, as used in neural NLP models, do not provide valid explanations for the model's predictions.",Jain2019,"The argument that attention weights cannot serve as explanations does not hold in general; under appropriate diagnostic tests, attention can still provide a valid explanation for a model's predictions.",Wiegreffe2020,duplicate_of_r7_004_same_real_dispute
+,,,Attention weights as explanation for model predictions,"Attention weights, as used in neural NLP models, do not provide valid explanations for the model's predictions.",Jain2019,"The argument that attention weights cannot serve as explanations does not hold in general; under appropriate diagnostic tests, attention can still provide a valid explanation for a model's predictions.",Wiegreffe2020,duplicate_of_r7_004_same_real_dispute

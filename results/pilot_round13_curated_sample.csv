@@ -1,0 +1,2 @@
+pair_id,topic,hypothesis_a,source_a,hypothesis_b,source_b
+r13_001,LLM bias and subgroup representativeness,"Large language models can be used to simulate diverse human samples, indicating their outputs can usefully represent varied subgroup perspectives.",argyle2023out,Large language models should not replace human participants in research because they can misportray and flatten the identity and diversity of demographic groups.,wang2024largelanguagemodelsreplace

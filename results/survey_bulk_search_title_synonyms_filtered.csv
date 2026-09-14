@@ -1,0 +1,60 @@
+arxiv_id,title,published
+2609.08475,Do Reviewers Still Reward Lexical Complexity? A Frozen-Rater Study of Preference Drift in 124K ICLR Reviews,2026-09-08
+2609.07713,The Emerging AI Paper-Review Arms Race: Adversarial Co-Evolution in Scholarly Publishing,2026-09-07
+2609.05314,"Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",2026-09-04
+2608.25022,A Primer on Computational Semantics for Artificial Intelligence Systems,2026-08-25
+2606.02113,A Primer in Post-Training Reasoning Data: What We Know About How It Works,2026-06-01
+2605.22586,A Tutorial on Diffusion Theory: From Differential Equations to Diffusion Models,2026-05-21
+2603.28643,The Ultimate Tutorial for AI-driven Scale Development in Generative Psychometrics: Releasing AIGENIE from its Bottle,2026-03-30
+2603.2753,A gentle tutorial on Bock's algorithm for minimum directed spanning trees with a structured reformulation,2026-03-29
+2603.24535,Representation Learning to Study Temporal Dynamics in Tutorial Scaffolding,2026-03-25
+2602.0364,Tutorial on Reasoning for IR & IR for Reasoning,2026-02-03
+2506.17942,Tutorial: $\varphi$-Transductions in OpenFst via the Gallic Semiring,2025-06-22
+2504.03931,NAACL2025 Tutorial: Adaptation of Large Language Models,2025-04-04
+2503.00491,Tutorial Proposal: Speculative Decoding for Efficient LLM Inference,2025-03-01
+2502.10867,A Tutorial on LLM Reasoning: Relevant Methods behind ChatGPT o1,2025-02-15
+2502.04342,Tutorial on Using Machine Learning and Deep Learning Models for Mental Illness Detection,2025-02-03
+2412.09605,AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials,2024-12-12
+2412.04503,A Primer on Large Language Models and their Limitations,2024-12-03
+2411.07156,A Primer on Word Embeddings: AI Techniques for Text Analysis in Social Work,2024-11-11
+2411.04637,Hands-On Tutorial: Labeling with LLM and Human-in-the-Loop,2024-11-07
+2408.08396,Level Up Your Tutorials: VLMs for Game Tutorials Quality Assessment,2024-08-15
+2406.19512,Captioning Visualizations with Large Language Models (CVLLM): A Tutorial,2024-06-27
+2405.00208,A Primer on the Inner Workings of Transformer-based Language Models,2024-04-30
+2403.02504,A Tutorial on the Pretrain-Finetune Paradigm for Natural Language Processing,2024-03-04
+2401.00284,Evaluation is all you need. Prompting Generative Large Language Models for Annotation Tasks in the Social Sciences. A Primer using Open Models,2023-12-30
+2309.15074,Natural Language based Context Modeling and Reasoning for Ubiquitous Computing with Large Language Models: A Tutorial,2023-09-24
+2307.15331,Tutorials on Stance Detection using Pre-trained Language Models: Fine-tuning BERT and Prompting Large Language Models,2023-07-28
+2304.10495,A primer on getting neologisms from foreign languages to under-resourced languages,2023-03-07
+2212.00138,Word Alignment in the Era of Deep Learning: A Tutorial,2022-11-30
+2211.15971,Democratizing Machine Learning for Interdisciplinary Scholars: Report on Organizing the NLP+CSS Online Tutorial Series,2022-11-29
+2209.04953,Tutorial Recommendation for Livestream Videos using Discourse-Level Consistency and Ontology-Based Filtering,2022-09-11
+2206.02849,A Bird's-Eye Tutorial of Graph Attention Architectures,2022-06-06
+2205.07455,Reasoning about Procedures with Natural Language Processing: A Tutorial,2022-05-16
+2109.08668,Primer: Searching for Efficient Transformers for Language Modeling,2021-09-17
+2107.00676,A Primer on Pretrained Multilingual Language Models,2021-07-01
+2104.0857,Crossing the Conversational Chasm: A Primer on Natural Language Processing for Multilingual Task-Oriented Dialogue Systems,2021-04-17
+2102.12982,"A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives",2021-02-25
+2012.08013,Primer AI's Systems for Acronym Identification and Disambiguation,2020-12-14
+2008.00544,Video Question Answering on Screencast Tutorials,2020-08-02
+2002.12327,A Primer in BERTology: What we know about how BERT works,2020-02-27
+2001.05871,"""Why is 'Chicago' deceptive?"" Towards Building Model-Driven Tutorials for Humans",2020-01-14
+1912.01046,TutorialVQA: Question Answering Dataset for Tutorial Videos,2019-12-02
+1909.09586,Understanding LSTM -- a tutorial into Long Short-Term Memory Recurrent Neural Networks,2019-09-12
+1904.08587,Creative Procedural-Knowledge Extraction From Web Design Tutorials,2019-04-18
+1812.06834,A Tutorial on Deep Latent Variable Models of Natural Language,2018-12-17
+1811.05553,Corpus Phonetics Tutorial,2018-11-13
+1705.05437,A Biomedical Information Extraction Primer for NLP Researchers,2017-05-10
+1703.01619,Neural Machine Translation and Sequence-to-sequence Models: A Tutorial,2017-03-05
+1610.01076,Tutorial on Answering Questions about Images with Deep Learning,2016-10-04
+1510.00726,A Primer on Neural Network Models for Natural Language Processing,2015-10-02
+1412.5448,Extended Recommendation Framework: Generating the Text of a User Review as a Personalized Summary,2014-12-17
+1405.5208,A Tutorial on Dual Decomposition and Lagrangian Relaxation for Inference in Natural Language Processing,2014-01-23
+1401.4994,A Review of Verbal and Non-Verbal Human-Robot Interactive Communication,2014-01-20
+1308.5423,A Literature Review: Stemming Algorithms for Indian Languages,2013-08-25
+1306.4139,Punjabi Language Interface to Database: a brief review,2013-06-18
+1306.4134,Dialogue System: A Brief Review,2013-06-18
+1106.0107,Handwritten Character Recognition of South Indian Scripts: A Review,2011-06-01
+1001.2267,"Speech Recognition by Machine, A Review",2010-01-13
+806.3787,Computational Approaches to Measuring the Similarity of Short Contexts : A Review of Applications and Methods,2008-06-23
+412015.0,A Tutorial on the Expectation-Maximization Algorithm Including Maximum-Likelihood Estimation and EM Training of Probabilistic Context-Free Grammars,2004-12-03

@@ -1,0 +1,2 @@
+pair_id,label,rationale
+r14_000,type4_apparent_contextual,"The hypotheses describe different model types (mBERT vs. monolingual MLMs); the lack of dominant dimensions in mBERT does not contradict the presence of them in monolingual models, as the multilingual training context may mitigate the effect."

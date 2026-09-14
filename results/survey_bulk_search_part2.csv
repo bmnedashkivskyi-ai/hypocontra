@@ -1,0 +1,647 @@
+arxiv_id,title,published
+2401.12982,A Comprehensive Survey of Text Classification Techniques and Their Research Applications: Observational and Experimental Insights,2024-01-11
+2401.06805,Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning,2024-01-10
+2401.06792,LightHouse: A Survey of AGI Hallucination,2024-01-08
+2401.01313,A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models,2024-01-02
+2402.01642,Detection of Machine-Generated Text: Literature Survey,2024-01-02
+2401.00812,"If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents",2024-01-01
+2401.00609,"A Survey of Personality, Persona, and Profile in Conversational Agents and Chatbots",2023-12-31
+2312.17617,Large Language Models for Generative Information Extraction: A Survey,2023-12-29
+2312.17432,Video Understanding with Large Language Models: A Survey,2023-12-29
+2312.17044,Length Extrapolation of Transformers: A Survey from the Perspective of Positional Encoding,2023-12-28
+2312.16156,From text to multimodal: a survey of adversarial example generation in question answering systems,2023-12-26
+2312.16148,The Media Bias Taxonomy: A Systematic Literature Review on the Forms and Automated Detection of Media Bias,2023-12-26
+2312.13871,"Evaluating Task-oriented Dialogue Systems: A Systematic Review of Measures, Constructs and their Operationalisations",2023-12-21
+2312.11970,Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives,2023-12-19
+2312.10997,Retrieval-Augmented Generation for Large Language Models: A Survey,2023-12-18
+2312.10868,From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape,2023-12-18
+2312.11562,A Survey of Reasoning with Foundation Models,2023-12-17
+2312.07913,A Survey of Text Watermarking in the Era of Large Language Models,2023-12-13
+2312.17253,Deep Learning-based Sentiment Classification: A Comparative Survey,2023-12-12
+2312.06224,Medical Vision Language Pretraining: A survey,2023-12-11
+2312.05172,From Lengthy to Lucid: A Systematic Literature Review on NLP Techniques for Taming Long Sentences,2023-12-08
+2312.04775,How to Determine the Most Powerful Pre-trained Language Model without Brute Force Fine-tuning? An Empirical Survey,2023-12-08
+2312.03863,Efficient Large Language Models: A Survey,2023-12-06
+2312.02901,Concept Drift Adaptation in Text Stream Mining Settings: A Systematic Review,2023-12-05
+2312.02783,Large Language Models on Graphs: A Comprehensive Survey,2023-12-05
+2312.01700,Data Management For Training Large Language Models: A Survey,2023-12-04
+2312.01082,A Survey on Stability of Learning with Limited Labelled Data and its Sensitivity to the Effects of Randomness,2023-12-02
+2312.01053,End-to-End Speech-to-Text Translation: A Survey,2023-12-02
+2312.00678,The Efficiency Spectrum of Large Language Models: An Algorithmic Survey,2023-12-01
+2312.04578,Towards a Psychological Generalist AI: A Survey of Current Applications of Large Language Models and Future Prospects,2023-12-01
+2312.03740,A Survey on Prompting Techniques in LLMs,2023-11-28
+2311.16789,"A Survey of the Evolution of Language Model-Based Dialogue Systems: Data, Task and Models",2023-11-28
+2312.03736,De-identification of clinical free text using natural language processing: A systematic review of current approaches,2023-11-28
+2312.03718,Large Language Models in Law: A Survey,2023-11-26
+2311.14199,A Systematic Review of Deep Learning-based Research on Radiology Report Generation,2023-11-23
+2311.12474,CSMeD: Bridging the Dataset Gap in Automated Citation Screening for Systematic Literature Reviews,2023-11-21
+2311.12399,A Survey of Graph Meets Large Language Model: Progress and Future Directions,2023-11-21
+2311.12351,Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey,2023-11-21
+2311.11796,Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI Systems,2023-11-20
+2311.10777,"A Systematic Review of Aspect-based Sentiment Analysis: Domains, Methods, and Trends",2023-11-16
+2311.09367,A Survey on Online User Aggression: Content Detection and Behavioral Analysis on Social Media,2023-11-15
+2311.09212,"Controllable Text Summarization: Unraveling Challenges, Approaches, and Prospects -- A Survey",2023-11-15
+2311.09008,"End-to-end Task-oriented Dialogue: A Survey of Tasks, Methods, and Future Directions",2023-11-15
+2311.08298,A Survey of Confidence Estimation and Calibration in Large Language Models,2023-11-14
+2311.07989,Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code,2023-11-14
+2311.06329,A Survey of AI Text-to-Image and AI Text-to-Video Generators,2023-11-10
+2311.07594,How to Bridge the Gap between Modalities: Survey on Multimodal Large Language Model,2023-11-10
+2311.05876,"Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications",2023-11-10
+2311.05112,"A Survey of Large Language Models in Medicine: Progress, Application, and Challenge",2023-11-09
+2311.03731,A Survey of Large Language Models Attribution,2023-11-07
+2311.02341,Enhancing English Writing Proficiency in China's Polytechnic Students An In-Depth Literature Review on the Application of the Input Hypothesis,2023-11-04
+2311.00208,What Formal Languages Can Transformers Express? A Survey,2023-11-01
+2310.19736,Evaluating Large Language Models: A Comprehensive Survey,2023-10-30
+2310.19055,A Few-Shot Learning Focused Survey on Recent Named Entity Recognition and Relation Classification Methods,2023-10-29
+2310.17894,Natural Language Interfaces for Tabular Data Querying and Visualization: A Survey,2023-10-27
+2310.17526,Can large language models replace humans in the systematic review process? Evaluating GPT-4's efficacy in screening and extracting data from peer-reviewed and grey literature in multiple languages,2023-10-26
+2310.17017,An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives,2023-10-25
+2310.16570,Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models,2023-10-25
+2310.16218,Knowledge Editing for Large Language Models: A Survey,2023-10-24
+2310.15654,A Survey on Detection of LLMs-Generated Content,2023-10-24
+2310.15264,Towards Possibilities & Impossibilities of AI-generated Text Detection: A Survey,2023-10-23
+2310.14724,"A Survey on LLM-Generated Text Detection: Necessity, Methods, and Future Directions",2023-10-23
+2310.18345,A Survey on Semantic Processing Techniques,2023-10-22
+2310.12318,The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis,2023-10-18
+2310.11884,From Neural Activations to Concepts: A Survey on Explaining Concepts in Neural Networks,2023-10-18
+2310.10844,Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks,2023-10-16
+2310.09411,Surveying the Landscape of Text Summarization with Deep Learning: A Comprehensive Review,2023-10-13
+2310.07521,"Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity",2023-10-11
+2310.05694,"A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics",2023-10-09
+2310.04959,Towards Better Chain-of-Thought Prompting Strategies: A Survey,2023-10-08
+2310.04480,Auto-survey Challenge,2023-10-06
+2310.12321,A Survey of GPT-3 Family Large Language Models Including ChatGPT and GPT-4,2023-10-04
+2310.02235,Automatic Quality Assessment of Wikipedia Articles -- A Systematic Literature Review,2023-10-03
+2310.00836,Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models,2023-10-02
+2309.17447,A Large Language Model Approach to Educational Survey Feedback Analysis,2023-09-29
+2309.16459,Augmenting LLMs with Knowledge: A survey on hallucination prevention,2023-09-28
+2309.16396,A Comprehensive Survey of Document-level Relation Extraction (2016-2023),2023-09-28
+2311.10723,Large Language Models in Finance: A Survey,2023-09-28
+2310.01424,Identifying and Mitigating Privacy Risks Stemming from Language Models: A Survey,2023-09-27
+2309.15402,"Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future",2023-09-27
+2309.15025,Large Language Model Alignment: A Survey,2023-09-26
+2309.14381,Survey of Social Bias in Vision-Language Models,2023-09-24
+2309.15857,A Survey on Image-text Multimodal Models,2023-09-23
+2309.14365,An In-depth Survey of Large Language Model-based Artificial Intelligence Agents,2023-09-23
+2309.13249,A Survey of Document-Level Information Extraction,2023-09-23
+2309.13205,A Practical Survey on Zero-shot Prompt Design for In-context Learning,2023-09-22
+2309.09727,When Large Language Models Meet Citation: A Survey,2023-09-18
+2309.07864,The Rise and Potential of Large Language Model Based Agents: A Survey,2023-09-14
+2309.07689,Detecting ChatGPT: A Survey of the State of Detecting ChatGPT-Generated Text,2023-09-14
+2309.01684,CRUISE-Screening: Living Literature Reviews Toolbox,2023-09-04
+2309.01157,Large Language Models for Generative Recommendation: A Survey and Visionary Discussions,2023-09-03
+2309.01029,Explainability for Large Language Models: A Survey,2023-09-02
+2309.00770,Bias and Fairness in Large Language Models: A Survey,2023-09-02
+2308.14149,"Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models",2023-08-27
+2308.12488,GPTEval: A Survey on Assessments of ChatGPT and GPT-4,2023-08-24
+2308.12014,From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Models,2023-08-23
+2308.11432,A Survey on Large Language Model based Autonomous Agents,2023-08-22
+2308.10792,Instruction Tuning for Large Language Models: A Survey,2023-08-21
+2308.10562,Seeing the Intangible: Survey of Image Classification into High-Level and Abstract Categories,2023-08-21
+2308.10149,A Survey on Fairness in Large Language Models,2023-08-20
+2308.09892,Utilizing Semantic Textual Similarity for Clinical Survey Data Feature Selection,2023-08-19
+2308.09341,Document Automation Architectures: Updated Survey in Light of Large Language Models,2023-08-18
+2308.08234,Challenges and Opportunities of Using Transformer-Based Multi-Task Learning in NLP Through ML Lifecycle: A Survey,2023-08-16
+2308.07902,Through the Lens of Core Competency: Survey on Evaluation of Large Language Models,2023-08-15
+2308.07633,A Survey on Model Compression for Large Language Models,2023-08-15
+2308.07107,Large Language Models for Information Retrieval: A Survey,2023-08-14
+2308.06610,Bio-SIEVE: Exploring Instruction Tuning Large Language Models for Systematic Review Automation,2023-08-12
+2308.06095,Neural Conversation Models and How to Rein Them in: A Survey of Failures and Fixes,2023-08-11
+2308.03188,Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies,2023-08-06
+2308.02199,A Survey of Spanish Clinical Language Models,2023-08-04
+2307.16680,On the Trustworthiness Landscape of State-of-the-art Generative Models: A Survey and Outlook,2023-07-31
+2307.16265,Recent Advances in Hierarchical Multi-label Text Classification: A Survey,2023-07-30
+2307.15341,Teach Me How to Improve My Argumentation Skills: A Survey on Feedback in Argumentation,2023-07-28
+2307.12966,Aligning Large Language Models with Human: A Survey,2023-07-24
+2307.12639,Fake News Detection Through Graph-based Neural Networks: A Survey,2023-07-24
+2307.09021,Towards a Neural Era in Dialogue Management for Collaboration: A Literature Survey,2023-07-18
+2307.10246,Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey),2023-07-17
+2307.07982,A Survey of Techniques for Optimizing Transformer Inference,2023-07-16
+2307.06464,Assessing the Ability of ChatGPT to Screen Articles for Systematic Reviews,2023-07-12
+2307.04251,ChatGPT in the Age of Generative AI and Large Language Models: A Concise Survey,2023-07-09
+2307.03254,Vision Language Transformers: A Survey,2023-07-06
+2307.03109,A Survey on Evaluation of Large Language Models,2023-07-06
+2307.10188,Several categories of Large Language Models (LLMs): A Short Survey,2023-07-05
+2306.15261,A Survey on Out-of-Distribution Evaluation of Neural NLP Models,2023-06-27
+2306.13549,A Survey on Multimodal Large Language Models,2023-06-23
+2306.12834,Natural Language Processing in Electronic Health Records in Relation to Healthcare Decision-making: A Systematic Review,2023-06-22
+2306.09737,Using Natural Language Processing and Networks to Automate Structured Literature Reviews: An Application to Farmers Climate Change Adaptation,2023-06-16
+2306.09079,Web of Things and Trends in Agriculture: A Systematic Literature Review,2023-06-15
+2306.14905,PRISMA-DFLLM: An Extension of PRISMA for Systematic Literature Reviews using Domain-specific Finetuned Large Language Models,2023-06-15
+2306.07198,A Survey of Vision-Language Pre-training from the Lens of Multimodal Machine Translation,2023-06-12
+2306.07303,A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks,2023-06-11
+2306.05126,Mapping Brains with Language Models: A Survey,2023-06-08
+2306.03608,A Survey of Quantum-Cognitively Inspired Sentiment Analysis Models,2023-06-06
+2306.03189,Easy-to-Read in Germany: A Survey on its Current State and Available Resources,2023-06-05
+2306.02051,A Comprehensive Survey on Relation Extraction: Recent Advances and New Frontiers,2023-06-03
+2305.19915,Source Code Data Augmentation for Deep Learning: A Survey,2023-05-31
+2305.18703,Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey,2023-05-30
+2305.16859,Scientific Fact-Checking: A Survey of Resources and Approaches,2023-05-26
+2305.16259,Neural Natural Language Processing for Long Texts: A Survey on Classification and Summarization,2023-05-25
+2305.16157,Training Data Extraction From Pre-trained Language Models: A Survey,2023-05-25
+2305.18339,"A Survey on ChatGPT: AI-Generated Contents, Challenges, and Solutions",2023-05-25
+2305.15186,SciReviewGen: A Large-scale Dataset for Automatic Literature Review Generation,2023-05-24
+2305.14671,A Survey of Diffusion Models in Natural Language Processing,2023-05-24
+2305.12641,A Comprehensive Survey of Sentence Representations: From the BERT Epoch to the ChatGPT Era and Beyond,2023-05-22
+2305.12000,Deep Learning Approaches to Lexical Simplification: A Survey,2023-05-19
+2305.11828,Appraising the Potential Uses and Harms of LLMs for Medical Systematic Reviews,2023-05-19
+2305.10196,A Survey on Zero Pronoun Translation,2023-05-17
+2305.08271,$SmartProbe$: A Virtual Moderator for Market Research Surveys,2023-05-14
+2305.07611,Multimodal Sentiment Analysis: A Survey,2023-05-12
+2305.06472,ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps,2023-05-10
+2305.16324,Talking with Machines: A Comprehensive Survey of Emergent Dialogue Systems,2023-05-10
+2305.05403,"Completeness, Recall, and Negation in Open-World Knowledge Bases: A Survey",2023-05-09
+2305.18086,The impact and applications of ChatGPT: a systematic review of literature reviews,2023-05-08
+2305.03236,A Survey on Out-of-Distribution Detection in NLP,2023-05-05
+2305.02750,"A Survey on Proactive Dialogue Systems: Problems, Methods, and Prospects",2023-05-04
+2305.02579,"From Statistical Methods to Deep Learning, Automatic Keyphrase Prediction: A Survey",2023-05-04
+2305.00955,Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation,2023-05-01
+2304.14241,Entity-Level Sentiment Analysis (ELSA): An exploratory task survey,2023-04-27
+2304.13712,Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond,2023-04-26
+2304.13191,Towards Explainable and Safe Conversational Agents for Mental Health: A Survey,2023-04-25
+2304.11534,Graph Neural Networks for Text Classification: A Survey,2023-04-23
+2304.11461,Recurrent Neural Networks and Long Short-Term Memory Networks: Tutorial and Survey,2023-04-22
+2304.14415,"Generative AI Perceptions: A Survey to Measure the Perceptions of Faculty, Staff, and Students on Generative AI Tools in Academia",2023-04-21
+2304.09805,A Survey of Corpora for Germanic Low-Resource Languages and Dialects,2023-04-19
+2304.09493,Emotion fusion for mental illness detection from social media: A survey,2023-04-19
+2304.08763,A Survey for Biomedical Text Summarization: From Pre-trained to Large Language Models,2023-04-18
+2304.05468,A Survey of Resources and Methods for Natural Language Processing of Serbian Language,2023-04-11
+2304.03512,Hierarchical Catalogue Generation for Literature Review: A Benchmark,2023-04-07
+2304.02768,Application of Transformers based methods in Electronic Medical Records: A Systematic Literature Review,2023-04-05
+2304.01666,A Survey on Contextualised Semantic Shift Detection,2023-04-04
+2304.06488,"One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era",2023-04-04
+2303.18223,A Survey of Large Language Models,2023-03-31
+2304.01008,Self-Supervised Multimodal Learning: A Survey,2023-03-31
+2303.14725,"Natural Language Reasoning, A Survey",2023-03-26
+2303.14222,Lay Text Summarisation Using Natural Language Processing: A Narrative Literature Review,2023-03-24
+2303.12023,Logical Reasoning over Natural Language as Knowledge Representation: A Survey,2023-03-21
+2303.11607,Transformers in Speech Processing: A Survey,2023-03-21
+2303.11504,Language Model Behavior: A Comprehensive Survey,2023-03-20
+2303.10868,Retrieving Multimodal Information for Augmented Generation: A Survey,2023-03-20
+2303.10475,Large Language Model Instruction Following: A Survey of Progresses and Challenges,2023-03-18
+2303.13365,Requirement Formalisation using Natural Language Processing and Machine Learning: A Systematic Review,2023-03-18
+2303.09136,A Short Survey of Viewing Large Language Models in Legal Aspect,2023-03-16
+2303.07616,The Life Cycle of Knowledge in Big Language Models: A Survey,2023-03-14
+2303.07576,Diffusion Models in NLP: A Survey,2023-03-14
+2303.06574,Diffusion Models for Non-autoregressive Text Generation: A Survey,2023-03-12
+2303.04226,A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT,2023-03-07
+2303.02411,The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges,2023-03-04
+2303.03329,End-to-End Speech Recognition: A Survey,2023-03-03
+2302.14502,A Survey on Long Text Modeling with Transformers,2023-02-28
+2302.14017,Full Stack Optimization of Transformer Inference: a Survey,2023-02-27
+2302.10593,Connecting Humanities and Social Sciences: Applying Language and Speech Technology to Online Panel Surveys,2023-02-21
+2302.09419,A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT,2023-02-18
+2302.09051,"Complex QA and language models hybrid architectures, Survey",2023-02-17
+2302.08351,A Survey on Event-based News Narrative Extraction,2023-02-16
+2302.08092,Product Question Answering in E-Commerce: A Survey,2023-02-16
+2302.07926,Commonsense Reasoning for Conversational AI: A Survey of the State of the Art,2023-02-15
+2302.07842,Augmented Language Models: a Survey,2023-02-15
+2302.04359,Sentiment analysis and opinion mining on educational data: A survey,2023-02-08
+2302.03512,"A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends",2023-02-07
+2302.01859,Generalizing to Unseen Elements: A Survey on Knowledge Extrapolation for Knowledge Graphs,2023-02-03
+2302.09304,Interpretability in Activation Space Analysis of Transformers: A Focused Survey,2023-01-22
+2301.06767,The Recent Advances in Automatic Term Extraction: A survey,2023-01-17
+2301.01967,A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies,2023-01-05
+2301.01172,A Survey On Few-shot Knowledge Graph Completion with Structural and Commonsense Knowledge,2023-01-03
+2301.00234,A Survey on In-context Learning,2022-12-31
+2212.13465,"A Survey on Table-and-Text HybridQA: Concepts, Methods, Challenges and Future Directions",2022-12-27
+2212.13428,A Survey on Knowledge-Enhanced Pre-trained Language Models,2022-12-27
+2212.10888,"A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability",2022-12-21
+2212.10535,A Survey of Deep Learning for Mathematical Reasoning,2022-12-20
+2212.11119,A survey on text generation using generative adversarial networks,2022-12-20
+2212.10403,Towards Reasoning in Large Language Models: A Survey,2022-12-20
+2212.10079,A Survey on Pretrained Language Models for Neural Code Intelligence,2022-12-20
+2212.09660,The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges,2022-12-19
+2212.09597,Reasoning with Language Model Prompting: A Survey,2022-12-19
+2212.09420,Large Language Models Meet NL2Code: A Survey,2022-12-19
+2212.09252,Mind the Knowledge Gap: A Survey of Knowledge-enhanced Dialogue Systems,2022-12-19
+2212.09072,Let's Negotiate! A Survey of Negotiation Dialogue Systems,2022-12-18
+2212.09523,Natural Language Processing in Customer Service: A Systematic Review,2022-12-16
+2212.08206,Meeting Summarization: A Survey of the State of the Art,2022-12-16
+2212.05773,A Survey on Natural Language Processing for Programming,2022-12-12
+2212.05767,"A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multimodal",2022-12-12
+2212.04634,Open-world Story Generation with Structured Knowledge Enhancement: A Comprehensive Survey,2022-12-09
+2212.04072,A Comprehensive Survey on Multi-hop Machine Reading Comprehension Approaches,2022-12-08
+2212.04070,A Comprehensive Survey on Multi-hop Machine Reading Comprehension Datasets and Metrics,2022-12-08
+2212.01669,A Survey on Medical Document Summarization,2022-12-03
+2212.00857,a survey on GPT-3,2022-12-01
+2211.15649,Beyond Counting Datasets: A Survey of Multilingual Dataset Construction and Necessary Resources,2022-11-28
+2211.15328,A Survey on Conversational Search and Applications in Biomedicine,2022-11-28
+2211.14591,A Survey of Text Representation Methods and Their Genealogy,2022-11-26
+2211.15351,Testing the effectiveness of saliency-based explainability in NLP using randomized survey-based experiments,2022-11-25
+2211.12701,Continual Learning of Natural Language Processing Tasks: A Survey,2022-11-23
+2211.11958,A Survey on Backdoor Attack and Defense in Natural Language Processing,2022-11-22
+2211.09511,Hey ASR System! Why Aren't You More Inclusive? Automatic Speech Recognition Systems' Bias and Proposed Bias Mitigation Techniques. A Literature Review,2022-11-17
+2211.09172,Deep Emotion Recognition in Textual Conversations: A Survey,2022-11-16
+2211.07886,A Survey for Efficient Open Domain Question Answering,2022-11-15
+2211.05994,A Survey of Knowledge Enhanced Pre-trained Language Models,2022-11-11
+2211.05166,Grammatical Error Correction: A Survey of the State of the Art,2022-11-09
+2211.03536,Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces,2022-11-07
+2211.03154,On the Domain Adaptation and Generalization of Pretrained Language Models: A Survey,2022-11-06
+2210.16960,"Multilingual Multimodality: A Taxonomical Survey of Datasets, Techniques, Challenges and Opportunities",2022-10-30
+2210.10109,A Survey of Active Learning for Natural Language Processing,2022-10-18
+2210.07700,Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey,2022-10-14
+2210.07321,Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods,2022-10-13
+2210.05664,Social Influence Dialogue Systems: A Survey of Datasets and Models For Social Influence Tasks,2022-10-11
+2210.04675,A Survey of Methods for Addressing Class Imbalance in Deep-Learning Based Natural Language Processing,2022-10-10
+2210.03419,Event Extraction: A Survey,2022-10-07
+2210.03353,"The Lifecycle of ""Facts"": A Survey of Social Bias in Knowledge Graphs",2022-10-07
+2210.06336,Synthetic Text Detection: Systemic Literature Review,2022-10-01
+2210.00105,A Decade of Knowledge Graphs in Natural Language Processing: A Survey,2022-09-30
+2209.15293,A Survey: Credit Sentiment Score Prediction,2022-09-30
+2209.09062,Overview of the SV-Ident 2022 Shared Task on Survey Variable Identification in Social Science Publications,2022-09-19
+2211.11548,Survey of Query-based Text Summarization,2022-09-17
+2209.06521,Preregistered protocol for: Articulatory changes in speech following treatment for oral or oropharyngeal cancer: a systematic review,2022-09-14
+2209.06170,Computational Sarcasm Analysis on Social Media: A Systematic Review,2022-09-13
+2209.04712,"A Survey in Automatic Irony Processing: Linguistic, Cognitive, and Multi-X Perspectives",2022-09-10
+2209.01824,A Survey on Measuring and Mitigating Reasoning Shortcuts in Machine Reading Comprehension,2022-09-05
+2209.01621,Interactive Question Answering Systems: Literature Review,2022-09-04
+2209.00099,Efficient Methods for Natural Language Processing: A Survey,2022-08-31
+2208.13629,"A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions",2022-08-29
+2208.09012,"A Kind Introduction to Lexical and Grammatical Aspect, with a Survey of Computational Approaches",2022-08-18
+2208.08690,A Survey on Open Information Extraction from Rule-based Model to Large Language Model,2022-08-18
+2208.06532,A Gentle Introduction and Survey on Computing with Words (CWW) Methodologies,2022-08-12
+2208.05757,A Comprehensive Survey of Natural Language Generation Advances from the Perspective of Digital Deception,2022-08-11
+2208.04415,Deep Learning Driven Natural Languages Text to SQL Query Conversion: A Survey,2022-08-08
+2208.04163,Abstractive Meeting Summarization: A Survey,2022-08-08
+2208.03197,Low-Resource Dense Retrieval for Open-Domain Question Answering: A Comprehensive Survey,2022-08-05
+2208.01712,"No Pattern, No Recognition: a Survey about Reproducibility and Distortion Issues of Text Clustering and Topic Modeling",2022-08-02
+2208.00249,Cause-and-Effect Analysis of ADAS: A Comparison Study between Literature Review and Complaint Data,2022-07-30
+2207.14627,"""Do you follow me?"": A Survey of Recent Approaches in Dialogue State Tracking",2022-07-29
+2207.13211,A Survey of Intent Classification and Slot-Filling Datasets for Task-Oriented Dialog,2022-07-26
+2207.12571,Innovations in Neural Data-to-text Generation: A Survey,2022-07-25
+2207.07568,Reasoning about Actions over Visual and Linguistic Modalities: A Survey,2022-07-15
+2207.10639,Session-based Cyberbullying Detection in Social Media: A Survey,2022-07-14
+2207.05270,A Survey on Table Question Answering: Recent Advances,2022-07-12
+2207.01683,Location reference recognition from texts: A survey and comparison,2022-07-04
+2207.00939,"An Empirical Survey on Long Document Summarization: Datasets, Models and Metrics",2022-07-03
+2206.15030,Modern Question Answering Datasets and Benchmarks: A Survey,2022-06-30
+2206.07328,A Survey : Neural Networks for AMR-to-Text,2022-06-15
+2206.07304,Knowledge Management System with NLP-Assisted Annotations: A Brief Survey and Outlook,2022-06-15
+2205.15683,Why are NLP Models Fumbling at Elementary Math? A Survey of Deep Learning based Word Problem Solvers,2022-05-31
+2205.15231,A Survey in Mathematical Language Processing,2022-05-30
+2205.11725,A Survey on Neural Open Information Extraction: Current Status and Future Directions,2022-05-24
+2205.10967,Computational Storytelling and Emotions: A Survey,2022-05-23
+2205.10095,How to keep text private? A systematic review of deep learning methods for privacy-preserving natural language processing,2022-05-20
+2205.04274,Detecting and Understanding Harmful Memes: A Survey,2022-05-09
+2205.04083,Automated Evaluation for Student Argumentative Writing: A Survey,2022-05-09
+2205.01500,Meta Learning for Natural Language Processing: A Survey,2022-05-03
+2205.00965,State-of-the-art in Open-domain Conversational AI: A Survey,2022-05-02
+2204.13516,What do You Mean by Relation Extraction? A Survey on Datasets and Study on Scientific Relation Classification,2022-04-28
+2206.02690,A Survey on Sentence Embedding Models Performance for Patent Analysis,2022-04-28
+2204.11660,A Survey on Word Meta-Embedding Learning,2022-04-25
+2204.11190,"Knowledge-aware Document Summarization: A Survey of Knowledge, Embedding Methods and Architectures",2022-04-24
+2204.10365,Towards an Enhanced Understanding of Bias in Pre-trained Neural Language Models: A Survey with Special Emphasis on Affective Bias,2022-04-21
+2204.14081,Few-shot learning for medical text: A systematic review,2022-04-21
+2204.09519,A Survey on Neural Abstractive Summarization Methods and Factual Consistency of Summarization,2022-04-20
+2204.09269,A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond,2022-04-20
+2204.08892,A survey on improving NLP models with human explanations,2022-04-19
+2204.07356,Vision-and-Language Pretrained Models: A Survey,2022-04-15
+2204.05232,Survey of Aspect-based Sentiment Analysis Datasets,2022-04-11
+2204.05042,Resources for Turkish Natural Language Processing: A critical survey,2022-04-11
+2204.04859,"A Survey on Legal Judgment Prediction: Datasets, Metrics, Models and Challenges",2022-04-11
+2204.03508,A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods,2022-04-07
+2203.17081,Interpretation of Black Box NLP Models: A Survey,2022-03-31
+2203.16891,A survey of neural models for the automatic analysis of conversation: Towards a better integration of the social sciences,2022-03-31
+2203.14266,A Survey on Aspect-Based Sentiment Classification,2022-03-27
+2203.12515,A Survey on Cross-Lingual Summarization,2022-03-23
+2203.12667,"Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions",2022-03-22
+2203.06414,A Survey of Adversarial Defences and Robustness in NLP,2022-03-12
+2204.03503,Survey on Automated Short Answer Grading with Deep Learning: from Word Embeddings to Transformers,2022-03-11
+2203.05227,"Faithfulness in Natural Language Generation: A Systematic Survey of Analysis, Evaluation and Optimization Methods",2022-03-10
+2203.03047,Recent Advances in Neural Text Generation: A Task-Agnostic Survey,2022-03-06
+2204.09591,A Survey on Bias and Fairness in Natural Language Processing,2022-03-06
+2203.02982,A Survey of Implicit Discourse Relation Recognition,2022-03-06
+2203.01294,Providing Insights for Open-Response Surveys via End-to-End Context-Aware Clustering,2022-03-02
+2203.01054,"A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges",2022-03-02
+2202.13675,A Survey on Recent Advances and Challenges in Reinforcement Learning Methods for Task-Oriented Dialogue Policy Learning,2022-02-28
+2202.12576,A Survey of Multilingual Models for Automatic Speech Recognition,2022-02-25
+2203.03584,Counter Hate Speech in Social Media: A Survey,2022-02-21
+2202.10936,A Survey of Vision-Language Pre-Trained Models,2022-02-18
+2202.09166,Evaluating the Construct Validity of Text Embeddings with Application to Survey Questions,2022-02-18
+2202.09061,VLP: A Survey on Vision-Language Pre-training,2022-02-18
+2202.08772,A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models,2022-02-17
+2202.08063,Information Extraction in Low-Resource Scenarios: Survey and Perspective,2022-02-16
+2202.07105,A Survey on Model Compression and Acceleration for Pretrained Language Models,2022-02-15
+2202.07101,A Survey on Dynamic Neural Networks for Natural Language Processing,2022-02-15
+2202.06935,Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text,2022-02-14
+2202.05786,Multi-Modal Knowledge Graph Construction and Application: A Survey,2022-02-11
+2202.04847,A Survey on Artificial Intelligence for Source Code: A Dialogue Systems Perspective,2022-02-10
+2202.02516,A Survey on Automated Sarcasm Detection on Twitter,2022-02-05
+2203.12425,A Survey On Semantic Steganography Systems,2022-02-03
+2202.01110,A Survey on Retrieval-Augmented Text Generation,2022-02-02
+2202.12826,A Systematic Literature Review about Idea Mining: The Use of Machine-driven Analytics to Generate Ideas,2022-01-30
+2201.12438,Commonsense Knowledge Reasoning and Generation with Pre-trained Language Models: A Survey,2022-01-28
+2201.11794,A Survey on Visual Transfer Learning using Knowledge Graphs,2022-01-27
+2201.09745,"Table Pre-training: A Survey on Model Architectures, Pre-training Objectives, and Downstream Tasks",2022-01-24
+2201.08071,Temporal Sentence Grounding in Videos: A Survey and Future Directions,2022-01-20
+2201.06657,A Literature Survey of Recent Advances in Chatbots,2022-01-17
+2201.05337,A Survey of Controllable Text Generation using Transformer-based Pre-trained Language Models,2022-01-14
+2201.05273,Pretrained Language Models for Text Generation: A Survey,2022-01-14
+2201.03423,"A Survey of Plagiarism Detection Systems: Case of Use with English, French and Arabic Languages",2022-01-10
+2201.02419,Automatic Speech Recognition Datasets in Cantonese: A Survey and New Dataset,2022-01-07
+2201.00490,Learning with Latent Structures in Natural Language Processing: A Survey,2022-01-03
+2112.15280,What is Event Knowledge Graph: A Survey,2021-12-31
+2112.14318,Mirror Matching: Document Matching Approach in Seed-driven Document Ranking for Medical Systematic Reviews,2021-12-28
+2112.13634,A Survey on non-English Question Answering Dataset,2021-12-27
+2112.11739,A Survey of Natural Language Generation,2021-12-22
+2112.11471,Towards a Science of Human-AI Decision Making: A Survey of Empirical Studies,2021-12-21
+2112.15471,A Survey on Using Gaze Behaviour for Natural Language Processing,2021-12-21
+2112.07391,TASSY -- A Text Annotation Survey System,2021-12-14
+2112.06412,A Survey of Toxic Comment Classification Methods,2021-12-13
+2112.03572,"Question Answering Survey: Directions, Challenges, Datasets, Evaluation Matrices",2021-12-07
+2112.01989,Survey on English Entity Linking on Wikidata,2021-12-03
+2112.03014,Transformer-based Korean Pretrained Language Models: A Survey on Three Years of Progress,2021-11-25
+2111.10746,Capitalization and Punctuation Restoration: a Survey,2021-11-21
+2111.05241,A Survey of NLP-Related Crowdsourcing HITs: what works and what does not,2021-11-09
+2111.05193,A Survey on Green Deep Learning,2021-11-08
+2111.03299,Dataset of Fake News Detection and Fact Verification: A Survey,2021-11-05
+2111.01243,Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey,2021-11-01
+2110.15871,From Theories on Styles to their Transfer in Text: Bridging the Gap with a Hierarchical Survey,2021-10-29
+2110.11240,A Systematic Review on the Detection of Fake News Articles,2021-10-18
+2112.01624,A Survey on Awesome Korean NLP Datasets,2021-10-17
+2110.08527,An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models,2021-10-16
+2110.08455,Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey,2021-10-16
+2110.06354,Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation,2021-10-12
+2110.07333,A Survey on Legal Question Answering Systems,2021-10-12
+2110.05006,Pre-trained Language Models in Biomedical Domain: A Systematic Survey,2021-10-11
+2110.04984,Advances in Multi-turn Dialogue Comprehension: A Survey,2021-10-11
+2110.01852,Data Augmentation Approaches in Natural Language Processing: A Survey,2021-10-05
+2110.01804,A Survey On Neural Word Embeddings,2021-10-05
+2110.03663,Quantifying the Suicidal Tendency on Social Media: A Survey,2021-10-04
+2109.12424,Coreference Resolution for the Biomedical Domain: A Survey,2021-09-25
+2109.12264,More Than Reading Comprehension: A Survey on Datasets and Metrics of Textual Question Answering,2021-09-25
+2109.11603,Document Automation Architectures and Technologies: A Survey,2021-09-23
+2109.11427,Automated Fact-Checking: A Survey,2021-09-23
+2109.11406,Named Entity Recognition and Classification on Historical Documents: A Survey,2021-09-23
+2109.06808,What are the attackers doing now? Automating cyber threat intelligence extraction from text on pace with the changing threat landscape: A survey,2021-09-14
+2109.05199,A Survey on Multi-modal Summarization,2021-09-11
+2109.00486,Survey of Low-Resource Machine Translation,2021-09-01
+2110.02057,Structured Prediction in NLP -- A survey,2021-08-31
+2110.02052,Transfer Learning for Multi-lingual Tasks -- a Survey,2021-08-28
+2108.11896,A Survey on Automated Fact-Checking,2021-08-26
+2108.06688,Complex Knowledge Base Question Answering: A Survey,2021-08-15
+2108.05542,AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing,2021-08-12
+2108.04674,Natural Language Processing with Commonsense Knowledge: A Survey,2021-08-10
+2108.03857,"GAN Computers Generate Arts? A Survey on Visual Arts, Music, and Literary Text Generation using Generative Adversarial Network",2021-08-09
+2107.13586,"Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",2021-07-28
+2107.12603,Federated Learning Meets Natural Language Processing: A Survey,2021-07-27
+2107.08523,Argument Linking: A Survey and Forecast,2021-07-18
+2107.06912,From Show to Tell: A Survey on Deep Learning-based Image Captioning,2021-07-14
+2107.06056,Indian Legal NLP Benchmarks : A Survey,2021-07-13
+2107.10652,A Systematic Literature Review of Automated ICD Coding and Classification Systems using Discharge Summaries,2021-07-12
+2107.04239,A Survey on Low-Resource Neural Machine Translation,2021-07-09
+2107.04132,A Systematic Survey of Text Worlds as Embodied Natural Language Environments,2021-07-08
+2107.03175,A Survey on Dialogue Summarization: Recent Advances and New Frontiers,2021-07-07
+2107.03158,A Survey on Data Augmentation for Text Classification,2021-07-07
+2107.02126,A Survey on Deep Learning Event Extraction: Approaches and Applications,2021-07-05
+2106.15561,A Survey on Neural Speech Synthesis,2021-06-29
+2106.15115,Neural Machine Translation for Low-Resource Languages: A Survey,2021-06-29
+2106.11410,"A Survey of Race, Racism, and Anti-Racism in NLP",2021-06-21
+2106.10901,"Software-Based Dialogue Systems: Survey, Taxonomy and Challenges",2021-06-21
+2106.07499,An Empirical Survey of Data Augmentation for Limited Data Learning in NLP,2021-06-14
+2106.06090,Graph Neural Networks for Natural Language Processing: A Survey,2021-06-10
+2106.04554,A Survey of Transformers,2021-06-08
+2106.00874,Conversational Question Answering: A Survey,2021-06-02
+2105.11644,"A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions",2021-05-25
+2105.11197,Towards Standard Criteria for human evaluation of Chatbots: A Survey,2021-05-24
+2106.00742,A systematic review of Hate Speech automatic detection using Natural Language Processing,2021-05-22
+2105.10311,Pretrained Language Models for Text Generation: A Survey,2021-05-21
+2105.08165,Social Behavior and Mental Health: A Snapshot Survey under COVID-19 Pandemic,2021-05-17
+2105.04387,Recent Advances in Deep Learning Based Dialogue Systems: A Systematic Survey,2021-05-10
+2105.03075,A Survey of Data Augmentation Approaches for NLP,2021-05-07
+2105.03311,Translation Quality Assessment: A Brief Survey on Manual and Automatic Methods,2021-05-05
+2104.15135,Explanation-Based Human Debugging of NLP Models: A Survey,2021-04-30
+2104.14839,The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey,2021-04-30
+2104.14751,"A Survey on sentiment analysis in Persian: A Comprehensive System Perspective Covering Challenges and Advances in Resources, and Methods",2021-04-30
+2104.13225,"Visually grounded models of spoken language: A survey of datasets, architectures and evaluation techniques",2021-04-27
+2105.03317,Toward Code Generation: A Survey and Lessons from Semantic Parsing,2021-04-26
+2104.10810,A Short Survey of Pre-trained Language Models for Conversational AI-A NewAge in NLP,2021-04-22
+2104.10747,Accented Speech Recognition: A Survey,2021-04-21
+2105.00827,AMMU : A Survey of Transformer-based Biomedical Pretrained Language Models,2021-04-16
+2105.00824,A Survey of Recent Abstract Summarization Techniques,2021-04-15
+2104.06951,Domain Adaptation and Multi-Domain Adaptation for Neural Machine Translation: A Survey,2021-04-14
+2104.05565,Survey on reinforcement learning for language processing,2021-04-12
+2103.16929,Deep Neural Approaches to Relation Triplets Extraction: A Comprehensive Survey,2021-03-31
+2103.13136,Representing Numbers in NLP: a Survey and a Vision,2021-03-24
+2103.11072,Local Interpretations for Explainable Natural Language Processing: A Survey,2021-03-20
+2103.12506,A Survey on Predicting the Factuality and the Bias of News Media,2021-03-16
+2103.07929,A Systematic Review of Reproducibility Research in Natural Language Processing,2021-03-14
+2103.12541,A Survey on Multimodal Disinformation Detection,2021-03-13
+2103.06118,Techniques for Jointly Extracting Entities and Relations: A Survey,2021-03-10
+2103.04044,Putting Humans in the Natural Language Processing Loop: A Survey,2021-03-06
+2103.03125,Advances in Multi-turn Dialogue Comprehension: A Survey,2021-03-04
+2103.03095,A Survey on Spoken Language Understanding: Recent Advances and New Frontiers,2021-03-04
+2103.00676,Token-Modification Adversarial Attacks for Natural Language Processing: A Survey,2021-03-01
+2103.00498,Topic Modelling Meets Deep Neural Networks: A Survey,2021-02-28
+2103.00242,A Survey on Stance Detection for Mis- and Disinformation Identification,2021-02-27
+2102.09708,Back Translation Survey for Improving Text Augmentation,2021-02-19
+2102.09553,A Systematic Review of Natural Language Processing Applied to Radiology Reports,2021-02-18
+2102.05281,Biomedical Question Answering: A Survey of Approaches and Challenges,2021-02-10
+2102.00214,Taxonomic survey of Hindi Language NLP systems,2021-01-30
+2101.10421,English Machine Reading Comprehension Datasets: A Survey,2021-01-25
+2101.10382,Curriculum Learning: A Survey,2021-01-25
+2101.09459,Advances and Challenges in Conversational Recommender Systems: A Survey,2021-01-23
+2101.08091,A survey of joint intent detection and slot-filling models in natural language understanding,2021-01-20
+2101.05786,Persuasive Natural Language Generation -- A Literature Review,2021-01-14
+2012.12305,Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective,2020-12-22
+2012.09823,Continual Lifelong Learning in Natural Language Processing: A Survey,2020-12-17
+2012.07565,Automating Document Classification with Distant Supervision to Increase the Efficiency of Systematic Reviews,2020-12-09
+2012.03468,An Empirical Survey of Unsupervised Text Representation Methods on Twitter Data,2020-12-07
+2012.03091,Over a Decade of Social Opinion Mining: A Systematic Review,2020-12-05
+2011.13534,A Survey of Deep Learning Approaches for OCR and Document Understanding,2020-11-27
+2011.12631,A Panoramic Survey of Natural Language Processing in the Arab World,2020-11-25
+2011.06727,A Survey on Recent Advances in Sequence Labeling from Deep Learning Models,2020-11-13
+2011.04843,Multi-document Summarization via Deep Learning Techniques: A Survey,2020-11-10
+2011.03870,Explainable Automated Fact-Checking: A Survey,2020-11-07
+2011.01314,Automatic Detection of Machine Generated Text: A Critical Survey,2020-11-02
+2011.00797,Context Dependent Semantic Parsing: A Survey,2020-11-02
+2011.00564,Recent Neural Methods on Slot Filling and Intent Classification for Task-Oriented Dialogue Systems: A Survey,2020-11-01
+2011.00416,Deep Learning for Text Style Transfer: A Survey,2020-11-01
+2010.15036,A Comprehensive Survey on Word Representation Models: From Classical to State-Of-The-Art Word Representation Language Models,2020-10-28
+2010.13688,A Survey of Embedding Space Alignment Methods for Language and Knowledge Graphs,2020-10-26
+2010.12309,A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios,2020-10-23
+2010.12198,Domain Divergences: a Survey and Empirical Analysis,2020-10-23
+2010.11075,Neural Networks for Entity Matching: A Survey,2020-10-21
+2010.07279,Positioning yourself in the maze of Neural Text Generation: A Task-Agnostic Survey,2020-10-14
+2010.06047,"Artificial Intelligence, speech and language processing approaches to monitoring Alzheimer's Disease: a systematic review",2020-10-12
+2010.04665,Scaling Systematic Literature Reviews with Machine Learning Pipelines,2020-10-09
+2010.04389,A Survey of Knowledge-Enhanced Text Generation,2020-10-09
+2010.03061,A Survey on Recognizing Textual Entailment as an NLP Evaluation,2020-10-06
+2010.01535,A Survey of Unsupervised Dependency Parsing,2020-10-04
+2010.01063,Syntax Representation in Word Embeddings and Neural Networks -- A Survey,2020-10-02
+2010.00854,Which *BERT? A Survey Organizing Contextualized Encoders,2020-10-02
+2010.00462,A survey on natural language processing (nlp) and applications in insurance,2020-10-01
+2010.00389,A Survey on Explainability in Machine Reading Comprehension,2020-10-01
+2009.14445,Towards Improved Model Design for Authorship Identification: A Survey on Writing Style Understanding,2020-09-30
+2009.14116,A Survey on Semantic Parsing from the perspective of Compositionality,2020-09-29
+2009.12721,A Brief Survey and Comparative Study of Recent Development of Pronoun Coreference Resolution,2020-09-27
+2009.12622,Automatic Arabic Dialect Identification Systems for Written Texts: A Survey,2020-09-26
+2009.08395,A Multimodal Memes Classification: A Survey and Open Research Issues,2020-09-17
+2009.06732,Efficient Transformers: A Survey,2020-09-14
+2008.12009,A Survey of Evaluation Metrics Used for NLG Systems,2020-08-27
+2008.08612,A Survey on Text Simplification,2020-08-19
+2008.07267,A Survey of Active Learning for Text Classification using Deep Neural Networks,2020-08-17
+2008.05972,A Survey on Knowledge integration techniques with Artificial Neural Networks for seq-2-seq/time series models,2020-08-13
+2008.05221,Compression of Deep Learning Models for Text: A Survey,2020-08-12
+2008.01391,A Survey of Orthographic Information in Machine Translation,2020-08-04
+2008.00842,A Survey on the Evolution of Stream Processing Systems,2020-08-03
+2008.00364,A Survey on Text Classification: From Shallow to Deep Learning,2020-08-02
+2007.13069,A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges,2020-07-26
+2007.12374,A Survey on Graph Neural Networks for Knowledge Graph Completion,2020-07-24
+2007.09604,Meta-learning for Few-shot Natural Language Processing: A Survey,2020-07-19
+2007.09554,Referring Expression Comprehension: A Survey of Methods and Datasets,2020-07-19
+2007.08024,A Survey on Computational Propaganda Detection,2020-07-15
+2006.14799,Evaluation of Text Generation: A Survey,2020-06-26
+2007.04247,Neural relation extraction: a survey,2020-06-23
+2006.11880,"A Survey on Machine Reading Comprehension: Tasks, Evaluation Metrics and Benchmark Datasets",2020-06-21
+2006.11056,A Survey of Syntactic-Semantic Parsing Based on Constituent and Dependency Structures,2020-06-19
+2006.04611,A Comprehensive Survey on Aspect Based Sentiment Analysis,2020-06-08
+2006.01338,A Survey of Neural Networks and Formal Languages,2020-06-02
+2006.00671,Conversational Machine Comprehension: a Literature Review,2020-06-01
+2006.00632,Neural Unsupervised Domain Adaptation in NLP---A Survey,2020-05-31
+2007.04239,A Survey on Transfer Learning in Natural Language Processing,2020-05-31
+2006.00575,Neural Entity Linking: A Survey of Models Based on Deep Learning,2020-05-31
+2005.14709,Beyond Leaderboards: A survey of methods for revealing weaknesses in Natural Language Inference data and models,2020-05-29
+2005.14108,Adversarial Attacks and Defense on Texts: A Survey,2020-05-28
+2005.14050,"Language (Technology) is Power: A Critical Survey of ""Bias"" in NLP",2020-05-28
+2005.07667,Recent Advances in SQL Query Generation: A Survey,2020-05-15
+2005.06527,A Survey on Temporal Reasoning for Temporal Information Extraction from Text (Extended Abstract),2020-05-13
+2005.02233,A Survey on Dialog Management: Recent Advances and Challenges,2020-05-05
+2005.01897,Fine-grained Financial Opinion Mining: A Survey and Research Agenda,2020-05-05
+2005.06600,A Comprehensive Survey of Grammar Error Correction,2020-05-02
+2004.12043,When do Word Embeddings Accurately Reflect Surveys on our Beliefs About People?,2020-04-25
+2004.13820,Evolution of Semantic Similarity -- A Survey,2020-04-19
+2004.13818,A Survey of Document Grounded Dialogue Systems (DGDS),2020-04-17
+2003.08271,Pre-trained Models for Natural Language Processing: A Survey,2020-03-18
+2003.07278,A Survey on Contextual Embeddings,2020-03-16
+2003.01200,Natural Language Processing Advancements By Deep Learning: A Survey,2020-03-02
+2003.00330,Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective,2020-02-29
+2002.07526,A Survey of Deep Learning Techniques for Neural Machine Translation,2020-02-18
+2002.06612,Text-based Question Answering from Information Retrieval and Deep Neural Network Perspectives: A Survey,2020-02-16
+2002.00388,"A Survey on Knowledge Graphs: Representation, Acquisition and Applications",2020-02-02
+2001.10617,Systematic Review of Approaches to Improve Peer Assessment at Scale,2020-01-27
+2001.01582,A Survey on Machine Reading Comprehension Systems,2020-01-06
+2001.01115,A Comprehensive Survey of Multilingual Neural Machine Translation,2020-01-04
+1912.08494,A Survey on Document-level Neural Machine Translation: Methods and Evaluation,2019-12-18
+1912.02047,Neural Machine Translation: A Review and Survey,2019-12-04
+1911.06171,Unsupervised Pre-training for Natural Language Generation: A Literature Review,2019-11-13
+1911.04879,A Survey on Why-Type Question Answering Systems,2019-11-12
+1910.12507,A Survey on Knowledge Graph Embeddings with Literals: Which model links better Literal-ly?,2019-10-28
+1910.11470,A Survey on Recent Advances in Named Entity Recognition from Deep Learning models,2019-10-25
+1910.09399,A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis,2019-10-21
+1910.05059,Keyphrase Generation: A Multi-Aspect Survey,2019-10-11
+1910.03118,The Query Translation Landscape: a Survey,2019-10-07
+1910.03940,Measuring Sentences Similarity: A Survey,2019-10-06
+1910.00373,A Survey of Methods to Leverage Monolingual Data in Low-resource Neural Machine Translation,2019-10-01
+1908.10461,A survey of cross-lingual features for zero-shot cross-lingual semantic parsing,2019-08-27
+1909.01860,Visual Question Answering using Deep Learning: A Survey and Performance Analysis,2019-08-27
+1908.05780,Natural Language Processing of Clinical Notes on Chronic Diseases: Systematic Review,2019-08-15
+1908.06024,Tackling Online Abuse: A Survey of Automated Abuse Detection Methods,2019-08-13
+1907.09358,"Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods",2019-07-22
+1907.04126,Sentiment and position-taking analysis of parliamentary debates: A systematic literature review,2019-07-09
+1907.02704,Extraction and Analysis of Fictional Character Networks: A Survey,2019-07-05
+1907.01686,Machine Reading Comprehension: a Literature Review,2019-06-30
+1907.00181,Fake News Detection using Stance Classification: A Survey,2019-06-29
+1906.09774,Emotionally-Aware Chatbots: A Survey,2019-06-24
+1906.08990,A Comparative Survey of Recent Natural Language Interfaces for Databases,2019-06-21
+1906.08976,Mitigating Gender Bias in Natural Language Processing: Literature Review,2019-06-21
+1906.03926,A Survey of Reinforcement Learning Informed by Natural Language,2019-06-10
+1906.03824,A Survey on Neural Machine Reading Comprehension,2019-06-10
+1906.03591,A Survey on Neural Network Language Models,2019-06-09
+1906.02358,Survey on Publicly Available Sinhala Natural Language Processing Tools and Research,2019-06-05
+1906.00500,"A Survey of Natural Language Generation Techniques with a Focus on Dialogue Systems - Past, Present and Future Directions",2019-06-02
+1905.05395,A Brief Survey of Multilingual Neural Machine Translation,2019-05-14
+1904.08067,Text Classification Algorithms: A Survey,2019-04-17
+1904.07695,"Short Text Topic Modeling Techniques, Applications, and Performance: A Survey",2019-04-13
+1904.01172,"Recent Advances in Natural Language Inference: A Survey of Benchmarks, Resources, and Approaches",2019-04-02
+1904.00784,A Survey of Code-switched Speech and Language Processing,2019-03-25
+1903.05801,Survey of Text-based Epidemic Intelligence: A Computational Linguistic Perspective,2019-03-14
+1903.01039,SECNLP: A Survey of Embeddings in Clinical Natural Language Processing,2019-03-04
+1902.07285,Towards a Robust Deep Neural Network in Texts: A Survey,2019-02-12
+1902.00753,Word Embeddings for Sentiment Analysis: A Comprehensive Empirical Survey,2019-02-02
+1901.09069,Word Embeddings: A Survey,2019-01-25
+1901.06796,Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey,2019-01-21
+1901.02780,Sentiment Analysis of Czech Texts: An Algorithmic Survey,2019-01-09
+1901.02081,Team EP at TAC 2018: Automating data extraction in systematic reviews of environmental agents,2019-01-07
+1901.01122,Machine Translation: A Literature Review,2018-12-28
+1812.09449,A Survey on Deep Learning for Named Entity Recognition,2018-12-22
+1812.08951,Analysis Methods in Neural Language Processing: A Survey,2018-12-21
+1812.08425,A Survey of Hierarchy Identification in Social Networks,2018-12-20
+1812.00978,A Survey on Semantic Parsing,2018-12-03
+1812.00315,"A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities",2018-12-02
+1811.06278,Survey of Computational Approaches to Lexical Semantic Change,2018-11-15
+1811.00770,A Survey on Natural Language Processing for Fake News Detection,2018-11-02
+1810.06765,A survey of automatic de-identification of longitudinal clinical narratives,2018-10-16
+1809.02782,Sentiment analysis for Arabic language: A brief survey of approaches and techniques,2018-09-08
+1808.10685,Extracting Keywords from Open-Ended Business Survey Questions,2018-08-31
+1808.07290,The Gap of Semantic Parsing: A Survey on Automatic Math Word Problem Solvers,2018-08-22
+1808.03137,A Survey on Sentiment and Emotion Analysis for Computational Literary Studies,2018-08-09
+1807.10854,A Survey of the Usages of Deep Learning in Natural Language Processing,2018-07-27
+1807.00914,Modeling Language Variation and Universals: A Survey on Typological Linguistics for Natural Language Processing,2018-07-02
+1806.05599,A Survey on Open Information Extraction,2018-06-14
+1806.03537,Diachronic word embeddings and semantic shifts: a survey,2018-06-09
+1806.00258,A Survey of Domain Adaptation for Neural Machine Translation,2018-06-01
+1805.04617,"TutorialBank: A Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource Recommendation",2018-05-11
+1805.04032,From Word to Sense Embeddings: A Survey on Vector Representations of Meaning,2018-05-10
+1804.08559,False Information on Web and Social Media: A Survey,2018-04-23
+1804.08186,Automatic Language Identification in Texts: A Survey,2018-04-22
+1804.00540,A Systematic Review of Automated Grammar Checking in English Language,2018-03-29
+1804.04589,A Survey on Neural Network-Based Summarization Methods,2018-03-19
+1802.04744,A Short Survey on Sense-Annotated Corpora,2018-02-13
+1801.07883,Deep Learning for Sentiment Analysis : A Survey,2018-01-24
+1801.09536,A Survey of Word Embeddings Evaluation Methods,2018-01-21
+1712.05191,Relation Extraction : A Survey,2017-12-14
+1711.09476,Machine Translation using Semantic Web Technologies: A Survey,2017-11-26
+1711.01731,A Survey on Dialogue Systems: Recent Advances and New Frontiers,2017-11-06
+1709.04685,Machine-Translation History and Evolution: Survey for Arabic-English Translations,2017-09-14
+1707.05850,A Short Survey of Biomedical Relation Extraction Techniques,2017-07-18
+1707.02919,"A Brief Survey of Text Mining: Classification, Clustering and Extraction Techniques",2017-07-10
+1707.02268,Text Summarization Techniques: A Brief Survey,2017-07-07
+1706.08162,Automated text summarisation and evidence-based medicine: A survey of two domains,2017-06-25
+1706.04902,A Survey Of Cross-lingual Word Embedding Models,2017-06-15
+1705.03751,A Survey of Distant Supervision Methods using PGMs,2017-05-10
+1705.03645,A Survey of Deep Learning Methods for Relation Extraction,2017-05-10
+1705.03247,A Systematic Review of Hindi Prosody,2017-05-09
+1704.08531,A Survey of Neural Network Techniques for Feature Extraction from Text,2017-04-27
+1704.03242,Automatic Keyword Extraction for Text Summarization: A Survey,2017-04-11
+1704.00656,Detection and Resolution of Rumours in Social Media: A Survey,2017-04-03
+1703.08098,A survey of embedding models of entities and relationships for knowledge graph completion,2017-03-23
+1702.07835,Critical Survey of the Freely Available Arabic Corpora,2017-02-25
+1702.00764,"Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey",2017-02-02
+1701.08156,A Comprehensive Survey on Bengali Phoneme Recognition,2017-01-27
+1701.04290,Machine Translation Approaches and Survey for Indian Languages,2017-01-16
+1610.08375,Content Selection in Data-to-Text Systems: A Survey,2016-10-26
+1610.03934,A Survey of Voice Translation Methodologies - Acoustic Dialect Decoder,2016-10-13
+1610.03349,Survey on the Use of Typological Information in Natural Language Processing,2016-10-11
+1607.06215,A Comprehensive Survey on Cross-modal Retrieval,2016-07-21
+1607.00623,Visualizing Natural Language Descriptions: A Survey,2016-07-03
+1606.06424,A Novel Framework to Expedite Systematic Reviews by Automatically Building Information Extraction Training Corpora,2016-06-21
+1602.03426,Automatic Sarcasm Detection: A Survey,2016-02-10
+1601.06971,Sentiment Analysis of Twitter Data: A Survey of Techniques,2016-01-26
+1601.03896,"Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures",2016-01-15
+1601.00087,Sentiment/Subjectivity Analysis Survey for Languages other than English,2016-01-01
+1512.05742,A Survey of Available Corpora for Building Data-Driven Dialogue Systems,2015-12-17
+1509.08973,Symbol Emergence in Robotics: A Survey,2015-09-29
+1508.07544,Computational Sociolinguistics: A Survey,2015-08-30
+1508.01346,Word sense disambiguation: a survey,2015-08-06
+1507.01701,A Survey and Classification of Controlled Natural Languages,2015-07-07
+1506.06833,A Survey of Current Datasets for Vision and Language Research,2015-06-23
+1505.03084,A Survey of Arabic Dialogues Understanding for Spontaneous Dialogues and Instant Message,2015-05-12
+1505.01393,Mining Scientific Papers for Bibliometrics: a (very) Brief Survey of Methods and Tools,2015-05-06
+1502.04938,A Survey of Word Reordering in Statistical Machine Translation: Computational Models and Language Phenomena,2015-02-17
+1407.2918,A Survey of Named Entity Recognition in Assamese and other Indian Languages,2014-07-09
+1406.5598,A survey on phrase structure learning methods for text classification,2014-06-21
+1405.2584,Sentiment Analysis: A Survey,2014-05-11
+1404.4935,Opinion Mining In Hindi Language: A Survey,2014-04-19
+1402.7265,"Semantics, Modelling, and the Problem of Representation of Meaning -- a Brief Survey of Recent Literature",2014-02-28
+1401.2937,A survey of methods to ease the development of highly multilingual text mining applications,2014-01-13
+1312.4617,A Survey of Data Mining Techniques for Social Media Analysis,2013-12-17
+1308.5423,A Literature Review: Stemming Algorithms for Indian Languages,2013-08-25
+1307.3336,Opinion Mining and Analysis: A survey,2013-07-12
+1304.4520,Sentiment Analysis : A Literature Survey,2013-04-16
+1209.6238,Natural Language Processing - A Survey,2012-09-25
+1204.6441,"""I Wanted to Predict Elections with Twitter and all I got was this Lousy Paper"" -- A Balanced Survey on Election Prediction using Twitter Data",2012-04-28
+1203.1858,Distributional Measures of Semantic Distance: A Survey,2012-03-08
+0912.3747,A Survey of Paraphrasing and Textual Entailment Methods,2009-12-18
+0504061,Summarization from Medical Documents: A Survey,2005-04-13

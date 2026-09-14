@@ -1,0 +1,10 @@
+pair_id,label,rationale
+r3_000,type3_causal_conflict,"Same observed evidence (BLEU gains); B disputes the causal attribution to gender control specifically, not the gain itself"
+r3_001,type4_apparent,"Surface tension over whether current debiasing methods address indirect bias; resolves once scope of 'method' claims is clarified -- borderline with type1"
+r3_002,type3_causal_conflict,"Same observed MT improvement, literally opposite proposed cause: gender context vs regularisation artifact -- textbook causal conflict"
+r3_003,type1_direct_negation,"A: bias is explicitly removed/protected during training. B: representations still preserve traces of the same protected attribute. Direct negation under the same method class"
+r3_004,type4_apparent,"A claims success on measured bias/quality metrics; B says a different, unmeasured dimension (portrayal nuance) is unaddressed -- compatible once scope is separated, but real surface tension"
+r3_005,not_contradiction,"Different measured constructs (sentiment/positivity of language vs narrative agency) -- a character can be positively described yet low-agency; not incompatible"
+r3_006,type4_apparent,"Persistent-stereotype snapshot vs declining-bias-over-100-years trend use different methods/timeframes (static analysis vs longitudinal historical embeddings); could be compatible (bias declining but retaining stereotype direction)"
+r3_007,not_contradiction,"'Frequently portrayed but less powerful framing' and 'coverage gap relative to men' are not mutually exclusive -- genuinely compatible, not a real dispute"
+r3_008,type4_apparent,"Critique of a widely-used metric (PMI) rather than two specific competing hypotheses; paradigm-level methodological tension, similar to round-1 p009/p021 pattern"

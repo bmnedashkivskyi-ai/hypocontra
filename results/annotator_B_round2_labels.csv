@@ -1,0 +1,56 @@
+pair_id,label,rationale
+r2_000,not_contradiction,"NER Portuguese pattern-matching vs SDoH extraction pipeline; different languages, domains, and datasets, no comparable claim."
+r2_001,not_contradiction,"PAMPO Portuguese NER vs TWIX gut-brain axis IE benchmark; different domains, datasets and subtasks."
+r2_002,not_contradiction,SDoH extraction NER vs TWIX gut-brain IE benchmark; different clinical vs biomedical-literature domains.
+r2_003,not_contradiction,Constituency parsing method (not dependency) vs Tamil dependency parser; different task variant and language.
+r2_004,not_contradiction,Constituency parsing (En/Fr) vs cross-lingual UD parsing framework; different specific task and languages.
+r2_005,not_contradiction,Tamil-specific dependency parser vs cross-lingual UD parser (En/Zh/22 treebanks); no shared benchmark.
+r2_006,not_contradiction,Text-based web-similarity emotion recognition vs speech-based emotion recognition; entirely different modality.
+r2_007,not_contradiction,Web-text emotion recognition vs RAVDESS speech emotion recognition; different modality and dataset.
+r2_008,not_contradiction,Web-text emotion recognition vs conversational (ERC) curriculum learning; different modality and task variant.
+r2_009,not_contradiction,"Web-text emotion recognition vs Farsi dialogue benchmark; different task, language, and modality."
+r2_010,not_contradiction,"IEMOCAP 4-class (69.1%) vs RAVDESS 14-class (68%) speech emotion accuracy; different dataset/class setup, not comparable."
+r2_011,not_contradiction,IEMOCAP speech emotion recognition vs conversation-level ERC curriculum framework; different task setting.
+r2_012,not_contradiction,"Speech emotion recognition (IEMOCAP, English) vs Farsi dialogue benchmark; unrelated language and focus."
+r2_013,not_contradiction,"RAVDESS speech emotion recognition vs ERC curriculum learning; different task/dataset, no shared claim."
+r2_014,not_contradiction,RAVDESS speech emotion recognition vs Farsi dialogue benchmark; unrelated task and language.
+r2_015,not_contradiction,"ERC curriculum learning vs Farsi dialogue benchmark, where emotion is a minor subtask; no comparable claim."
+r2_016,not_contradiction,FPGA hardware accelerator for LSTM ASR vs policy-learning training objective for ASR; orthogonal contributions.
+r2_017,not_contradiction,FPGA hardware ASR accelerator vs speech-translation pipeline system; different focus and task.
+r2_018,not_contradiction,FPGA hardware ASR accelerator vs Common Voice multilingual corpus paper; different contribution type.
+r2_019,not_contradiction,"FPGA hardware ASR accelerator vs Sudanese-dialect ASR model; different focus, language, and metric."
+r2_020,not_contradiction,Policy-learning ASR (WER on WSJ/Librispeech) vs speech-translation system (BLEU); different task and metric.
+r2_021,not_contradiction,"Policy-learning ASR (WSJ/Librispeech, English) vs Common Voice corpus (12 languages); no shared dataset."
+r2_022,not_contradiction,"Policy-learning ASR (WSJ/Librispeech, English) vs Sudanese-dialect ASR; different language and dataset."
+r2_023,not_contradiction,Neural Programmer table QA vs Llama-3.2 width-pruning study; 'multi-step reasoning' mentioned only incidentally.
+r2_024,not_contradiction,OCR post-processing correction method vs Comics OCR benchmark/dataset; different contribution type and domain.
+r2_025,not_contradiction,Author-contribution role extraction using OpenIE as a tool vs DiffIE OpenIE model; different specific task.
+r2_026,not_contradiction,English IEMOCAP spontaneity study vs cross-lingual Urdu emotion recognition; no shared comparable number.
+r2_027,not_contradiction,"PEGASUS summarization pretraining vs error-attribution data-cleaning method; different contributions, no conflicting claim."
+r2_028,not_contradiction,Alexa Prize dialog overview (commonsense mentioned briefly) vs zero-shot video localization; unrelated tasks.
+r2_029,not_contradiction,Vietnamese semantic role labelling vs TARGA synthetic data for KBQA; different specific task and language.
+r2_030,not_contradiction,"Chatbot turn-timing control vs Farsi dialogue benchmark; different focus and language, no overlap."
+r2_031,not_contradiction,"French ASR-based theme detection vs Vietnamese Facebook-chat clustering; different language, task, and pipeline."
+r2_032,not_contradiction,Transformer ASR with prosody features (LibriSpeech WER) vs SLUE SLU benchmark suite; different specific claim.
+r2_033,not_contradiction,Seq2seq regularization for MT (classification framing incidental) vs multimodal fact verification; unrelated tasks.
+r2_034,not_contradiction,Industrial inspection-sheet text detection vs Comics OCR benchmark; different domain and dataset.
+r2_035,not_contradiction,"News-sentiment stock prediction (directional accuracy, pharma) vs DP-LSTM (MSE, S&P 500); different metric and dataset."
+r2_036,not_contradiction,Multilingual NMT empirical study findings vs zero-shot translation architecture change; different research question.
+r2_037,not_contradiction,Multilingual NMT empirical study vs gender-bias-in-architecture study; different specific research question.
+r2_038,not_contradiction,Zero-shot translation positional-info study vs gender-bias architecture study; unrelated specific claims.
+r2_039,not_contradiction,FiD-Ex rationale generation (ERASER benchmark) vs subgraph-guided LLM reasoning framework; unrelated tasks/models.
+r2_040,not_contradiction,Bengali hate speech detection (per-category F1) vs multilingual few-shot LM (vague hate-speech note); no comparable metric.
+r2_041,not_contradiction,Bengali hate speech detection vs Hindi-English code-mixed hate speech (HASOC); different language/dataset.
+r2_042,not_contradiction,Multilingual few-shot LM (vague hate-speech finding) vs Hindi-English code-mixed hate speech system; not comparable.
+r2_043,not_contradiction,DocVQA adaptive retrieval (answer generation by LVLM) vs deep-research-agent confidence calibration; different task.
+r2_044,not_contradiction,Unsupervised dense retrieval's cross-lingual capability vs CrossSum dataset using retrieval only as a construction step.
+r2_045,not_contradiction,Comics OCR benchmark (story generation as future use) vs LLM story-generation diversity study; unrelated claims.
+r2_046,not_contradiction,'LMs beat humans at next-token prediction' claim vs RL exploration-shaping study of token distributions; different questions.
+r2_047,not_contradiction,Preference-optimization sample weighting for math reasoning vs width-pruning dichotomy study; different interventions.
+r2_048,not_contradiction,"Multi-agent medical QA method vs EQUATOR reasoning-evaluation framework; one proposes a method, other an eval tool."
+r2_049,not_contradiction,Multi-agent medical QA vs sketch-guided code generation for missing-value imputation; unrelated tasks.
+r2_050,not_contradiction,"EQUATOR reasoning-evaluation framework vs sketch-guided missing-value imputation; unrelated tasks, no shared claim."
+r2_051,not_contradiction,Dialogue commonsense multi-choice QA (CICERO) vs VLM visual-insensitivity diagnosis; different modality and task.
+r2_052,not_contradiction,"Titans vs Trellis: competing efficient long-context architectures, both cite common-sense-reasoning gains but no shared benchmark numbers conflict."
+r2_053,not_contradiction,Anka DSL for code generation vs Mify-Coder small code model; different specific claims (DSL vs model scale).
+r2_054,not_contradiction,DiffIE (replaces autoregressive generation for IE) vs SCX Router (avoids it for routing); unrelated tasks.

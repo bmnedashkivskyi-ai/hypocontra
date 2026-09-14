@@ -1,0 +1,82 @@
+arxiv_id,title,query
+2306.10530,Gender Bias in Transformer Models: A comprehensive survey,bias survey
+2112.14168,A Survey on Gender Bias in Natural Language Processing,bias survey
+2507.07188,Prompt Perturbations Reveal Human-Like Biases in Large Language Model Survey Responses,bias survey
+2405.06058,Large Language Models Show Human-like Social Desirability Biases in Survey Responses,bias survey
+2407.09861,A Systematic Survey of Natural Language Processing for the Greek Language,bias survey
+2306.08158,Sociodemographic Bias in Language Models: A Survey and Forward Path,bias survey
+2510.11408,"Valid Survey Simulations with Limited Human Data: The Roles of Prompting, Fine-Tuning, and Rectification",bias survey
+2208.12852,What Do NLP Researchers Believe? Results of the NLP Community Metasurvey,bias survey
+2508.20201,Social Bias in Multilingual Language Models: A Survey,bias survey
+2112.07447,Measuring Fairness with Biased Rulers: A Survey on Quantifying Biases in Pretrained Language Models,fairness survey natural language
+2506.23411,Datasets for Fairness in Language Models: An In-Depth Survey,fairness survey natural language
+2404.01349,Fairness in Large Language Models: A Taxonomic Survey,fairness survey natural language
+2405.13025,"A survey on fairness of large language models in e-commerce: progress, application, and challenge",fairness survey natural language
+2608.24977,"Retrieved But Not Reliable: A Survey on Attacks, and Defenses in Retrieval-Augmented Generation",fairness survey natural language
+2211.05617,Debiasing Methods for Fairer Neural Models in Vision and Language Research: A Survey,fairness survey natural language
+2409.16430,A Comprehensive Survey of Bias in LLMs: Current Landscape and Future Directions,fairness survey natural language
+2406.19097,Fairness and Bias in Multimodal AI: A Survey,fairness survey natural language
+2403.09606,Large Language Models and Causal Inference in Collaboration: A Survey,fairness survey natural language
+2512.02763,SurveyEval: Towards Comprehensive Evaluation of LLM-Generated Academic Surveys,evaluation survey language models
+2502.14776,SurveyX: Academic Survey Automation via Large Language Models,evaluation survey language models
+2108.00308,Human Evaluation of Creative NLG Systems: An Interdisciplinary Survey on Recent Papers,evaluation survey language models
+2508.15658,SurGE: A Benchmark and Evaluation Framework for Scientific Survey Generation,evaluation survey language models
+2406.10252,AutoSurvey: Large Language Models Can Automatically Write Surveys,evaluation survey language models
+2510.06242,Transparent Reference-free Automated Evaluation of Open-Ended User Survey Responses,evaluation survey language models
+2512.14562,Polypersona: Persona-Grounded LLM for Synthetic Survey Responses,evaluation survey language models
+2404.12041,A Survey of Automatic Hallucination Evaluation on Natural Language Generation,evaluation survey language models
+2608.07641,SurveyReview: A Reviewer-Aligned Benchmark for Survey Evaluators,evaluation survey language models
+2508.11310,SGSimEval: A Comprehensive Multifaceted and Similarity-Enhanced Benchmark for Automatic Survey Generation Systems,evaluation survey language models
+2510.03120,SurveyBench: Can LLM(-Agents) Write Academic Surveys that Align with Reader Needs?,evaluation survey language models
+2405.00704,A Survey on the Real Power of ChatGPT,evaluation survey language models
+2510.01283,Evaluation Sheet for Deep Research: A Use Case for Academic Survey Writing,evaluation survey language models
+2510.17764,Evaluating Medical LLMs by Levels of Autonomy: A Survey Moving from Benchmarks to Applications,evaluation survey language models
+2412.03920,A Survey on Large Language Model-Based Social Agents in Game-Theoretic Scenarios,evaluation survey language models
+2506.11111,Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions,robustness survey NLP
+2505.18658,Robustness in Large Language Models: A Survey of Mitigation Strategies and Evaluation Metrics,robustness survey NLP
+2112.08313,Measure and Improve Robustness in NLP Models: A Survey,robustness survey NLP
+2506.00054,"Retrieval-Augmented Generation: A Comprehensive Survey of Architectures, Enhancements, and Robustness Frontiers",robustness survey NLP
+2405.19323,Are Large Language Models Chameleons? An Attempt to Simulate Social Surveys,robustness survey NLP
+2407.12858,Grounding and Evaluation for Large Language Models: Practical Challenges and Lessons Learned (Survey),robustness survey NLP
+2504.14520,Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey,robustness survey NLP
+2403.08319,Knowledge Conflicts for LLMs: A Survey,robustness survey NLP
+2407.15248,XAI meets LLMs: A Survey of the Relation between Explainable AI and Large Language Models,interpretability survey NLP
+2504.08001,Linguistic Interpretability of Transformer-based Language Models: a systematic review,interpretability survey NLP
+2604.16042,Towards Intrinsic Interpretability of Large Language Models:A Survey of Design Principles and Architectures,interpretability survey NLP
+2207.13243,Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks,interpretability survey NLP
+2412.02104,Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey,interpretability survey NLP
+2108.13138,Neuron-level Interpretation of Deep NLP Models: A Survey,interpretability survey NLP
+2108.04840,Post-hoc Interpretability for Neural NLP: A Survey,interpretability survey NLP
+2506.20083,Bridging Compositional and Distributional Semantics: A Survey on Latent Semantic Geometry via AutoEncoder,interpretability survey NLP
+2110.00269,A Survey of Knowledge Enhanced Pre-trained Models,interpretability survey NLP
+2411.11072,Multilingual Large Language Models: A Systematic Survey,interpretability survey NLP
+2404.00990,Exploring the Nexus of Large Language Models and Legal Systems: A Short Survey,interpretability survey NLP
+2309.05922,A Survey of Hallucination in Large Foundation Models,hallucination survey
+2608.26168,"Hallucinations in LLMs: A Lifecycle-Based Survey of Causes, Detection, Mitigation, and Prevention",hallucination survey
+2402.00253,A Survey on Hallucination in Large Vision-Language Models,hallucination survey
+2202.03629,Survey of Hallucination in Natural Language Generation,hallucination survey
+2311.07914,Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey,hallucination survey
+2309.01219,Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models,hallucination survey
+2510.24476,"Mitigating Hallucination in Large Language Models (LLMs): An Application-Oriented Survey on RAG, Reasoning, and Agentic Systems",hallucination survey
+2311.05232,"A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",hallucination survey
+2510.06265,Large Language Models Hallucination: A Comprehensive Survey,hallucination survey
+2601.17431,The 17% Gap: Quantifying Epistemic Decay in AI-Assisted Survey Papers,hallucination survey
+2506.21812,Towards Transparent AI: A Survey on Explainable Large Language Models,explainability survey NLP
+2209.11326,Towards Faithful Model Explanation in NLP: A Survey,explainability survey NLP
+2401.12874,From Understanding to Utilization: A Survey on Explainability for Large Language Models,explainability survey NLP
+2010.10563,A Survey on Deep Learning and Explainability for Automatic Report Generation from Medical Images,explainability survey NLP
+2501.01346,Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability,explainability survey NLP
+2301.08912,Rationalization for Explainable NLP: A Survey,explainability survey NLP
+2407.12853,Automated Justification Production for Claim Veracity in Fact Checking: A Survey on Architectures and Approaches,explainability survey NLP
+2212.07126,Explainability of Text Processing and Retrieval Methods: A Survey,explainability survey NLP
+2507.12774,A Comprehensive Survey of Electronic Health Record Modeling: From Deep Learning Approaches to Large Language Models,explainability survey NLP
+2010.00711,A Survey of the State of Explainable AI for Natural Language Processing,explainability survey NLP
+2406.07353,Toxic Memes: A Survey of Computational Perspectives on the Detection and Explanation of Meme Toxicities,toxicity survey detection
+2509.25539,"Toxicity in Online Platforms and AI Systems: A Survey of Needs, Challenges, Mitigations, and Future Directions",toxicity survey detection
+2606.25380,A Survey of Toxicity Detection and Mitigation Strategies for Multilingual Language Models,toxicity survey detection
+2312.07228,Toxic language detection: a systematic review of Arabic datasets,toxicity survey detection
+2501.09431,"A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy",toxicity survey detection
+2311.04345,A Taxonomy of Rater Disagreements: Surveying Challenges & Opportunities from the Perspective of Annotating Online Toxicity,toxicity survey detection
+2508.05775,Guardians and Offenders: A Survey on Harmful Content Generation and Safety Mitigation of LLM,toxicity survey detection
+2311.00237,The Mystery of In-Context Learning: A Comprehensive Survey on Interpretation and Analysis,toxicity survey detection
+2506.11094,The Scales of Justitia: A Comprehensive Survey on Safety Evaluation of LLMs,toxicity survey detection

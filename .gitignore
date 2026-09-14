@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+results/survey_sources/
+results/acl_anthology/anthology.bib
+results/acl_anthology/anthology.bib.gz
+results/acl_pdfs/
+results/alamri_stevenson/
+results/nli4ct/
+.worktrees/

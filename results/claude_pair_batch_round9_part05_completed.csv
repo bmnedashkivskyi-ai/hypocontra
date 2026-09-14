@@ -1,0 +1,38 @@
+sentence_id,status,skip_reason,topic,hypothesis_a,source_a,hypothesis_b,source_b
+s0345,skipped,not_genuine_contrast,,,,,
+s0346,skipped,insufficient_context,,,,,
+s0349,skipped,insufficient_context,,,,,
+s0351,skipped,not_genuine_contrast,,,,,
+s0352,skipped,not_genuine_contrast,,,,,
+s0353,skipped,not_genuine_contrast,,,,,
+s0363,pair_created,,NMT vs human robustness to noise,"Neural machine translation systems are heavily degraded by synthetic and natural noise such as misspellings, in contrast to more traditional translation approaches.",belinkovB18,"Human readers incur a measurable processing cost when reading words with jumbled or scrambled letters, showing that human word recognition is also disrupted by misspelled input, though evidently less catastrophically than neural MT systems.",jumbledwords
+s0364,skipped,not_genuine_contrast,,,,,
+s0365,pair_created,,code-switching label granularity,"Code-switching/word-borrowing detection can be handled by tagging an entire word with a single coarse-grained 'mixed' label, without further internal distinction.",SBM+14,"The 'mixed' code-switching label should be expanded to identify the specific languages present at the morpheme level within a single word (intra-word code-switching), rather than a single whole-word tag.",sabty2021
+s0367,pair_created,,reaching diverse users for data,"Larger and more diverse study populations can be reached through volunteer-based, uncompensated online experimentation platforms such as LabintheWild, which recruit individual participants directly for behavioral studies.",reinecke2015labinthewild,"Wikibench offers a community-driven alternative to individual-based data curation for AI evaluation, capturing community consensus rather than aggregating individual volunteer responses.",kuo2024wikibench
+s0370,skipped,not_genuine_contrast,,,,,
+s0381,pair_created,,zero-shot chain-of-thought effects,"EchoPrompt improves LLM performance by prompting the model to first rephrase the query before answering it, yielding substantial gains across zero-shot and few-shot prompting, including chain-of-thought settings.",mekala-etal-2024-echoprompt,"Zero-shot chain-of-thought prompting significantly increases the likelihood of harmful and biased outputs when applied to harmful-question and stereotype benchmarks, revealing a safety cost of CoT not captured by accuracy-focused evaluation.",shaikh-etal-2023-second
+s0383,skipped,not_genuine_contrast,,,,,
+s0385,pair_created,,LLM self-correction capability,Large language models cannot self-correct their own reasoning through intrinsic self-reflection alone; genuine improvement requires external feedback.,huang2024large,"LLMs' self-estimated confidence can be leveraged to improve intrinsic self-correction/self-refinement capability, complicating the claim that self-correction is not achievable without external feedback.",li2024confidence
+s0388,skipped,not_genuine_contrast,,,,,
+s0389,skipped,not_genuine_contrast,,,,,
+s0396,skipped,not_genuine_contrast,,,,,
+s0405,pair_created,,transformer adapter module architecture,"The Houlsby adapter architecture inserts an adapter module both after the multi-headed attention sublayer and after the feed-forward sublayer in each transformer layer, i.e. two adapters per layer.",houlsbyadapter,"The Bapna and Firat adapter simplifies this design by introducing only one adapter module per transformer layer, keeping only the 'top' adapter after multi-headed attention and dropping the 'bottom' adapter after the feed-forward sublayer.",bapnafiratadapter
+s0406,pair_created,,adapter layer normalization strategy,The Houlsby adapter approach re-trains the transformer's existing layer normalization parameters separately for every new domain.,houlsbyadapter,"The Bapna and Firat adapter instead leaves the original layer normalization parameters frozen and introduces new, separate layer normalization parameters for every task, mimicking the structure of the transformer's feed-forward layer.",bapnafiratadapter
+s0408,skipped,not_genuine_contrast,,,,,
+s0411,skipped,not_genuine_contrast,,,,,
+s0414,skipped,not_genuine_contrast,,,,,
+s0418,skipped,not_genuine_contrast,,,,,
+s0423,skipped,not_genuine_contrast,,,,,
+s0424,skipped,not_genuine_contrast,,,,,
+s0428,pair_created,,definition of misinformation,"Misinformation should be defined narrowly, as demonstrably false and inflammatory content.",budak2024misunderstanding,"Misinformation should be defined more expansively to also include true information that is misleading and causes harm, a category sometimes termed 'malinformation,' rather than only outright false content.",ecker2024misinformation
+s0429,skipped,not_genuine_contrast,,,,,
+s0432,skipped,not_genuine_contrast,,,,,
+s0433,skipped,not_genuine_contrast,,,,,
+s0434,skipped,insufficient_context,,,,,
+s0436,pair_created,,multilingual text-to-image evaluation scope,"Multilingual conceptual coverage in text-to-image generation can be evaluated by generating simple, single concepts translated across languages.",saxon2023multilingual,"Evaluating text-to-image generative bias across Indic languages requires prompts describing multiple elements/objects within a single generated image, going beyond single simple-concept generation.",mittal2024navigating
+s0437,skipped,insufficient_context,,,,,
+s0438,skipped,not_genuine_contrast,,,,,
+s0439,skipped,not_genuine_contrast,,,,,
+s0441,skipped,not_genuine_contrast,,,,,
+s0442,skipped,not_genuine_contrast,,,,,
+s0444,skipped,not_genuine_contrast,,,,,

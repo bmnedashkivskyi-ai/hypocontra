@@ -1,0 +1,23 @@
+key,year,title,url,arxiv_id
+pedinotti-santus-2026-structsurvey,2026,{S}truct{S}urvey: Structured Agentic Retrieval for Automated Survey Paper Generation,https://aclanthology.org/2026.surgellm-1.10/,2607.01243
+libovicky-2026-credibility,2026,On the Credibility of Evaluating {LLM}s using Survey Questions,https://aclanthology.org/2026.mme-main.2/,2602.04033
+wan-etal-2026-test,2026,Test-Time Scaling in Multimodal Foundation Models: A Comprehensive Survey of Generation and Reasoning,https://aclanthology.org/2026.findings-acl.383/,2606.08231
+yehudai-etal-2026-survey,2026,A Survey on Evaluation of {LLM}-based Agents,https://aclanthology.org/2026.findings-acl.1330/,2503.16416
+lan-etal-2026-making,2026,"Making Revisions Understandable: A Survey of Edit Intentions, Methods, and Applications",https://aclanthology.org/2026.findings-acl.1747/,2609.01610
+sheth-etal-2026-beyond,2026,Beyond Monolingual Assumptions: A Survey on Code-Switched {NLP} in the Era of Large Language Models across Modalities,https://aclanthology.org/2026.acl-long.386/,2510.07037
+yang-etal-2026-survey-multimodal,2026,"A Survey of Multimodal Mathematical Reasoning: From Perception, Alignment to Reasoning",https://aclanthology.org/2026.acl-long.1961/,2603.08291
+nguyen-etal-2025-survey,2025,A Survey on Small Language Models,https://aclanthology.org/2025.ranlp-1.93/,2410.20011
+zhu-etal-2025-asaudio,2025,{ASA}udio: A Survey of Advanced Spatial Audio Research,https://aclanthology.org/2025.ijcnlp-long.25/,2508.10924
+pitts-etal-2025-survey,2025,A Survey of {LLM}-Based Applications in Programming Education: Balancing Automation and Human Oversight,https://aclanthology.org/2025.hcinlp-1.21/,2510.03719
+nguyen-etal-2025-gui,2025,{GUI} Agents: A Survey,https://aclanthology.org/2025.findings-acl.1158/,2412.13501
+sen-etal-2025-missing,2025,Missing the Margins: A Systematic Literature Review on the Demographic Representativeness of {LLM}s,https://aclanthology.org/2025.findings-acl.1246/,2511.01864
+wei-etal-2025-survey,2025,A Survey of Link Prediction in N-ary Knowledge Graphs,https://aclanthology.org/2025.emnlp-main.1451/,2506.08970
+dong-etal-2025-beyond,2025,Beyond A Single {AI} Cluster: A Survey of Decentralized {LLM} Training,https://aclanthology.org/2025.emnlp-main.1486/,2503.11023
+ticona-etal-2025-indigenous,2025,Indigenous Languages Spoken in {A}rgentina: A Survey of {NLP} and Speech Resources,https://aclanthology.org/2025.coling-main.565/,2501.09943
+xu-etal-2025-personalized,2025,Personalized Generation In Large Model Era: A Survey,https://aclanthology.org/2025.acl-long.1201/,2503.02614
+tjuatja-etal-2024-llms,2024,Do {LLM}s Exhibit Human-like Response Biases? A Case Study in Survey Design,https://aclanthology.org/2024.tacl-1.56/,2311.04076
+deng-etal-2024-unveiling,2024,Unveiling the Spectrum of Data Contamination in Language Model: A Survey from Detection to Remediation,https://aclanthology.org/2024.findings-acl.951/,2406.14644
+liu-etal-2023-pre,2023,"Pre-train, Prompt, and Recommendation: A Comprehensive Survey of Language Modeling Paradigm Adaptations in Recommender Systems",https://aclanthology.org/2023.tacl-1.88/,2302.03735
+akhtar-etal-2023-multimodal,2023,Multimodal Automated Fact-Checking: A Survey,https://aclanthology.org/2023.findings-emnlp.361/,2305.13507
+rahmani-etal-2023-survey,2023,A Survey on Asking Clarification Questions Datasets in Conversational Systems,https://aclanthology.org/2023.acl-long.152/,2305.15933
+pavlopoulos-etal-2019-survey,2019,A Survey on Biomedical Image Captioning,https://aclanthology.org/W19-1803/,1905.13302
