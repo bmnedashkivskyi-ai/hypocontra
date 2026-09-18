@@ -32,7 +32,7 @@ authors:
 repository-code: "https://github.com/bmnedashkivskyi-ai/hypocontra"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.22744801"
+    value: "10.5281/zenodo.22834691"
     description: "Archived snapshot of this repository (Zenodo)"
 license: Apache-2.0
 keywords:
