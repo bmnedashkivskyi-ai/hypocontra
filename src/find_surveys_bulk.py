@@ -30,7 +30,12 @@ RESULTS_DIR = Path(__file__).resolve().parents[1] / "results"
 ARXIV_NS = {"atom": "http://www.w3.org/2005/Atom", "opensearch": "http://a9.com/-/spec/opensearch/1.1/"}
 
 PAGE_SIZE = 100
-PAGE_DELAY = 5.0
+# Round 18 (2026-09-17): 5.0s held for ~1.5 days across ~13.5k requests still
+# triggered a persistent 406 block that outlasted a full retry-and-resume
+# cycle (see PersistentBlockError) -- raised well above arXiv's stated 3s
+# minimum on the theory that it's sustained volume/duration, not the
+# per-request rate, that tripped their abuse detection.
+PAGE_DELAY = 20.0
 MAX_RETRY_BACKOFF = 300.0
 
 # Ідентичний фільтр хибних сенсів "survey", що й у find_more_surveys.py
@@ -90,7 +95,19 @@ QUERY_MODES = {
 REQUIRE_NLP_RELEVANCE = {"survey_broad"}
 
 
-def fetch_page(start: int, max_results: int, query: str) -> ET.Element:
+class PersistentBlockError(RuntimeError):
+    """Raised by fetch_page when max_attempts is set and exceeded.
+
+    Round 18 (2026-09-17): a query that hit 406 kept hitting 406 on every
+    resumed run, immediately, for 4.5+ hours straight -- not the once-off
+    transient block the original comment below assumed. That points to
+    arXiv fingerprinting the specific query rather than a blanket IP-level
+    block that just needs to be waited out. Unbounded retry then means one
+    such query can stall an entire unattended run indefinitely.
+    """
+
+
+def fetch_page(start: int, max_results: int, query: str, max_attempts: int | None = None) -> ET.Element:
     params = urllib.parse.urlencode({
         "search_query": query,
         "start": start,
@@ -107,13 +124,33 @@ def fetch_page(start: int, max_results: int, query: str) -> ET.Element:
             with urllib.request.urlopen(req, timeout=30) as resp:
                 return ET.fromstring(resp.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
-            if e.code == 429:
+            if e.code == 429 or e.code == 406 or e.code >= 500:
+                # 406 seen during round 18 (2026-09-16, ~13521/18172 in): arXiv's
+                # anti-abuse layer escalated past plain 429 after ~1.5 days of
+                # sustained querying, on an otherwise unremarkable query -- a
+                # manual re-request of the same exact query later succeeded with
+                # 200 once the block lifted, confirming it's transient like 429,
+                # not a malformed-query error. Unhandled before this fix, it
+                # killed the run outright.
+                if max_attempts is not None and attempt >= max_attempts:
+                    raise PersistentBlockError(f"HTTP {e.code} persisted past {max_attempts} attempts") from e
                 wait = min(30.0 * (2 ** attempt), MAX_RETRY_BACKOFF)
-                print(f"  429 rate-limited, backing off {wait:.0f}s (attempt {attempt + 1})...", flush=True)
+                print(f"  HTTP {e.code}, backing off {wait:.0f}s (attempt {attempt + 1})...", flush=True)
                 time.sleep(wait)
                 attempt += 1
                 continue
             raise
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            # Transient network failure (DNS hiccup, reset connection, etc.) --
+            # not an HTTPError, so it bypassed retry entirely before this fix,
+            # which killed unattended multi-hour runs (round 18) on the first blip.
+            if max_attempts is not None and attempt >= max_attempts:
+                raise PersistentBlockError(f"network error persisted past {max_attempts} attempts") from e
+            wait = min(30.0 * (2 ** attempt), MAX_RETRY_BACKOFF)
+            print(f"  network error ({e}), backing off {wait:.0f}s (attempt {attempt + 1})...", flush=True)
+            time.sleep(wait)
+            attempt += 1
+            continue
 
 
 def already_seen_ids() -> set[str]:

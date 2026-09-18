@@ -1,23 +1,1662 @@
 arxiv_id,title
-1705.09406,Multimodal Machine Learning: A Survey and Taxonomy
-1206.5538,Representation Learning: A Review and New Perspectives
-2006.05525,Knowledge Distillation: A Survey
-1911.02685,A Comprehensive Survey on Transfer Learning
-2304.00685,Vision-Language Models for Vision Tasks: A Survey
-2209.04747,Diffusion Models in Vision: A Survey
-1904.05046,Generalizing from a Few Examples: A Survey on Few-Shot Learning
-2402.19473,Retrieval-Augmented Generation for AI-Generated Content: A Survey
-1802.01933,A Survey Of Methods For Explaining Black Box Models
-2206.06488,Multimodal Learning with Transformers: A Survey
-2004.05439,Meta-Learning in Neural Networks: A Survey
-1812.08434,Graph Neural Networks: A Review of Methods and Applications
-2404.18930,Hallucination of Multimodal Large Language Models: A Survey
-2302.00487,"A Comprehensive Survey of Continual Learning: Theory, Method and Application"
-2103.13630,A Survey of Quantization Methods for Efficient Neural Network Inference
-1905.04071,Survey on Evaluation Methods for Dialogue Systems
-2310.03533,Large Language Models for Software Engineering: Survey and Open Problems
-1810.04020,A Comprehensive Survey of Deep Learning for Image Captioning
-1802.07569,Continual Lifelong Learning with Neural Networks: A Review
-1707.08114,A Survey on Multi-Task Learning
-2403.05156,On Protecting the Data Privacy of Large Language Models (LLMs): A Survey
-2310.19852,AI Alignment: A Comprehensive Survey
+1808.05377,Neural Architecture Search: A Survey
+2011.00362,A Survey on Contrastive Self-supervised Learning
+1806.00069,Explaining Explanations: An Overview of Interpretability of Machine Learning
+1909.08383,A continual learning survey: Defying forgetting in classification tasks
+2107.03342,A Survey of Uncertainty in Deep Neural Networks
+2404.18231,From Persona to Personalization: A Survey on Role-Playing Language Agents
+2503.12605,Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey
+2310.10647,A Survey on Video Diffusion Models
+1810.02499,Dark Energy Survey Year 1 Results: Constraints on Extended Cosmological Models from Galaxy Clustering and Weak Lensing
+2110.11334,Generalized Out-of-Distribution Detection: A Survey
+1503.00759,A Review of Relational Machine Learning for Knowledge Graphs
+2011.02260,Graph Neural Networks in Recommender Systems: A Survey
+2410.08918,Wikimedia data for AI: a review of Wikimedia datasets for NLP tasks and AI-assisted editing
+2307.12980,A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models
+1710.09282,A Survey of Model Compression and Acceleration for Deep Neural Networks
+2211.14876,Dense Text Retrieval based on Pretrained Language Models: A Survey
+2001.06937,"A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications"
+1801.00553,Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey
+1709.07604,"A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications"
+2303.10158,Data-centric Artificial Intelligence: A Survey
+1606.05908,Tutorial on Variational Autoencoders
+2503.09648,A Survey on Trustworthy LLM Agents: Threats and Countermeasures
+1908.09257,Normalizing Flows: An Introduction and Review of Current Methods
+2407.19354,The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies
+1707.07435,Deep Learning based Recommender System: A Survey and New Perspectives
+2302.01107,A Survey on Efficient Training of Transformers
+2002.00444,Deep Reinforcement Learning for Autonomous Driving: A Survey
+2308.12792,Sparks of Large Audio Models: A Survey and Outlook
+1802.00614,Visual Interpretability for Deep Learning: a Survey
+2402.17177,"Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models"
+2302.03495,Can ChatGPT Write a Good Boolean Query for Systematic Review Literature Search?
+2012.15445,Explainability in Graph Neural Networks: A Taxonomic Survey
+1808.01974,A Survey on Deep Transfer Learning
+2011.06225,"A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges"
+2504.15965,From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs
+2311.10372,"A Survey of Large Language Models for Code: Evolution, Benchmarking, and Future Trends"
+2004.05937,Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks
+1607.05910,Visual Question Answering: A Survey of Methods and Datasets
+1910.07738,A Survey of Deep Learning Techniques for Autonomous Driving
+2406.02630,AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways
+2403.14735,Foundation Models for Time Series Analysis: A Tutorial and Survey
+1902.06162,Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey
+2003.00911,A Survey on Knowledge Graph-Based Recommender Systems
+1706.05098,An Overview of Multi-Task Learning in Deep Neural Networks
+1908.00709,AutoML: A Survey of the State-of-the-Art
+1506.00019,A Critical Review of Recurrent Neural Networks for Sequence Learning
+2011.07876,A Survey on the Explainability of Supervised Machine Learning
+2201.08164,From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI
+2303.16129,Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services
+2007.02500,Deep Learning for Anomaly Detection: A Review
+0711.0189,A Tutorial on Spectral Clustering
+2006.11371,Opportunities and Challenges in Explainable Artificial Intelligence (XAI): A Survey
+1703.09039,Efficient Processing of Deep Neural Networks: A Tutorial and Survey
+2103.04922,"Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models"
+2111.06091,A Survey of Visual Transformers
+2407.06886,Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI
+1810.00069,Adversarial Attacks and Defences: A Survey
+2007.07646,A Survey of Privacy Attacks in Machine Learning
+1709.06182,A Survey of Machine Learning for Big Code and Naturalness
+2002.12478,Time Series Data Augmentation for Deep Learning: A Survey
+2009.09796,Multi-Task Learning with Deep Neural Networks: A Survey
+1809.04356,Deep learning for time series classification: a review
+2302.05019,A Comprehensive Survey on Automatic Knowledge Graph Construction
+2101.09671,Pruning and Quantization for Deep Neural Network Acceleration: A Survey
+1911.10635,Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms
+1906.05113,A Survey of Autonomous Driving: Common Practices and Emerging Technologies
+1908.08796,Reinforcement Learning in Healthcare: A Survey
+2007.08745,Backdoor Learning: A Survey
+2108.13624,Towards Out-Of-Distribution Generalization: A Survey
+2103.03097,Generalizing to Unseen Domains: A Survey on Domain Generalization
+2407.07403,"A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends"
+1702.05747,A Survey on Deep Learning in Medical Image Analysis
+2010.03978,A Brief Review of Domain Adaptation
+1905.05055,Object Detection in 20 Years: A Survey
+2307.07221,"Software Testing with Large Language Models: Survey, Landscape, and Vision"
+1909.08072,"Adversarial Attacks and Defenses in Images, Graphs and Text: A Review"
+1804.11192,Explainable Recommendation: A Survey and New Perspectives
+1704.03578,A Survey on Homomorphic Encryption Schemes: Theory and Implementation
+2006.16712,Model-based Reinforcement Learning: A Survey
+2201.05991,Video Transformers: A Survey
+2312.10982,"A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models"
+2307.00855,Review of Large Vision Models and Visual Prompt Engineering
+1806.06877,"A Survey of Inverse Reinforcement Learning: Challenges, Methods and Progress"
+1711.03902,Neural-Symbolic Learning and Reasoning: A Survey and Interpretation
+2303.15361,A Comprehensive Survey on Test-Time Adaptation under Distribution Shifts
+1609.04747,An overview of gradient descent optimization algorithms
+2006.02903,A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions
+2101.10423,Online Continual Learning in Image Classification: An Empirical Survey
+1601.00670,Variational Inference: A Review for Statisticians
+2012.14261,A Survey on Neural Network Interpretability
+2111.07624,Attention Mechanisms in Computer Vision: A Survey
+2306.12001,An Overview of Catastrophic AI Risks
+2002.02770,A Survey on Causal Inference
+2207.00419,Self-Supervised Learning for Videos: A Survey
+2304.07683,"Fairness And Bias in Artificial Intelligence: A Brief Survey of Sources, Impacts, And Mitigation Strategies"
+2302.04062,Machine Learning for Synthetic Data Generation: A Review
+2312.15223,A Survey on Large Language Models for Software Engineering
+2008.10937,A Survey on Evolutionary Neural Architecture Search
+1505.02463,A Survey on Truth Discovery
+2011.11819,When Machine Learning Meets Privacy: A Survey and Outlook
+1807.07984,Attention Models in Graphs: A Survey
+2004.11138,The Creation and Detection of Deepfakes: A Survey
+1807.02811,A Tutorial on Bayesian Optimization
+2302.03883,Multimodal Recommender Systems: A Survey
+2310.14021,Survey of Vector Database Management Systems
+1807.05511,Object Detection with Deep Learning: A Review
+1912.12033,Deep Learning for 3D Point Clouds: A Survey
+1802.03601,Deep Visual Domain Adaptation: A Survey
+1912.09789,A Survey on Distributed Machine Learning
+2403.10249,"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges"
+0706.3188,A tutorial on conformal prediction
+2103.14636,A Practical Survey on Faster and Lighter Transformers
+2201.05867,Transferability in Deep Learning: A Survey
+2203.15876,Self-Supervised Learning for Recommender Systems: A Survey
+1511.04854,A Survey of Heterogeneous Information Network Analysis
+1802.02871,Online Learning: A Comprehensive Survey
+1906.04928,Deep Learning for Spatio-Temporal Data Mining: A Survey
+2003.03600,Reinforcement Learning for Combinatorial Optimization: A Survey
+1705.02801,"Graph Embedding Techniques, Applications, and Performance: A Survey"
+2006.05132,"A Survey on Generative Adversarial Networks: Variants, Applications, and Training"
+2101.05278,GAN Inversion: A Survey
+2205.06743,"A Comprehensive Survey of Few-shot Learning: Evolution, Applications, Challenges, and Opportunities"
+2005.06247,Explainable Reinforcement Learning: A Survey
+2001.05566,Image Segmentation Using Deep Learning: A Survey
+2009.13303,Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey
+2102.04906,Dynamic Neural Networks: A Survey
+2009.07888,Transfer Learning in Deep Reinforcement Learning: A Survey
+1304.5634,A Survey on Multi-view Learning
+2106.07178,A Comprehensive Survey on Graph Anomaly Detection with Deep Learning
+2103.04931,Monte Carlo Tree Search: A Review of Recent Modifications and Applications
+2401.02524,Comprehensive Exploration of Synthetic Data Generation: A Survey
+1811.11839,A Multidisciplinary Survey and Framework for Design and Evaluation of Explainable AI Systems
+2002.05786,Deep Learning for Financial Applications : A Survey
+2210.16484,A Systematic Survey of Chemical Pre-trained Models
+1910.02923,A Survey on Active Learning and Human-in-the-Loop Deep Learning for Medical Image Analysis
+2407.20018,Efficient Training of Large Language Models on Distributed Infrastructures: A Survey
+2008.08612,A Survey on Text Simplification
+2307.03759,"A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection"
+2303.14483,Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey
+2405.10347,Networking Systems for Video Anomaly Detection: A Tutorial and Survey
+2101.06286,Reinforcement learning based recommender systems: A survey
+2010.15277,Class-incremental learning: survey and performance evaluation on image classification
+2404.04834,"LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision and the Road Ahead"
+2010.03240,Bias and Debias in Recommender System: A Survey and Future Directions
+2412.03563,From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents
+2503.23350,A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models
+2011.08641,A Review of Generalized Zero-Shot Learning Methods
+2010.05137,An Open Review of OpenReview: A Critical Analysis of the Machine Learning Conference Review Process
+2102.08942,A Survey on Locality Sensitive Hashing Algorithms and their Applications
+2103.00070,Knowledge-aware Zero-Shot Learning: Survey and Perspective
+2101.09429,Explainable Artificial Intelligence Approaches: A Survey
+2202.06862,Threats to Pre-trained Language Models: Survey and Taxonomy
+2204.08570,"A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability"
+1806.00186,"Video Description: A Survey of Methods, Datasets and Evaluation Metrics"
+1907.09693,"A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection"
+2204.09888,Fairness in Graph Mining: A Survey
+2303.02213,"Backdoor Attacks and Defenses in Federated Learning: Survey, Challenges and Future Research Directions"
+2308.14367,A Comprehensive Overview of Backdoor Attacks in Large Language Models within Communication Networks
+0504061,Summarization from Medical Documents: A Survey
+2404.02525,Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead
+2203.14263,A General Survey on Attention Mechanisms in Deep Learning
+2203.14500,MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design
+1706.03446,Deep EHR: A Survey of Recent Advances in Deep Learning Techniques for Electronic Health Record (EHR) Analysis
+2403.14473,The Ethics of ChatGPT in Medicine and Healthcare: A Systematic Review on Large Language Models (LLMs)
+2111.06420,Explainable AI (XAI): A Systematic Meta-Survey of Current Challenges and Future Opportunities
+2009.06520,A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research
+2404.00579,A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)
+1810.05587,A Survey and Critique of Multiagent Deep Reinforcement Learning
+2310.08879,A Critical Review of Large Language Model on Software Engineering: An Example from ChatGPT and Automated Program Repair
+2010.03522,A Survey of Deep Meta-Learning
+2506.04133,"TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems"
+1810.03548,Meta-Learning: A Survey
+1908.03963,A Review of Cooperative Multi-Agent Deep Reinforcement Learning
+2211.09124,A Review of Intelligent Music Generation Systems
+2305.08196,A Comprehensive Survey on Segment Anything Model for Vision and Beyond
+2206.03761,A Survey on the Fairness of Recommender Systems
+2104.14362,From Distributed Machine Learning to Federated Learning: A Survey
+1812.08342,"A Survey of Safety and Trustworthiness of Deep Neural Networks: Verification, Testing, Adversarial Attack and Defence, and Interpretability"
+2206.02353,Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data
+2007.08199,Learning from Noisy Labels with Deep Neural Networks: A Survey
+2111.06061,Edge-Cloud Polarization and Collaboration: A Comprehensive Survey for AI
+2111.15367,A Review on Graph Neural Network Methods in Financial Applications
+2202.09195,A Review on Methods and Applications in Multimodal Deep Learning
+2210.16282,Big Data Meets Metaverse: A Survey
+2003.02133,Threats to Federated Learning: A Survey
+2101.11174,Graph Neural Network for Traffic Forecasting: A Survey
+2310.19704,A Survey on Knowledge Editing of Neural Networks
+2411.00489,Human-inspired Perspectives: A Survey on AI Long-term Memory
+1905.11485,Representation Learning for Dynamic Graphs: A Survey
+2011.14867,"A Survey on Heterogeneous Graph Embedding: Methods, Techniques, Applications and Sources"
+2105.11087,Recent Advances and Trends in Multimodal Deep Learning: A Review
+2301.03270,A Survey of Learning-based Automated Program Repair
+2401.16386,Continual Learning with Pre-Trained Models: A Survey
+2310.17626,A Survey on Transferability of Adversarial Examples across Deep Neural Networks
+2110.01889,Deep Neural Networks and Tabular Data: A Survey
+2005.03492,Text Recognition in the Wild: A Survey
+2204.08610,Image Data Augmentation for Deep Learning: A Survey
+2112.09424,"Search Strategy Formulation for Systematic Reviews: issues, challenges and opportunities"
+2406.12844,Synergizing Foundation Models and Federated Learning: A Survey
+2111.08164,A Survey on Neural-symbolic Learning Systems
+2311.12785,Prompting Frameworks for Large Language Models: A Survey
+2203.08975,A Survey of Multi-Agent Deep Reinforcement Learning with Communication
+2404.02785,Domain Generalization through Meta-Learning: A Survey
+2203.13450,A Comparative Survey of Deep Active Learning
+2401.10917,Artificial intelligence to automate the systematic review of scientific literature
+2408.07884,Instruct Large Language Models to Generate Scientific Literature Survey Step by Step
+1809.02165,Deep Learning for Generic Object Detection: A Survey
+2302.11803,A Comprehensive Survey on Source-free Domain Adaptation
+2112.04090,Seed-driven Document Ranking for Systematic Reviews: A Reproducibility Study
+2112.00277,MeSH Term Suggestion for Systematic Review Literature Search
+2204.03096,From Little Things Big Things Grow: A Collection with Seed Studies for Medical Systematic Review Literature Search
+2101.09983,Adversarial Text-to-Image Synthesis: A Review
+2201.09873,Transformers in Medical Imaging: A Survey
+1610.01206,A Survey of Multi-View Representation Learning
+1705.04058,Neural Style Transfer: A Review
+1907.08349,Convergence of Edge Computing and Deep Learning: A Comprehensive Survey
+2312.16602,Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey
+2410.11845,"A Review on Edge Large Language Models: Design, Execution, and Applications"
+2211.05244,Deep Learning for Time Series Anomaly Detection: A Survey
+2111.08834,Federated Learning for Smart Healthcare: A Survey
+2401.04472,A Survey on Efficient Federated Learning Methods for Foundation Model Training
+2109.09920,Survey: Transformer based Video-Language Pre-training
+2503.10198,Deep Learning for Time Series Forecasting: A Survey
+2108.00401,Advances in adversarial attacks and defenses in computer vision: A survey
+2410.06011,Large Language Model Enhanced Text-to-SQL Generation: A Survey
+2309.16398,Recent Advances of Differential Privacy in Centralized Deep Learning: A Systematic Survey
+2410.15631,Security of Language Models for Code: A Systematic Literature Review
+2007.15951,An Empirical Survey of Data Augmentation for Time Series Classification with Neural Networks
+1908.00080,Machine Learning at the Network Edge: A Survey
+1708.05866,A Brief Survey of Deep Reinforcement Learning
+1804.08348,Deep Facial Expression Recognition: A Survey
+2105.12584,A Comprehensive Survey on Community Detection with Deep Learning
+2503.13415,"A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives"
+2304.11431,A Review of Deep Learning for Video Captioning
+2205.00824,Exploration in Deep Reinforcement Learning: A Survey
+1707.03502,Deep Learning for Sensor-based Activity Recognition: A Survey
+2403.08399,System for systematic literature review using multiple AI agents: Concept and an empirical evaluation
+1801.06889,Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers
+2407.09777,Graph Transformers: A Survey
+1612.04883,Graph Summarization Methods and Applications: A Survey
+2205.01992,Wild Patterns Reloaded: A Survey of Machine Learning Security against Training Data Poisoning
+1701.01090,A Survey on Mobile Edge Computing: The Communication Perspective
+2007.15911,"The role of explainability in creating trustworthy artificial intelligence for health care: a comprehensive survey of the terminology, design choices, and evaluation strategies"
+2405.03770,Foundation Models for Video Understanding: A Survey
+1803.04311,Deep Learning in Mobile and Wireless Networking: A Survey
+2304.04262,A Comprehensive Survey on Knowledge Distillation of Diffusion Models
+2508.11681,Future progress in artificial intelligence: A survey of expert opinion
+1707.07217,Deep Learning in Robotics: A Review of Recent Research
+1905.06113,Human Motion Trajectory Prediction: A Survey
+2201.08135,"Survey on Federated Learning Threats: concepts, taxonomy on attacks and defences, experimental study and challenges"
+2302.01921,Transformers in Action Recognition: A Review on Temporal Modeling
+1605.04988,Going Deeper into Action Recognition: A Survey
+1811.08581,Recent Advances in Open Set Recognition: A Survey
+2404.09228,A Survey on Integration of Large Language Models with Intelligent Robots
+2010.08189,New Ideas and Trends in Deep Multimodal Content Understanding: A Review
+2404.15956,A Survey on Visual Mamba
+2101.09336,A Comprehensive Survey on Hardware-Aware Neural Architecture Search
+1010.0725,Link Prediction in Complex Networks: A Survey
+2304.01565,"A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material"
+2306.05731,Multimodal Explainable Artificial Intelligence: A Comprehensive Review of Methodological Advances and Future Research Directions
+2111.00358,A Survey on the Robustness of Feature Importance and Counterfactual Explanations
+2008.09586,An Overview of Deep-Learning-Based Audio-Visual Speech Enhancement and Separation
+2401.01736,Few-shot Adaptation of Multi-modal Foundation Models: A Survey
+2504.06943,"Review of Case-Based Reasoning for LLM Agents: Theoretical Foundations, Architectural Components, and Cognitive Integration"
+2004.10240,Deep Learning for Time Series Forecasting: Tutorial and Literature Survey
+2211.02405,Explainable Information Retrieval: A Survey
+2104.02395,Ensemble deep learning: A review
+2108.08059,Resource Scheduling in Edge Computing: A Survey
+1010.5586,Matching Methods for Causal Inference: A Review and a Look Forward
+1809.09337,A Survey of Learning Causality with Data: Problems and Methods
+2202.13852,Hyperbolic Graph Neural Networks: A Review of Methods and Applications
+2202.07082,Graph Neural Networks for Graphs with Heterophily: A Survey
+1711.04305,"Latent Dirichlet Allocation (LDA) and Topic modeling: models, applications, a survey"
+2112.13112,A Survey on Interpretable Reinforcement Learning
+2105.09506,Physics-informed neural networks (PINNs) for fluid mechanics: A review
+2002.04236,A review on outlier/anomaly detection in time series data
+1909.11875,Federated Learning in Mobile Edge Networks: A Comprehensive Survey
+2311.08172,Vision-Language Instruction Tuning: A Review and Analysis
+2009.12153,A Systematic Review on Model Watermarking for Neural Networks
+2207.02127,A survey of multimodal deep generative models
+1604.01662,A Survey on Bayesian Deep Learning
+2504.15909,Synergizing RAG and Reasoning: A Systematic Review
+2306.06211,A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering
+2309.09435,Security and Privacy on Generative Data in AIGC: A Survey
+2501.05435,Neuro-Symbolic AI in 2024: A Systematic Review
+2301.04655,ChatGPT is not all you need. A State of the Art Review of large Generative AI models
+2306.15880,Towards Open Vocabulary Learning: A Survey
+2011.14597,A Survey on Deep Learning for Software Engineering
+2012.02825,A Survey on Deep Learning for Human Mobility
+2312.10256,Multi-agent Reinforcement Learning: A Comprehensive Survey
+1812.02849,A Survey of Unsupervised Deep Domain Adaptation
+2504.10147,A Survey of Personalization: From RAG to Agent
+1801.07481,Survey on Emotional Body Gesture Recognition
+2503.13962,Survey of Adversarial Robustness in Multimodal Large Language Models
+2001.08103,Secure and Robust Machine Learning for Healthcare: A Survey
+2203.01387,"A Survey on Offline Reinforcement Learning: Taxonomy, Review, and Open Problems"
+2111.09794,A Survey of Zero-shot Generalisation in Deep Reinforcement Learning
+1901.06437,Combating Fake News: A Survey on Identification and Mitigation Techniques
+2502.16761,Language Model Fine-Tuning on Scaled Survey Data for Predicting Distributions of Public Opinions
+1904.12054,Benchmark and Survey of Automated Machine Learning Frameworks
+2402.17525,Diffusion Model-Based Image Editing: A Survey
+2403.02469,Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review
+1811.11597,Automated Algorithm Selection: Survey and Perspectives
+2109.03506,Towards Natural Language Interfaces for Data Visualization: A Survey
+2408.12880,Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey
+1801.05852,Network Representation Learning: A Survey
+2102.13076,Benchmarking and Survey of Explanation Methods for Black Box Models
+1807.11023,A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security
+2403.16407,"A Survey on Long Video Generation: Challenges, Methods, and Prospects"
+2201.12944,Deep Learning Approaches on Image Captioning: A Review
+1903.11835,A Survey on Graph Kernels
+1810.07862,Applications of Deep Reinforcement Learning in Communications and Networking: A Survey
+2408.16498,A Survey on Evaluating Large Language Models in Code Generation Tasks
+2604.08224,"Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering"
+2112.09401,AI-Empowered Persuasive Video Generation: A Survey
+2310.18689,Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision
+1604.07446,A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles
+2407.19098,Evaluating Human-AI Collaboration: A Review and Methodological Framework
+2405.05562,"Review-based Recommender Systems: A Survey of Approaches, Challenges and Future Perspectives"
+2005.10322,A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks
+2011.02250,Video Generative Adversarial Networks: A Review
+2502.14822,A Survey of Model Architectures in Information Retrieval
+2302.00219,Knowledge Distillation on Graphs: A Survey
+2004.13379,Multi-Task Learning for Dense Prediction Tasks: A Survey
+2305.10862,How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses
+2110.04596,Deep Long-Tailed Learning: A Survey
+2008.03639,Random Walks: A Review of Algorithms and Applications
+2309.02031,"A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking"
+2106.00610,Deep Learning for Depression Recognition with Audiovisual Cues: A Review
+1911.02794,A Survey on Edge Computing Systems and Tools
+2404.00983,Continual Learning for Smart City: A Survey
+1607.00647,A Survey of Point-of-interest Recommendation in Location-based Social Networks
+2210.09292,Efficient Diffusion Models for Vision: A Survey
+2101.04562,Hyperbolic Deep Neural Networks: A Survey
+2110.00530,A survey on datasets for fairness-aware machine learning
+2205.01163,Paving the Way for Mature Secondary Research: The Seven Types of Literature Review
+1902.04864,A Survey on Session-based Recommender Systems
+2009.11732,A Unifying Review of Deep and Shallow Anomaly Detection
+2502.14881,"A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations"
+1606.00185,A Survey on Learning to Hash
+2408.03539,Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes
+2106.06843,Federated Learning on Non-IID Data: A Survey
+2105.07878,A Review on Explainability in Multimodal Deep Neural Nets
+2403.08701,Review of Generative AI Methods in Cybersecurity
+1911.12116,Analysis of Explainers of Black Box Deep Neural Networks for Computer Vision: A Survey
+2203.14046,"A Survey of Robust Adversarial Training in Pattern Recognition: Fundamental, Theory, and Methodologies"
+2004.11725,A Survey on Edge Performance Benchmarking
+2005.10619,A Survey of Reinforcement Learning Algorithms for Dynamically Varying Environments
+2205.01491,A Comprehensive Survey of Image Augmentation Techniques for Deep Learning
+1711.09057,Cooperative Multi-Agent Planning: A Survey
+2002.03794,The Deep Learning Compiler: A Comprehensive Survey
+2303.07502,Meta-learning approaches for few-shot learning: A survey of recent advances
+2405.01466,A Systematic Literature Review on Large Language Models for Automated Program Repair
+2003.05689,Hyper-Parameter Optimization: A Review of Algorithms and Applications
+2102.10062,A Review of Biomedical Datasets Relating to Drug Discovery: A Knowledge Graph Perspective
+2506.02690,Towards Geometry Problem Solving in the Large Model Era: A Survey
+2401.02458,Data-Centric Foundation Models in Computational Healthcare: A Survey
+2103.09883,A Survey on Spatio-temporal Data Analytics Systems
+2001.00139,Handwritten Optical Character Recognition (OCR): A Comprehensive Systematic Literature Review (SLR)
+2411.11315,A Review on Machine Unlearning
+2408.02304,Embedding Compression in Recommender Systems: A Survey
+2311.06750,"Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark"
+2012.05345,Data and its (dis)contents: A survey of dataset development and use in machine learning research
+1612.03224,Finding Better Active Learners for Faster Literature Reviews
+2109.14545,Activation Functions in Deep Learning: A Comprehensive Survey and Benchmark
+1701.00324,Patent Retrieval: A Literature Review
+2412.14219,A Survey on Inference Optimization Techniques for Mixture of Experts Models
+1907.09408,A Survey of Deep Learning-based Object Detection
+2004.05785,Learning under Concept Drift: A Review
+2504.08762,InteractiveSurvey: An LLM-based Personalized and Interactive Survey Paper Generation System
+2305.07512,Learn to Unlearn: A Survey on Machine Unlearning
+2103.17128,Spatiotemporal Data Mining: A Survey on Challenges and Open Problems
+2310.20448,"A Survey on Federated Unlearning: Challenges, Methods, and Future Directions"
+2201.06953,Knowledge Tracing: A Survey
+1502.05767,Automatic differentiation in machine learning: a survey
+2403.02622,World Models for Autonomous Driving: An Initial Survey
+2404.04442,Exploring Autonomous Agents through the Lens of Large Language Models: A Review
+2405.03520,Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond
+2103.16775,"Attention, please! A survey of Neural Attention Models in Deep Learning"
+2408.01556,pathfinder: A Semantic Framework for Literature Review and Knowledge Discovery in Astronomy
+2502.06490,Recent Advances in Discrete Speech Tokens: A Review
+2305.06329,Similarity of Neural Network Models: A Survey of Functional and Representational Measures
+2005.00817,A survey on modern trainable activation functions
+1802.06305,Machine learning for Internet of Things data analysis: A survey
+2205.07877,A Comprehensive Survey on Model Quantization for Deep Neural Networks in Image Classification
+2405.10255,When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models
+2211.07804,Diffusion Models for Medical Image Analysis: A Comprehensive Survey
+2207.14096,Towards Large-Scale Small Object Detection: Survey and Benchmarks
+2407.00783,Diffusion Models and Representation Learning: A Survey
+2202.07987,Out-Of-Distribution Generalization on Graphs: A Survey
+2007.12391,Artificial Intelligence in the Creative Industries: A Review
+1901.05335,A review of domain adaptation without target labels
+1906.06821,A Survey of Optimization Methods from a Machine Learning Perspective
+1709.05168,Crowdsourcing Paper Screening in Systematic Literature Reviews
+2011.09752,From Protocol to Screening: A Hybrid Learning Approach for Technology-Assisted Systematic Literature Reviews
+2402.06089,AI Assistance for UX: A Literature Review Through Human-Centered AI
+2303.17125,A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges
+1702.05374,Domain Adaptation for Visual Applications: A Comprehensive Survey
+1705.05172,Emotion in Reinforcement Learning Agents and Robots: A Survey
+1901.07474,Pedestrian Attribute Recognition: A Survey
+1806.11230,Human Action Recognition and Prediction: A Survey
+2508.11126,"AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities"
+2201.09679,A Review of Deep Transfer Learning and Recent Advancements
+2308.02457,"A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects"
+1711.04710,Spatio-Temporal Data Mining: A Survey of Problems and Methods
+2202.02703,Multi-modal Sensor Fusion for Auto Driving Perception: A Survey
+2107.11277,Machine Learning with a Reject Option: A survey
+2104.13030,A Survey on Accuracy-oriented Neural Recommendation: From Collaborative Filtering to Information-rich Recommendation
+1710.08189,Survey of Machine Learning Techniques for Malware Analysis
+2404.18886,A Survey on Diffusion Models for Time Series and Spatio-Temporal Data
+2111.02398,Transparency of Deep Neural Networks for Medical Image Analysis: A Review of Interpretability Methods
+2210.07990,"Metaverse: Survey, Applications, Security, and Opportunities"
+2201.12382,Deep Learning Methods for Abstract Visual Reasoning: A Survey on Raven's Progressive Matrices
+1908.10454,Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation
+2011.09926,Challenges in Deploying Machine Learning: a Survey of Case Studies
+1711.08752,A Survey on Network Embedding
+2303.00566,Structured Pruning for Deep Convolutional Neural Networks: A survey
+2112.12596,Explainable Medical Imaging AI Needs Human-Centered Design: Guidelines and Evidence from a Systematic Review
+2008.03648,An Overview of Voice Conversion and its Challenges: From Statistical Modeling to Deep Learning
+2003.06404,A Survey of End-to-End Driving: Architectures and Training Methods
+1902.06068,Deep Learning for Image Super-resolution: A Survey
+1705.06963,A Survey of Neuromorphic Computing and Neural Networks in Hardware
+2205.11739,Deep Learning Meets Software Engineering: A Survey on Pre-Trained Models of Source Code
+2011.05411,Privacy Preservation in Federated Learning: An insightful survey from the GDPR Perspective
+2006.00093,Explainable Artificial Intelligence: a Systematic Review
+2212.09018,MeSH Suggester: A Library and System for MeSH Term Suggestion for Systematic Review Boolean Query Construction
+2408.01319,A Comprehensive Review of Multimodal Large Language Models: Performance and Challenges Across Different Tasks
+2203.11242,"A survey on GANs for computer vision: Recent research, analysis and taxonomy"
+1512.00327,Technical Privacy Metrics: a Systematic Survey
+2205.10330,"A Review of Safe Reinforcement Learning: Methods, Theory and Applications"
+2103.15059,A Benchmark and Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning
+2205.10014,"A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection"
+2304.09854,Transformer-Based Visual Segmentation: A Survey
+2402.11143,Foundation Models for Recommender Systems: A Survey and New Perspectives
+2302.11087,A Survey on User Behavior Modeling in Recommender Systems
+2003.03009,Communication optimization strategies for distributed deep neural network training: A survey
+2203.02662,"A Survey on Metaverse: Fundamentals, Security, and Privacy"
+2305.07153,Towards best practices in AGI safety and governance: A survey of expert opinion
+2402.04013,Privacy Leakage on DNNs: A Survey of Model Inversion Attacks and Defenses
+2305.06131,Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era
+2101.11282,Deep Learning for Instance Retrieval: A Survey
+2010.00130,Computing Graph Neural Networks: A Survey from Algorithms to Accelerators
+2103.00742,Automated Machine Learning on Graphs: A Survey
+2407.07111,Diffusion Model-Based Video Editing: A Survey
+2504.02891,Automated Survey Collection with LLM-based Conversational Agents
+1811.04820,Learning from positive and unlabeled data: a survey
+2307.10894,Human Motion Generation: A Survey
+2012.00641,A Decade Survey of Content Based Image Retrieval using Deep Learning
+2206.01038,"A Survey on Video Action Recognition in Sports: Datasets, Methods and Applications"
+2108.11544,Vision-Language Navigation: A Survey and Taxonomy
+1907.12740,Deep Learning in Video Multi-Object Tracking: A Survey
+1409.7618,Multiple Object Tracking: A Literature Review
+2411.14565,Privacy-Preserving Video Anomaly Detection: A Survey
+2001.04193,Deep Learning for Person Re-identification: A Survey and Outlook
+1912.11861,A Review on Intelligent Object Perception Methods Combining Knowledge-based Reasoning and Machine Learning
+2212.04612,Training Data Influence Analysis and Estimation: A Survey
+2510.07077,Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications
+2307.09220,"A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future"
+2308.14970,Audio Deepfake Detection: A Survey
+2106.04823,Taxonomy of Machine Learning Safety: A Survey and Primer
+2206.08451,I Know What You Trained Last Summer: A Survey on Stealing Machine Learning Models and Defences
+1911.13288,Financial Time Series Forecasting with Deep Learning : A Systematic Literature Review: 2005-2019
+2206.07284,"A Survey on Gradient Inversion: Attacks, Defenses and Future Directions"
+2207.12515,A Survey on Trustworthy Recommender Systems
+2411.17040,Multimodal Alignment and Fusion: A Survey
+2303.17220,Milestones in Autonomous Driving and Intelligent Vehicles: Survey of Surveys
+2404.14942,Manipulating Recommender Systems: A Survey of Poisoning Attacks and Countermeasures
+2411.14491,A Survey on Human-Centric LLMs
+2001.04758,Deep Audio-Visual Learning: A Survey
+2202.10276,Poisoning Attacks and Defenses on Artificial Intelligence: A Survey
+2309.01038,Neurosymbolic Reinforcement Learning and Planning: A Survey
+2009.07237,A Survey on Automated Log Analysis for Reliability Engineering
+2211.15588,Internet of Behaviors: A Survey
+1805.10511,A Survey of Utility-Oriented Pattern Mining
+2506.19676,"A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures"
+2204.06127,Reinforcement learning on graphs: A survey
+2407.07196,"Large Language Models for Wearable Sensor-Based Human Activity Recognition, Health Monitoring, and Behavioral Modeling: A Survey of Early Trends, Datasets, and Challenges"
+2405.03066,A scoping review of using Large Language Models (LLMs) to investigate Electronic Health Records (EHRs)
+2404.18947,Multimodal Fusion on Low-quality Data: A Comprehensive Survey
+2004.11829,A survey on domain adaptation theory: learning bounds and theoretical guarantees
+1912.10944,A Survey of Deep Reinforcement Learning in Video Games
+2212.06355,A Review of Off-Policy Evaluation in Reinforcement Learning
+2408.09675,Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey
+2306.12680,Recent Developments in Recommender Systems: A Survey
+2506.15170,From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem
+2109.07906,Ethics of AI: A Systematic Literature Review of Principles and Challenges
+2104.01789,Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses
+2111.15015,Neural Attention for Image Captioning: Review of Outstanding Methods
+1901.06032,A Survey of the Recent Architectures of Deep Convolutional Neural Networks
+2101.01229,A Survey on Embedding Dynamic Graphs
+2010.09553,Survey on Causal-based Machine Learning Fairness Notions
+2105.06339,Graph Learning based Recommender Systems: A Review
+2505.12786,Forewarned is Forearmed: A Survey on Large Language Model-based Agents in Autonomous Cyberattacks
+2306.03395,Computational Technologies for Fashion Recommendation: A Survey
+2008.03686,Local Differential Privacy and Its Applications: A Comprehensive Survey
+2202.12040,Self-Training: A Survey
+1707.02038,A Tutorial on Thompson Sampling
+2008.03638,Big Networks: A Survey
+2008.12372,Data-driven Computational Social Science: A Survey
+1904.08939,Understanding Neural Networks via Feature Visualization: A survey
+2107.11400,Robust Explainability: A Tutorial on Gradient-Based Attribution Methods for Deep Neural Networks
+2012.07532,An overview of 11 proposals for building safe advanced AI
+2003.07631,Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications
+2109.02081,"Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis"
+2105.01798,Pervasive AI for IoT applications: A Survey on Resource-efficient Distributed Artificial Intelligence
+2204.00827,Intelligence at the Extreme Edge: A Survey on Reformable TinyML
+2402.02460,Review of multimodal machine learning approaches in healthcare
+1912.00595,Industrial Internet of Things (IIoT) Applications of Edge and Fog Computing: A Review and Future Directions
+2401.00794,Privacy-Preserving Data in IoT-based Cloud Systems: A Comprehensive Survey with AI Integration
+2308.05384,Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization
+2010.05253,A Comprehensive Survey on Local Differential Privacy Toward Data Statistics and Analysis
+1705.06270,A Review on Bilevel Optimization: From Classical to Evolutionary Approaches and Applications
+2404.11420,"Quantum Cloud Computing: A Review, Open Problems, and Future Directions"
+2302.00165,A Brief Overview of Software-Defined Networking
+2205.01081,Distributed intelligence on the Edge-to-Cloud Continuum: A systematic literature review
+2108.10076,Development of A Fully Data-Driven Artificial Intelligence and Deep Learning for URLLC Application in 6G Wireless Systems: A Survey
+2006.04950,Machine Learning Systems for Intelligent Services in the IoT: A Survey
+1912.08530,Edge Computing: A Comprehensive Survey of Current Initiatives and a Roadmap for a Sustainable Edge Computing Development
+2008.07235,A Survey of Deep Learning for Data Caching in Edge Network
+2212.00481,"A Survey of Mobile Edge Computing for the Metaverse: Architectures, Applications, and Challenges"
+2404.13348,Socialized Learning: A Survey of the Paradigm Shift for Edge Intelligence in Networked Systems
+2305.06360,Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy
+2302.08893,Active learning for data streams: a survey
+2310.17944,A Survey on Trustworthy Edge Intelligence: From Security and Reliability To Transparency and Sustainability
+2108.04465,Industrial Digital Twins at the Nexus of NextG Wireless Networks and Computational Intelligence: A Survey
+2401.11366,A Multivocal Literature Review on the Benefits and Limitations of Automated Machine Learning Tools
+2304.00524,"A Survey on Federated Learning for the Healthcare Metaverse: Concepts, Applications, Challenges, and Future Directions"
+2303.10993,A Survey on Oversmoothing in Graph Neural Networks
+1602.07017,A survey of sparse representation: algorithms and applications
+2403.19178,Enhancing Trust and Privacy in Distributed Networks: A Comprehensive Survey on Blockchain-based Federated Learning
+2312.00333,Green Edge AI: A Contemporary Survey
+2305.17464,Edge to Cloud Tools: A Multivocal Literature Review
+1801.03181,The Dark Energy Survey Data Release 1
+2201.03299,Avoiding Overfitting: A Survey on Regularization Methods for Convolutional Neural Networks
+2109.13157,Visual Anomaly Detection for Images: A Survey
+1905.13294,"A Review of Deep Learning with Special Emphasis on Architectures, Applications and Recent Trends"
+2206.12753,Spatiotemporal Data Mining: A Survey
+2309.01194,"A Survey on Service Route and Time Prediction in Instant Delivery: Taxonomy, Progress, and Prospects"
+2008.08903,Generative Adversarial Networks for Spatio-temporal Data: A Survey
+2011.10187,A Survey on Deep Learning Based Point-Of-Interest (POI) Recommendations
+2308.04522,"Deep Learning for Steganalysis of Diverse Data Types: A review of methods, taxonomy, challenges and future directions"
+2202.07799,"A Survey on Scheduling Techniques in the Edge Cloud: Issues, Challenges and Future Directions"
+2007.14215,A Review on Computational Intelligence Techniques in Cloud and Edge Computing
+1402.0585,AI Methods in Algorithmic Composition: A Comprehensive Survey
+2404.08071,Overview of the TREC 2023 NeuCLIR Track
+2405.07406,Machine Unlearning: A Comprehensive Survey
+2406.06186,A Survey on Machine Unlearning: Techniques and New Emerged Privacy Risks
+1810.05851,Overview of CAIL2018: Legal Judgment Prediction Competition
+2204.13620,Generative Adversarial Networks for Image Super-Resolution: A Survey
+2405.20038,Deep Reinforcement Learning for Intrusion Detection in IoT: A Survey
+2108.00443,A Survey on Audio Synthesis and Audio-Visual Multimodal Processing
+2202.09895,UX Research on Conversational Human-AI Interaction: A Literature Review of the ACM Digital Library
+2503.21765,Exploring the Evolution of Physics Cognition in Video Generation: A Survey
+2101.05765,The Dark Energy Survey Data Release 2
+2011.00680,Modern Monte Carlo Methods for Efficient Uncertainty Quantification and Propagation: A Survey
+1804.06655,Deep Face Recognition: A Survey
+2112.06126,Neural Network Quantization for Efficient Inference: A Survey
+2305.10032,A Survey on Causal Discovery: Theory and Practice
+2005.04275,Pruning Algorithms to Accelerate Convolutional Neural Networks for Edge Applications: A Survey
+1808.05283,All One Needs to Know about Fog Computing and Related Edge Computing Paradigms: A Complete Survey
+1904.09172,Video Object Segmentation and Tracking: A Survey
+1712.08934,A Survey of FPGA-Based Neural Network Accelerator
+2110.04984,Advances in Multi-turn Dialogue Comprehension: A Survey
+1904.05037,Survey of ETA prediction methods in public transport networks
+1911.03723,Deep learning for cardiac image segmentation: A review
+2301.00813,A Survey on Protein Representation Learning: Retrospect and Prospect
+1712.04323,Deep Echo State Network (DeepESN): A Brief Survey
+2208.07541,Social Interactions for Autonomous Driving: A Review and Perspectives
+2101.00798,Fusion of Federated Learning and Industrial Internet of Things: A Survey
+2410.19998,Artificial Intelligence of Things: A Survey
+1312.0049,One-Class Classification: Taxonomy of Study and Review of Techniques
+2312.05162,A Review of Cooperation in Multi-agent Learning
+1312.6565,Mobile Multimedia Recommendation in Smart Communities: A Survey
+1812.00140,"The Art, Science, and Engineering of Fuzzing: A Survey"
+2307.04147,A Survey and Approach to Chart Classification
+2302.04473,"A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions"
+2402.14304,Vision-Language Navigation with Embodied Intelligence: A Survey
+2306.05980,Federated Learning for Medical Image Analysis: A Survey
+2205.05396,A Survey on Fairness for Machine Learning on Graphs
+2306.01603,Decentralized Federated Learning: A Survey and Perspective
+2206.12512,Placental Vessel Segmentation and Registration in Fetoscopy: Literature Review and MICCAI FetReg2021 Challenge Findings
+2107.07919,A Survey on Bias in Visual Datasets
+2108.04097,Deep Learning for Embodied Vision Navigation: A Survey
+2308.11841,A Survey for Federated Learning Evaluations: Goals and Measures
+2307.03353,"A Survey of Deep Learning in Sports Applications: Perception, Comprehension, and Decision"
+2009.13120,Medical Image Segmentation Using Deep Learning: A Survey
+1911.03298,Blockchain for Future Smart Grid: A Comprehensive Survey
+2108.03357,"A Survey on Cross-domain Recommendation: Taxonomies, Methods, and Future Directions"
+2112.00247,Adversarial Attacks Against Deep Generative Models on Data: A Survey
+2304.12205,Synthetic Datasets for Autonomous Driving: A Survey
+2502.10498,The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey
+1908.11348,Survey and Benchmarking of Machine Learning Accelerators
+2204.01855,A Survey on Graph Representation Learning Methods
+2402.00447,A Survey of Data-Efficient Graph Learning
+2103.15447,Dynamic Network Embedding Survey
+1305.0982,Context Aware Computing for The Internet of Things: A Survey
+2504.02477,Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision
+2405.09591,A Comprehensive Survey on Data Augmentation
+2103.00550,A Survey on Deep Semi-supervised Learning
+2308.04268,Teacher-Student Architecture for Knowledge Distillation: A Survey
+2308.10407,Federated Learning for Connected and Automated Vehicles: A Survey of Existing Approaches and Challenges
+2104.09632,Searching for Scientific Evidence in a Pandemic: An Overview of TREC-COVID
+2001.00179,DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection
+2412.05731,A Scoping Review of ChatGPT Research in Accounting and Finance
+2303.14453,Federated Learning without Full Labels: A Survey
+1806.10761,"Survey of multifidelity methods in uncertainty propagation, inference, and optimization"
+2011.00235,Domain-specific Knowledge Graphs: A survey
+2402.07956,Educational data mining and learning analytics: An updated survey
+1811.03402,A Survey on Data Collection for Machine Learning: a Big Data -- AI Integration Perspective
+2010.10596,Counterfactual Explanations and Algorithmic Recourses for Machine Learning: A Review
+2503.21411,"Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap"
+1901.04407,Self-Driving Cars: A Survey
+1501.00963,The Eleventh and Twelfth Data Releases of the Sloan Digital Sky Survey: Final Data from SDSS-III
+2205.13685,Adversarial attacks and defenses in Speaker Recognition Systems: A survey
+2102.01330,AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization
+2104.01111,A Comprehensive Survey of Scene Graphs: Generation and Application
+2211.15397,Automating Systematic Literature Reviews with Natural Language Processing and Text Mining: a Systematic Literature Review
+0903.5451,The 6dF Galaxy Survey: Final Redshift Release (DR3) and Southern Large-Scale Structures
+1210.2130,The WiggleZ Dark Energy Survey: Final data release and cosmological results
+2104.03528,Neural Temporal Point Processes: A Review
+2103.03036,A Survey on Graph Structure Learning: Progress and Opportunities
+1508.03326,A Survey on Contextual Multi-armed Bandits
+1008.0031,The Wide-field Infrared Survey Explorer (WISE): Mission Description and Initial On-orbit Performance
+0306581,The 2dF Galaxy Redshift Survey: Final Data Release
+2005.08679,An Overview of Privacy in Machine Learning
+2003.05730,A Survey of Adversarial Learning on Graphs
+2210.15663,Deep Generative Models on 3D Representations: A Survey
+2310.04987,Data-centric Graph Learning: A Survey
+2108.11510,Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey
+2202.02510,A Survey on Poisoning Attacks Against Supervised Machine Learning
+2107.01272,Physics-Guided Deep Learning for Dynamical Systems: A Survey
+2008.13020,A Decade of In-text Citation Analysis based on Natural Language Processing and Machine Learning Techniques: An overview of empirical studies
+2003.11066,A Survey of Methods for Low-Power Deep Learning and Computer Vision
+2211.04324,Machine Learning-Aided Operations and Communications of Unmanned Aerial Vehicles: A Contemporary Survey
+2002.08811,Satellite Communications in the New Space Era: A Survey and Future Challenges
+1609.08583,Survey of Inter-satellite Communication for Small Satellite Systems: Physical Layer to Network Layer View
+1801.07359,A Survey of Channel Modeling for UAV Communications
+1908.06976,A survey on intrinsic motivation in reinforcement learning
+2502.05240,Survey on AI-Generated Media Detection: From Non-MLLM to MLLM
+2502.16065,A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments
+2101.10899,Artificial Intelligence for Satellite Communication: A Review
+2303.01633,Revolutionizing Future Connectivity: A Contemporary Survey on AI-empowered Satellite-based Non-Terrestrial Networks in 6G
+2411.17911,Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey
+2206.08304,Adversarial Patch Attacks and Defences in Vision-Based Tasks: A Survey
+1904.12218,Graph Kernels: A Survey
+2101.11517,Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond
+2202.06416,State-of-the-Art Review of Design of Experiments for Physics-Informed Deep Learning
+2203.16797,When Physics Meets Machine Learning: A Survey of Physics-Informed Machine Learning
+2110.04600,A Review of Physics-based Machine Learning in Civil Engineering
+1903.02026,Deep Learning in Medical Image Registration: A Survey
+2201.00682,Scientific Paper Recommendation Systems: a Literature Review of recent Publications
+1909.11573,Deep Learning for Deepfakes Creation and Detection: A Survey
+2111.04006,A Review of Location Encoding for GeoAI: Methods and Applications
+2104.07914,Federated Learning for Internet of Things: A Comprehensive Survey
+2303.03885,"AI Risk Skepticism, A Comprehensive Survey"
+2301.00767,A Survey on Federated Recommendation Systems
+2206.07579,"A Comprehensive Survey on Deep Clustering: Taxonomy, Challenges, and Future Directions"
+2111.04418,"A Survey of Human Activity Recognition in Smart Homes Based on IoT Sensors Algorithms: Taxonomies, Challenges, and Opportunities with Deep Learning"
+2502.07978,A Survey of In-Context Reinforcement Learning
+2006.01423,Monocular Human Pose Estimation: A Survey of Deep Learning-based Methods
+2202.10284,A Review of Emerging Research Directions in Abstract Visual Reasoning
+2306.11722,Automated Grading and Feedback Tools for Programming Education: A Systematic Review
+2210.04142,Deep Clustering: A Comprehensive Survey
+2202.07170,Fairness Amidst Non-IID Graph Data: A Literature Review
+2404.00621,"Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey"
+2404.05264,Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security
+2107.08241,"High-Accuracy Model-Based Reinforcement Learning, a Survey"
+1303.4803,A Survey of Appearance Models in Visual Object Tracking
+1904.05526,A Selective Overview of Deep Learning
+2306.07515,A Survey on Video Moment Localization
+2306.06123,Adversarial attacks and defenses in explainable artificial intelligence: A survey
+2411.18892,A Comprehensive Survey of Reinforcement Learning: From Algorithms to Practical Challenges
+2203.10462,Optical Flow for Video Super-Resolution: A Survey
+2202.07412,Knowledge Graph Reasoning with Logics and Embeddings: Survey and Perspective
+2304.08795,A Systematic Literature Review of User Trust in AI-Enabled Systems: An HCI Perspective
+2403.04279,Controllable Generation with Text-to-Image Diffusion Models: A Survey
+2304.10755,Interpretable and Robust AI in EEG Systems: A Survey
+2303.14329,Edge-Based Video Analytics: A Survey
+2308.08849,A Survey on Deep Multi-modal Learning for Body Language Recognition and Generation
+2211.08469,Deep learning for table detection and structure recognition: A survey
+2408.15777,A Survey on Facial Expression Recognition of Static and Dynamic Emotions
+1402.4645,A Survey on Semi-Supervised Learning Techniques
+2310.08565,"Security Considerations in AI-Robotics: A Survey of Current Methods, Challenges, and Opportunities"
+1207.3231,An Overview of Recent Progress in the Study of Distributed Multi-agent Coordination
+2504.18875,"Generative to Agentic AI: Survey, Conceptualization, and Challenges"
+2110.09610,A Survey on Machine Learning Techniques for Source Code Analysis
+2107.12045,How to Certify Machine Learning Based Safety-critical Systems? A Systematic Literature Review
+2307.10897,A Survey on Dialogue Management in Human-Robot Interaction
+1709.08071,Autonomous Agents Modelling Other Agents: A Comprehensive Survey and Open Problems
+1907.03146,"A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms"
+2005.00935,Deep Reinforcement Learning for Intelligent Transportation Systems: A Survey
+2506.05364,Survey of LLM Agent Communication with MCP: A Software Design Pattern Centric Review
+2303.11123,The Human-Centric Metaverse: A Survey
+2007.00047,A Survey on Instance Segmentation: State of the art
+2305.14598,Vision + Language Applications: A Survey
+2001.11231,Survey of Deep Reinforcement Learning for Motion Planning of Autonomous Vehicles
+2110.01858,"KKT Conditions, First-Order and Second-Order Optimization, and Distributed Optimization: Tutorial and Survey"
+2101.00734,"Factor Analysis, Probabilistic Principal Component Analysis, Variational Inference, and Variational Autoencoder: Tutorial and Survey"
+2403.14280,Large Language Models for Blockchain Security: A Systematic Literature Review
+2409.05383,Deep Learning for Video Anomaly Detection: A Review
+2405.19387,Video Anomaly Detection in 10 Years: A Survey and Outlook
+2007.00800,A Survey on Self-supervised Pre-training for Sequential Transfer Learning in Neural Networks
+2110.00111,Deep Learning-based Action Detection in Untrimmed Videos: A Survey
+1707.02553,Guidelines for including grey literature and conducting multivocal literature reviews in software engineering
+2003.06979,Anomalous Example Detection in Deep Learning: A Survey
+2404.10407,Comprehensive Survey of Model Compression and Speed up for Vision Transformers
+1808.04752,A Survey on Methods and Theories of Quantized Neural Networks
+2005.13247,A Quantitative Survey of Communication Optimizations in Distributed Deep Learning
+2204.12063,A Review-aware Graph Contrastive Learning Framework for Recommendation
+2207.09542,Controllable Data Generation by Deep Learning: A Review
+2101.01669,A Survey of Community Detection Approaches: From Statistical Modeling to Deep Learning
+2311.13233,"A Survey of Adversarial CAPTCHAs on its History, Classification and Generation"
+2406.10303,"A Survey on Large Language Models from General Purpose to Medical Applications: Datasets, Methodologies, and Evaluations"
+1902.07539,False News On Social Media: A Data-Driven Survey
+1012.2599,"A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning"
+2003.11755,A Survey of Deep Learning for Scientific Discovery
+2205.05949,Automated Audio Captioning: An Overview of Recent Progress and New Challenges
+1902.04397,Cross-Modal Music Retrieval and Applications: An Overview of Key Methodologies
+1912.10773,A Survey of Deep Learning Applications to Autonomous Vehicle Control
+2307.13643,Backdoor Attacks against Voice Recognition Systems: A Survey
+2205.13775,A Survey on Long-Tailed Visual Recognition
+2211.10873,Interpretable Scientific Discovery with Symbolic Regression: A Review
+2012.13392,Deep Learning-Based Human Pose Estimation: A Survey
+2105.07190,A Comprehensive Taxonomy for Explainable Artificial Intelligence: A Systematic Survey of Surveys on Methods and Concepts
+2103.09274,A survey of deep neural network watermarking techniques
+1912.12378,Deep neural network models for computational histopathology: A survey
+1908.08854,Linking Points With Labels in 3D: A Review of Point Cloud Semantic Segmentation
+1903.11260,Small Data Challenges in Big Data Era: A Survey of Recent Progress on Unsupervised and Semi-Supervised Methods
+1605.09522,Kernel Mean Embedding of Distributions: A Review and Beyond
+1308.5865,A Survey and Taxonomy of Graph Sampling
+2203.15935,Graph Neural Networks in IoT: A Survey
+2303.18184,A Survey on Automated Program Repair Techniques
+2007.09815,Event Prediction in the Big Data Era: A Systematic Survey
+2209.05324,"Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe"
+1909.00958,Graph Representation Learning: A Survey
+2209.00517,"The Neural Process Family: Survey, Applications and Perspectives"
+1901.05498,Deep learning-based electroencephalography analysis: a systematic review
+2109.08094,The Effects of Human Aspects on the Requirements Engineering Process: A Systematic Literature Review
+2004.00216,Heterogeneous Network Representation Learning: A Unified Framework with Survey and Benchmark
+2411.11150,A Comprehensive Survey on Visual Question Answering Datasets and Algorithms
+1602.06347,Distributed Constraint Optimization Problems and Applications: A Survey
+2405.01221,"A Survey on Semantic Communication Networks: Architecture, Security, and Privacy"
+2012.11233,"Hardware and Software Optimizations for Accelerating Deep Neural Networks: Survey of Current Trends, Challenges, and the Road Ahead"
+1901.04277,Natural Disasters Detection in Social Media and Satellite imagery: a survey
+2402.05741,Real-World Robot Applications of Foundation Models: A Review
+2401.01454,"A Survey on Autonomous Driving Datasets: Statistics, Annotation Quality, and a Future Outlook"
+2207.11812,"Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications"
+2506.15421,Reward Models in Deep Reinforcement Learning: A Survey
+2508.12752,Deep Research: A Survey of Autonomous Research Agents
+1810.01989,"Verification for Machine Learning, Autonomy, and Neural Networks Survey"
+1812.09628,Intelligent Tutoring Systems: A Comprehensive Historical Survey with Recent Developments
+1903.02460,A Survey of Network-based Intrusion Detection Data Sets
+2410.13883,Transformers Utilization in Chart Understanding: A Review of Recent Advances & Future Trends
+2402.13553,Generative AI for Secure Physical Layer Communications: A Survey
+2402.04059,Deep Learning for Multivariate Time Series Imputation: A Survey
+2401.04971,A Survey on Cross-Domain Sequential Recommendation
+2402.16374,"Graph Learning under Distribution Shifts: A Comprehensive Survey on Domain Adaptation, Out-of-distribution, and Continual Learning"
+2507.00917,A Survey: Learning Embodied Intelligence from Physical Simulators and World Models
+2504.04011,Foundation Models for Time Series: A Survey
+2307.16851,Towards Trustworthy and Aligned Machine Learning: A Data-centric Survey with Causality Perspectives
+2405.12750,Generative AI in Cybersecurity: A Comprehensive Review of LLM Applications and Vulnerabilities
+1705.04009,A survey of Community Question Answering
+2305.19591,Traffic Prediction using Artificial Intelligence: Review of Recent Advances and Emerging Opportunities
+2202.10435,Survey on Large Scale Neural Network Training
+2111.09673,"A Survey on Metaverse: the State-of-the-art, Technologies, Applications, and Challenges"
+2307.15615,"A survey on deep learning in medical image registration: new technologies, uncertainty, evaluation metrics, and beyond"
+2201.08450,Automatic Item Generation of Figural Analogy Problems: A Review and Outlook
+2012.11866,Human Action Recognition from Various Data Modalities: A Review
+1612.03365,Multiple Instance Learning: A Survey of Problem Characteristics and Applications
+2508.10399,Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning
+2503.06195,Human-AI Experience in Integrated Development Environments: A Systematic Literature Review
+2406.03880,Memorization in deep learning: A survey
+2306.11963,A Survey of Multimodal Information Fusion for Smart Healthcare: Mapping the Journey from Data to Wisdom
+2112.08936,Perception and Sensing for Autonomous Vehicles Under Adverse Weather Conditions: A Survey
+1708.00247,Query expansion techniques for information retrieval: A survey
+2008.09104,"A review of deep learning in medical imaging: Imaging traits, technology trends, case studies with progress highlights, and future promises"
+2404.16651,Evolutionary Large Language Models for Hardware Security: A Comparative Survey
+2503.18016,Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook
+2305.00237,"A Review of ChatGPT Applications in Education, Marketing, Software Engineering, and Healthcare: Benefits, Drawbacks, and Research Directions"
+1601.06823,Survey on the attention based RNN model and its applications in computer vision
+2202.07008,Autonomous Vehicles on the Edge: A Survey on Autonomous Vehicle Racing
+2303.06532,Automated Design of Metaheuristic Algorithms: A Survey
+2412.14732,"Beyond the Hype: A Comprehensive Review of Current Trends in Generative AI Research, Teaching Practices, and Tools"
+2404.04566,"Efficient and Green Large Language Models for Software Engineering: Literature Review, Vision, and the Road Ahead"
+2007.15484,Learning from Few Samples: A Survey
+2203.06935,"A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances"
+1805.02397,"A Review on Facial Micro-Expressions Analysis: Datasets, Features and Metrics"
+1901.03407,Deep Learning for Anomaly Detection: A Survey
+2301.03930,Networking Architecture and Key Supporting Technologies for Human Digital Twin in Personalized Healthcare: A Comprehensive Survey
+2208.12397,Causal Inference in Recommender Systems: A Survey and Future Directions
+2405.17439,An Overview of Machine Learning-Enabled Optimization for Reconfigurable Intelligent Surfaces-Aided 6G Networks: From Reinforcement Learning to Large Language Models
+2312.01072,A Survey of Temporal Credit Assignment in Deep Reinforcement Learning
+2308.01578,Unsupervised Representation Learning for Time Series: A Review
+1909.12807,Research Commentary on Recommendations with Side Information: A Survey and Research Directions
+2003.08673,Survey of Personalization Techniques for Federated Learning
+2402.05322,Learning on Multimodal Graphs: A Survey
+2109.12843,"A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions"
+2307.03929,Fairness-Aware Graph Neural Networks: A Survey
+2304.00353,Reviewer Assignment Problem: A Systematic Review of the Literature
+2011.12860,"Sensorimotor representation learning for an ""active self"" in robots: A model survey"
+2402.09660,User Modeling and User Profiling: A Comprehensive Survey
+2306.17614,Outcome-based Evaluation of Systematic Review Automation
+2308.13420,Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities
+2108.12290,Music Composition with Deep Learning: A Review
+2506.23749,"A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications"
+2207.12599,A Survey of Explainable Graph Neural Networks: Taxonomy and Evaluation Metrics
+2501.18934,Deep Learning Model Inversion Attacks and Defenses: A Comprehensive Survey
+2011.04406,"A Survey of Label-noise Representation Learning: Past, Present and Future"
+2501.12203,Explainability for Vision Foundation Models: A Survey
+2509.05946,Large Language Models for Next-Generation Wireless Network Management: A Survey and Tutorial
+2404.14082,Mechanistic Interpretability for AI Safety -- A Review
+2306.00403,A Survey on Fairness-aware Recommender Systems
+1811.10052,An overview of deep learning in medical imaging focusing on MRI
+2405.05538,A Survey on Personalized Content Synthesis with Diffusion Models
+2005.03201,What comprises a good talking-head video generation?: A Survey and Benchmark
+1412.7584,Differential Privacy and Machine Learning: a Survey and Review
+2007.00753,Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey
+2004.04676,An Overview of Federated Deep Learning Privacy Attacks and Defensive Strategies
+2105.11266,Argumentative XAI: A Survey
+1803.05900,Toolflows for Mapping Convolutional Neural Networks on FPGAs: A Survey and Future Directions
+2111.13755,A survey on multi-objective hyperparameter optimization algorithms for Machine Learning
+2110.01411,Deep Reinforcement Learning Versus Evolution Strategies: A Comparative Survey
+2202.08434,A Survey of Explainable Reinforcement Learning
+2410.19265,A Survey of Deep Graph Learning under Distribution Shifts: from Graph Out-of-Distribution Generalization to Adaptation
+2211.00216,Distributed Graph Neural Network Training: A Survey
+2503.02891,Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies
+2010.02973,Applications of Differential Privacy in Social Network Analysis: A Survey
+2101.01993,A Survey of Deep RL and IL for Autonomous Driving Policy Learning
+2206.09328,A Survey on Model-based Reinforcement Learning
+2003.04960,Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey
+2107.14316,Survey of Recent Multi-Agent Reinforcement Learning Algorithms Utilizing Centralized Training
+1609.04436,Bayesian Reinforcement Learning: A Survey
+2205.10032,Survey on Fair Reinforcement Learning: Theory and Practice
+2012.13490,Towards Continual Reinforcement Learning: A Review and Perspectives
+2202.01712,Review of automated time series forecasting pipelines
+1901.05353,A Primer on PAC-Bayesian Learning
+2303.02618,Ensemble Reinforcement Learning: A Survey
+2004.06183,When to Update Systematic Literature Reviews in Software Engineering
+2203.15588,Deep Multi-modal Fusion of Image and Non-image Data in Disease Diagnosis and Prognosis: A Review
+1801.00718,Selective review of offline change point detection methods
+2203.01536,Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work
+1210.7959,Algorithm Selection for Combinatorial Search Problems: A Survey
+2004.03333,Binary Neural Networks: A Survey
+2210.04055,AI and ML Accelerator Survey and Trends
+2112.12630,A Survey of Near-Data Processing Architectures for Neural Networks
+2208.06064,Mixed-Precision Neural Networks: A Survey
+2204.01856,Evolution of Quantum Computing: A Systematic Survey on the Use of Quantum Computing Tools
+2103.14000,Fairness in Ranking: A Survey
+2209.13012,Survey on Fairness Notions and Related Tensions
+2009.10221,Survey of explainable machine learning with visual and granular methods beyond quasi-explanations
+2002.11273,A Systematic Survey of General Sparse Matrix-Matrix Multiplication
+1901.00121,FPGA-based Accelerators of Deep Learning Networks for Learning and Classification: A Review
+2202.08187,Differential Privacy and Fairness in Decisions and Learning Tasks: A Survey
+1910.12611,Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications
+2112.10327,Classifier Calibration: A survey on how to assess and improve predicted class probabilities
+2103.09750,A Survey of Forex and Stock Price Prediction Using Deep Learning
+2403.04861,A Survey of Lottery Ticket Hypothesis
+2103.02582,D'ya like DAGs? A Survey on Structure Learning and Causal Discovery
+2010.12896,Abduction and Argumentation for Explainable Machine Learning: A Position Survey
+2104.04144,Individual Explanations in Machine Learning Models: A Survey for Practitioners
+2112.12705,Explainable Artificial Intelligence Methods in Combating Pandemics: A Systematic Review
+2106.13891,Test Case Selection and Prioritization Using Machine Learning: A Systematic Literature Review
+1511.05263,The Use of Machine Learning Algorithms in Recommender Systems: A Systematic Review
+2305.06969,"A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges"
+2012.08044,"Deep Bayesian Active Learning, A Brief Survey on Recent Advances"
+2007.12269,A Comprehensive Review of Deep Learning Applications in Hydrology and Water Resources
+2104.04764,Applications of physics-informed scientific machine learning in subsurface science: A survey
+1804.08046,First Impressions: A Survey on Vision-Based Apparent Personality Trait Analysis
+1401.0166,Medical Image Fusion: A survey of the state of the art
+2206.01136,"Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives"
+2004.11639,Survey on Visual Sentiment Analysis
+2104.08885,A survey of image labelling for computer vision applications
+2007.04357,A Survey of Quantum Theory Inspired Approaches to Information Retrieval
+2006.12270,Classification with Quantum Machine Learning: A Survey
+2308.01191,Towards Understanding the Capability of Large Language Models on Code Clone Detection: A Survey
+2301.13350,"A Survey on Digital Twins: Architecture, Enabling Technologies, Security and Privacy, and Future Prospects"
+2304.01391,Counterfactual Learning on Graphs: A Survey
+2109.03540,A Survey of Deep Reinforcement Learning in Recommender Systems: A Systematic Review and Future Directions
+2104.02726,Creativity and Machine Learning: A Survey
+2201.07534,Automation of Citation Screening for Systematic Literature Reviews using Neural Networks: A Replicability Study
+1906.06113,A Survey on Deep Learning Architectures for Image-based Depth Reconstruction
+1902.10130,A Survey on Graph Processing Accelerators: Challenges and Opportunities
+2302.06433,Label-efficient Time Series Representation Learning: A Review
+1911.05609,Affective Computing for Large-Scale Heterogeneous Multimedia Data: A Survey
+1606.03237,"Survey on RGB, 3D, Thermal, and Multimodal Approaches for Facial Expression Recognition: History, Trends, and Affect-related Applications"
+2012.09830,Autotelic Agents with Intrinsically Motivated Goal-Conditioned Reinforcement Learning: a Short Survey
+2112.00639,A Systematic Review of Robustness in Deep Learning for Computer Vision: Mind the gap?
+2201.03201,Fusing Blockchain and AI with Metaverse: A Survey
+2110.05352,"All One Needs to Know about Metaverse: A Complete Survey on Technological Singularity, Virtual Ecosystem, and Research Agenda"
+2203.09258,Explainability in Graph Neural Networks: An Experimental Survey
+2101.10025,A Review of Graph Neural Networks and Their Applications in Power Systems
+2204.03080,Graph Neural Networks Designed for Different Graph Types: A Survey
+2209.14147,"Mobile Edge Computing, Metaverse, 6G Wireless Communications, Artificial Intelligence, and Blockchain: Survey and Their Convergence"
+2206.11203,Facke: a Survey on Generative Models for Face Swapping
+2302.10909,Multi-modal Machine Learning in Engineering Design: A Review and Future Directions
+2004.00218,3D Deep Learning on Medical Images: A Review
+2111.00856,Large-Scale Deep Learning Optimizations: A Comprehensive Survey
+2301.04328,Tactile based Intelligence Touch Technology in IoT configured WCN in B5G/6G-A Survey
+2104.00164,Time Series Analysis and Modeling to Forecast: a Survey
+2206.11821,A Survey of DeFi Security: Challenges and Opportunities
+2305.03803,A Survey of Trojans in Neural Models of Source Code: Taxonomy and Techniques
+2109.03465,A Survey of Sound Source Localization with Deep Learning Methods
+2307.09218,A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning
+2202.12165,Transformers in Medical Image Analysis: A Review
+2208.14226,Unsupervised Representation Learning in Deep Reinforcement Learning: A Review
+2206.13188,Self-supervised Learning in Remote Sensing: A Review
+1903.04687,Transfer Adaptation Learning: A Decade Survey
+2102.07572,Transfer Learning for Future Wireless Networks: A Comprehensive Survey
+2301.10569,Spatio-Temporal Graph Neural Networks: A Survey
+2210.15889,Towards Data-and Knowledge-Driven Artificial Intelligence: A Survey on Neuro-Symbolic Computing
+2003.03369,A Survey on Deep Hashing Methods
+2202.13589,Unsupervised Point Cloud Representation Learning with Deep Neural Networks: A Survey
+2203.13909,Concept Embedding Analysis: A Review
+2007.00864,Hardware Acceleration of Sparse and Irregular Tensor Computations of ML Models: A Survey and Insights
+2203.08737,Hardware Approximate Techniques for Deep Neural Network Accelerators: A Survey
+2106.06307,Survey of Image Based Graph Neural Networks
+2103.05423,Deep Learning Based 3D Segmentation: A Survey
+2008.10774,Image Colorization: A Survey and Dataset
+2308.15985,Vision-Based Traffic Accident Detection and Anticipation: A Survey
+1909.02964,Multi-Objective Multi-Agent Decision Making: A Utility-based Analysis and Survey
+2109.05740,Data Preparation for Software Vulnerability Prediction: A Systematic Literature Review
+2405.06087,When combinations of humans and AI are useful: A systematic review and meta-analysis
+1602.07637,A Survey on Domain-Specific Languages for Machine Learning in Big Data
+1806.00388,A Review of Challenges and Opportunities in Machine Learning for Health
+2310.19778,Human-AI collaboration is not very collaborative yet: A taxonomy of interaction patterns in AI-assisted decision making from a systematic review
+2111.14377,Collective Intelligence for Deep Learning: A Survey of Recent Developments
+2210.17332,Teacher-Student Architecture for Knowledge Learning: A Survey
+1302.7121,A literature survey of low-rank tensor approximation techniques
+2101.12153,A Survey on Personality-Aware Recommendation Systems
+2103.05872,Sampling methods for efficient training of graph convolutional networks: A survey
+1801.02546,"Quality Control in Crowdsourcing: A Survey of Quality Attributes, Assessment Techniques and Assurance Actions"
+1906.11632,A Survey on GANs for Anomaly Detection
+2211.14952,Federated Learning Attacks and Defenses: A Survey
+1903.00114,A Review of Stochastic Block Models and Extensions for Graph Clustering
+1308.0971,Clustering and Community Detection in Directed Networks: A Survey
+2306.11673,A Survey on Automated Software Vulnerability Detection Using Machine Learning and Deep Learning
+2304.10590,"A Review of Symbolic, Subsymbolic and Hybrid Methods for Sequential Decision Making"
+2204.02765,Code Search: A Survey of Techniques for Finding Code
+2303.16362,Benchmarking Software Vulnerability Detection Techniques: A Survey
+2006.15682,A Survey on the Evaluation of Clone Detection Performance and Benchmarking
+2207.03820,Deep Learning for Anomaly Detection in Log Data: A Survey
+2212.14277,System Log Parsing: A Survey
+2204.00932,Automatic Transformation of Natural to Unified Modeling Language: A Systematic Review
+2302.10637,"A Survey of Trustworthy Federated Learning with Perspectives on Security, Robustness, and Privacy"
+2010.04560,"Artificial Intelligence based Anomaly Detection of Energy Consumption in Buildings: A Review, Current Trends and New Perspectives"
+2112.06725,Computational bioacoustics with deep learning: a review and roadmap
+2310.10060,Data Augmentation for Time-Series Classification: An Extensive Empirical Study and Comprehensive Survey
+2304.13029,Bake off redux: a review and experimental evaluation of recent time series classification algorithms
+2111.08429,An Overview of Backdoor Attacks Against Deep Neural Networks and Possible Defences
+2005.08087,Universal Adversarial Perturbations: A Survey
+1707.03184,A Survey on Resilient Machine Learning
+2308.16375,"A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications"
+2105.06300,Privacy Inference Attacks and Defenses in Cloud-based Deep Neural Network: A Survey
+2308.14177,AI-Generated Content (AIGC) for Various Data Modalities: A Survey
+1911.12562,Towards Security Threats of Deep Learning Systems: A Survey
+2412.06157,Membership Inference Attacks and Defenses in Federated Learning: A Survey
+2407.13278,Deep Time Series Models: A Comprehensive Survey and Benchmark
+2101.07299,Diagnostic Captioning: A Survey
+2106.02377,A Survey on Deep Domain Adaptation for LiDAR Perception
+1808.08413,A Brief Survey and an Application of Semantic Image Segmentation for Autonomous Driving
+2206.04101,"What-is and How-to for Fairness in Machine Learning: A Survey, Reflection, and Perspective"
+2303.07275,"A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges"
+2204.07610,Sources of Irreproducibility in Machine Learning: A Review
+2111.13576,Job Recommender Systems: A Review
+2110.11290,Physical Side-Channel Attacks on Embedded Neural Networks: A Survey
+2002.07420,An Overview of Distance and Similarity Functions for Structured Data
+2301.11047,A Systematic Review of Green AI
+1905.02845,Feature Selection and Feature Extraction in Pattern Analysis: A Literature Review
+2205.09904,Deep transfer learning for image classification: a survey
+2301.01755,Autonomous Drone Racing: A Survey
+1904.08405,Event-based Vision: A Survey
+2006.02535,A Survey on Deep Learning Techniques for Stereo-based Depth Estimation
+1812.06821,Survey on Unmanned Aerial Vehicle Networks: A Cyber Physical System Perspective
+1809.01752,"Survey on UAV Cellular Communications: Practical Aspects, Standardization Advancements, Regulation, and Security Challenges"
+2112.04324,Deep Learning and Mathematical Intuition: A Review of (Davies et al. 2021)
+2008.00084,Survey of Spectrum Regulation for Intelligent Transportation Systems
+2007.15840,A Survey on Concept Factorization: From Shallow to Deep Representation Learning
+2211.03959,Pretraining in Deep Reinforcement Learning: A Survey
+2311.14379,Robot Learning in the Era of Foundation Models: A Survey
+2112.05615,Intelligent Transportation Systems Using External Infrastructure: A Literature Survey
+1901.03888,Hybrid Recommender Systems: A Systematic Literature Review
+2206.05675,A Survey on Uncertainty Reasoning and Quantification for Decision Making: Belief Theory Meets Deep Learning
+1705.04530,A Survey of Question Answering for Math and Science Problem
+2409.15816,Diffusion Models for Intelligent Transportation Systems: A Survey
+2101.07906,Multimodality in VR: A survey
+2112.01787,Detect Faces Efficiently: A Survey and Evaluations
+2003.04078,A Survey on The Expressive Power of Graph Neural Networks
+1704.00411,A Survey of Distributed Message Broker Queues
+1710.05703,A Survey on Optical Character Recognition System
+2104.08570,Crossing the Conversational Chasm: A Primer on Natural Language Processing for Multilingual Task-Oriented Dialogue Systems
+2104.06523,A Review of Anonymization for Healthcare Data
+1306.0813,Social Media and Information Overload: Survey Results
+2002.12169,Multi-source Domain Adaptation in the Deep Learning Era: A Systematic Survey
+2208.07422,Deep Unsupervised Domain Adaptation: A Review of Recent Advances and Perspectives
+2102.09508,Domain Adaptation for Medical Image Analysis: A Survey
+2304.06489,Domain Adaptation for Inertial Measurement Unit-based Human Activity Recognition: A Survey
+2407.13699,A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice
+2009.04964,"News Recommender System: A review of recent progress, challenges, and opportunities"
+1810.03568,The Long Road to Computational Location Privacy: A Survey
+0411034,A selective overview of nonparametric methods in financial econometrics
+2002.07950,Survey on Individual Differences in Visualization
+2103.01415,A Survey of Deep Learning Techniques for Weed Detection from Images
+2305.14582,Interpretation of Time-Series Deep Models: A Survey
+2202.06481,A Survey on Machine Learning Approaches for Modelling Intuitive Physics
+2202.07145,GAN-generated Faces Detection: A Survey and New Perspectives
+2108.02238,The Impact of Machine Learning on 2D/3D Registration for Image-guided Interventions: A Systematic Review and Perspective
+2102.01420,The Road Towards 6G: A Comprehensive Survey
+2009.11522,Artificial Intelligence for UAV-enabled Wireless Networks: A Survey
+2204.12067,An Overview of Recent Work in Media Forensics: Methods and Threats
+2207.08768,Rank-based Decomposable Losses in Machine Learning: A Survey
+1808.05089,On Optimizing VLC Networks for Downlink Multi-User Transmission: A Survey
+1903.05289,Accessing From The Sky: A Tutorial on UAV Communications for 5G and Beyond
+2112.05700,A Framework for Fairness: A Systematic Review of Existing Fair AI Solutions
+2303.13727,A Survey on Secure and Private Federated Learning Using Blockchain: Theory and Application in Resource-constrained Computing
+1003.4053,A Comprehensive Review of Image Enhancement Techniques
+1404.4088,Ensemble Classifiers and Their Applications: A Review
+1904.09146,Salient Object Detection in the Deep Learning Era: An In-Depth Survey
+2012.08929,Learning-Based Algorithms for Vessel Tracking: A Review
+2303.04150,Evolutionary Reinforcement Learning: A Survey
+2101.09505,Safe Learning and Optimization Techniques: Towards a Survey of the State of the Art
+1904.10040,A Survey on Practical Applications of Multi-Armed and Contextual Bandits
+2302.01067,A Survey on Compositional Generalization in Applications
+2101.02082,Artificial Intelligence Methods in In-Cabin Use Cases: A Survey
+2302.03122,State-wise Safe Reinforcement Learning: A Survey
+2301.04272,Data Distillation: A Survey
+2305.01975,"A Survey on Dataset Distillation: Approaches, Applications and Future Directions"
+2006.08672,A systematic review and taxonomy of explanations in decision support and recommender systems
+2309.11433,A Systematic Review of Few-Shot Learning in Medical Imaging
+2112.11699,Few-Shot Object Detection: A Comprehensive Survey
+1409.4780,"The Visible and Infrared Survey Telescope for Astronomy (VISTA): Design, Technical Overview and Performance"
+0604426,The UKIRT Infrared Deep Sky Survey (UKIDSS)
+2306.14052,"A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware"
+2403.19852,A Review of Graph Neural Networks in Epidemic Modeling
+0403501,"The 6dF Galaxy Survey: Samples, Observational Techniques and the First Data Release"
+1611.07048,The VIMOS Public Extragalactic Redshift Survey (VIPERS). Full spectroscopic data and auxiliary information release (PDR-2)
+1310.1008,The VIMOS Public Extragalactic Survey (VIPERS): First Data Release of 57 204 spectroscopic measurements
+1506.08222,Galaxy And Mass Assembly (GAMA): end of survey report and data release 2
+1203.3192,"The DEEP2 Galaxy Redshift Survey: Design, Observations, Data Reduction, and Redshifts"
+1101.4018,The DEEP3 Galaxy Redshift Survey: Keck/DEIMOS Spectroscopy in the GOODS-N Field
+0206225,Spectroscopic Target Selection in the Sloan Digital Sky Survey: The Main Galaxy Sample
+1703.00052,"Sloan Digital Sky Survey IV: Mapping the Milky Way, Nearby Galaxies, and the Distant Universe"
+1709.04205,Photometric redshifts for the Kilo-Degree Survey. Machine-learning analysis with artificial neural networks
+2001.03621,Evaluation of probabilistic photometric redshift estimation approaches for The Rubin Observatory Legacy Survey of Space and Time (LSST)
+1902.05569,The Wide Field Infrared Survey Telescope: 100 Hubbles for the 2020s
+0108153,Spectroscopic Target Selection for the Sloan Digital Sky Survey: The Luminous Red Galaxy Sample
+1101.1559,The Eighth Data Release of the Sloan Digital Sky Survey: First Data from SDSS-III
+1805.05489,Science Impacts of the SPHEREx All-Sky Optical to Near-Infrared Spectral Survey II: Report of a Community Workshop on the Scientific Synergies Between the SPHEREx Survey and Other Astronomy Observatories
+2002.00207,"Web Table Extraction, Retrieval and Augmentation: A Survey"
+0905.4081,New Approaches To Photometric Redshift Prediction Via Gaussian Process Regression In The Sloan Digital Sky Survey
+2006.06091,Autonomous Driving with Deep Learning: A Survey of State-of-Art Technologies
+1912.11676,Deep Learning-based Vehicle Behaviour Prediction For Autonomous Driving Applications: A Review
+2107.12190,Systematic Literature Review of Validation Methods for AI Systems
+2111.00824,Living Literature Reviews
+1211.4493,Survey on Incremental Approaches for Network Anomaly Detection
+2006.16728,Overview of Gaussian process based multi-fidelity techniques with variable relationship between fidelities
+2301.12148,Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis
+1909.00169,Imbalance Problems in Object Detection: A Review
+1901.00735,Dataset search: a survey
+1609.07196,Review of multi-fidelity models
+1903.01768,Visualisation of Pareto Front Approximation: A Short Survey and Empirical Comparisons
+2201.00443,Scene Graph Generation: A Comprehensive Survey
+2110.01515,A Review of the Gumbel-max Trick and its Extensions for Discrete Stochasticity in Machine Learning
+2104.11892,A Survey of Modern Deep Learning based Object Detection Models
+2106.10823,3D Object Detection for Autonomous Driving: A Survey
+1909.00133,Object Detection in Optical Remote Sensing Images: A Survey and A New Benchmark
+1912.10867,Analysis of the hands in egocentric vision: A survey
+2207.01223,A Survey on Label-efficient Deep Image Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction
+2111.06119,Fine-Grained Image Analysis with Deep Learning: A Survey
+2203.14205,Recent Few-Shot Object Detection Algorithms: A Survey with Performance Comparison
+1908.10122,Heuristic design of fuzzy inference systems: A review of three decades of research
+2301.06890,"AI-Based Affective Music Generation Systems: A Review of Methods, and Challenges"
+1905.03554,1D Convolutional Neural Networks and Applications: A Survey
+1606.06511,Literature survey on low rank approximation of matrices
+1809.07294,Generative Adversarial Network in Medical Imaging: A Review
+2206.04800,Explainable Artificial Intelligence (XAI) for Internet of Things: A Survey
+1812.01259,"Optical Camera Communications: Survey, Use Cases, Challenges, and Future Trends"
+2403.04018,Empirical Game-Theoretic Analysis: A Survey
+1403.2877,A survey of dimensionality reduction techniques
+2105.04184,Generative Adversarial Networks (GANs) in Networking: A Comprehensive Survey & Evaluation
+2502.09511,Diffusion Models for Molecules: A Survey of Methods and Tasks
+2502.16533,"A Survey of Graph Transformers: Architectures, Theories and Applications"
+2110.10863,Deep Generative Models in Engineering Design: A Review
+2009.00909,A Survey on Negative Transfer
+2105.13810,A Survey on Anomaly Detection for Technical Systems using LSTM Networks
+2207.10309,A Survey on Leveraging Pre-trained Generative Adversarial Networks for Image Editing and Restoration
+1808.04962,Recent Advances in Physical Reservoir Computing: A Review
+2005.10953,A Concise Review of Recent Few-shot Meta-learning Methods
+2008.09381,"A Survey on Assessing the Generalization Envelope of Deep Neural Networks: Predictive Uncertainty, Out-of-distribution and Adversarial Samples"
+1604.07121,A Survey of Memristive Threshold Logic Circuits
+0711.3199,Analyzing and Modeling Real-World Phenomena with Complex Networks: A Survey of Applications
+2206.09474,3D Object Detection for Autonomous Driving: A Comprehensive Survey
+2209.00869,A Survey of Causal Inference Frameworks
+2407.17877,Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey
+1709.04464,Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning
+2011.14554,A Selective Survey on Versatile Knowledge Distillation Paradigm for Neural Network Models
+2101.06611,Predictive Processing in Cognitive Robotics: a Review
+2401.05146,"Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics"
+1806.08167,Modeling the correlated activity of neural populations: A review
+1909.04791,"A Survey of Techniques All Classifiers Can Learn from Deep Networks: Models, Optimizations, and Regularization"
+2402.00732,MobilityDL: A Review of Deep Learning From Trajectory Data
+2303.05012,Spatio-Temporal Trajectory Similarity Measures: A Comprehensive Survey and Quantitative Study
+2203.17005,Privacy-Preserving Aggregation in Federated Learning: A Survey
+1802.06971,A survey on trajectory clustering analysis
+0907.4728,A survey of cross-validation procedures for model selection
+0511042,Dimensions of Neural-symbolic Integration - A Structured Survey
+1811.05255,Deep Neural Network Concepts for Background Subtraction: A Systematic Review and Comparative Evaluation
+2106.14518,The eROSITA Final Equatorial-Depth Survey (eFEDS): Catalog of galaxy clusters and groups
+2106.10069,Point-of-Interest Recommender Systems based on Location-Based Social Networks: A Survey from an Experimental Perspective
+2003.11547,"A Survey on Trajectory Data Management, Analytics, and Learning"
+2005.11691,How to Build a Graph-Based Deep Learning Architecture in Traffic Domain: A Survey
+1910.04121,The SPTpol Extended Cluster Survey
+1812.01679,Cluster Cosmology Constraints from the 2500 deg$^2$ SPT-SZ Survey: Inclusion of Weak Gravitational Lensing Data from Magellan and the Hubble Space Telescope
+1603.06522,Cosmological Constraints from Galaxy Clusters in the 2500 square-degree SPT-SZ Survey
+1111.6587,"The X-ray cluster survey with eROSITA: forecasts for cosmology, cluster physics and primordial non-Gaussianity"
+2403.00284,"A Survey of Route Recommendations: Methods, Applications, and Opportunities"
+1907.03726,Revisiting the Fanaroff-Riley dichotomy and radio-galaxy morphology with the LOFAR Two-Metre Sky Survey (LoTSS)
+2108.00569,The Evolutionary Map of the Universe Pilot Survey
+2206.14677,Identifying anomalous radio sources in the EMU Pilot Survey using a complexity-based approach
+1907.01981,The Karl G. Jansky Very Large Array Sky Survey (VLASS). Science case and survey design
+2011.06001,Unveiling the rarest morphologies of the LOFAR Two-metre Sky Survey radio source population with self-organised maps
+0301274,The Northern Sky Optical Cluster Survey II: An Objective Cluster Catalog for 5800 Square Degrees
+1202.6424,"A catalog of 132,684 clusters of galaxies identified from Sloan Digital Sky Survey III"
+0204055,Stellar Masses and Star Formation Histories for 10^5 Galaxies from the Sloan Digital Sky Survey
+0910.5219,A Weak Lensing Study of X-ray Groups in the COSMOS survey: Form and Evolution of the Mass-Luminosity Relation
+2106.14517,The eROSITA Final Equatorial Depth Survey (eFEDS): The X-ray catalog
+1412.6076,The SKA Mid-frequency All-sky Continuum Survey: Discovering the unexpected and transforming radio-astronomy
+2012.00747,The Rapid ASKAP Continuum Survey I: Design and First Results
+2002.11124,Dark Energy Survey Year 1 Results: Cosmological Constraints from Cluster Abundances and Weak Lensing
+1805.00039,Dark Energy Survey Year 1 Results: Weak Lensing Mass Calibration of redMaPPer Galaxy Clusters
+1607.02120,Survey strategy optimization for the Atacama Cosmology Telescope
+1907.09621,Galaxy Clusters Selected via the Sunyaev-Zel'dovich Effect in the SPTpol 100-Square-Degree Survey
+1106.3366,The 6dF Galaxy Survey: Baryon Acoustic Oscillations and the Local Hubble Constant
+9810501,The ESO Nearby Abell Cluster Survey: Kinematics of Galaxies in Clusters
+1108.2635,The WiggleZ Dark Energy Survey: mapping the distance-redshift relation with baryon acoustic oscillations
+0405546,The ROSAT-ESO Flux Limited X-ray (REFLEX) Galaxy Cluster Survey. V. The cluster catalogue
+1409.0850,Galaxy Clusters Discovered via the Sunyaev-Zel'dovich Effect in the 2500-square-degree SPT-SZ survey
+9812083,"SUMSS: A Wide-Field Radio Imaging Survey of the Southern Sky. I. Science goals, survey design and instrumentation"
+0509882,GaBoDS: The Garching-Bonn Deep Survey V. Data release of the ESO Deep-Public-Survey
+1303.6588,Cluster Lensing Profiles Derived from a Redshift Enhancement of Magnified BOSS-Survey Galaxies
+1109.2594,Combined strong and weak lensing analysis of 28 clusters from the Sloan Giant Arcs Survey
+1407.6001,Optical Confirmation and Redshift Estimation of the Planck Cluster Candidates overlapping the Pan-STARRS Survey
+1303.4409,The Evolution of the Stellar Mass Functions of Star-Forming and Quiescent Galaxies to z = 4 from the COSMOS/UltraVISTA Survey
+1109.5691,Sample variance in photometric redshift calibration: cosmological biases and survey requirements
+9701180,The APM Galaxy Survey:- V. Catalogues of Galaxy Clusters
+1009.0847,The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectrum at 148 and 218 GHz from the 2008 Southern Survey
+1311.4953,Optical Spectroscopy and Velocity Dispersions of Galaxy Clusters from the SPT-SZ Survey
+0603217,Accurate photometric redshifts for the CFHT Legacy Survey calibrated using the VIMOS VLT Deep Survey
+1203.6594,The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: Baryon Acoustic Oscillations in the Data Release 9 Spectroscopic Galaxy Sample
+0906.0024,"The Spitzer Deep, Wide-Field Survey"
+0812.0814,AzTEC Millimetre Survey of the COSMOS Field - II. Source Count Overdensity and Correlations with Large-Scale Structure
+0907.1093,"AzTEC Half Square Degree Survey of the SHADES Fields -- I. Maps, Catalogues, and Source Counts"
+0603521,ChaMP Serendipitous Galaxy Cluster Survey
+0511249,The FLAMINGOS Extragalactic Survey
+0801.3485,The Correlation Function of Optically Selected Galaxy Clusters in the Sloan Digital Sky Survey
+0407228,The radio source population at high frequency: follow-up of the 15-GHz 9C survey
+0607450,Photometric Redshifts in the IRAC Shallow Survey
+0711.1863,Galaxy Cluster Correlation Function to z ~ 1.5 in the IRAC Shallow Cluster Survey
+1108.4681,The serendipitous observation of a gravitationally lensed galaxy at z = 0.9057 from the Blanco Cosmology Survey: The Elliot Arc
+0412573,A Redshift Survey of the Submillimeter Galaxy Population
+0907.5457,The REFLEX galaxy cluster survey. VIII. Spectroscopic observations and optical atlas
+1205.3103,Weak-Lensing Mass Measurements of Five Galaxy Clusters in the South Pole Telescope Survey Using Magellan/Megacam
+0212562,The 2dF Galaxy Redshift Survey: the luminosity function of cluster galaxies
+0402652,The 2dF Galaxy Redshift Survey: The blue galaxy fraction and implications for the Butcher-Oemler effect
+1204.1210,"The Blanco Cosmology Survey: Data Acquisition, Processing, Calibration, Quality Diagnostics and Data Release"
+0002234,The SCUBA Local Universe Galaxy Survey I: First Measurements of the Submillimetre Luminosity and Dust Mass Functions
+0804.4798,Clusters of Galaxies in the First Half of the Universe from the IRAC Shallow Survey
+0811.4134,Southern Cosmology Survey III: QSO's from Combined GALEX and Optical Photometry
+0505068,Second Data Release of the 6dF Galaxy Survey
+0812.2962,The Northern Sky Optical Cluster Survey III: A Cluster Catalog Covering Pi Steradians
+1012.3470,The Red-sequence Cluster Survey-2 (RCS-2): survey details and photometric catalog construction
+0603588,Cosmological Constraints from the Red-Sequence Cluster Survey
+0904.0028,A LABOCA survey of the Extended Chandra Deep Field South - submillimeter properties of near-IR selected galaxies
+1007.5256,The Atacama Cosmology Telescope: Extragalactic Sources at 148 GHz in the 2008 Survey
+1306.2288,The Atacama Cosmology Telescope: Dusty Star-Forming Galaxies and Active Galactic Nuclei in the Southern Survey
+9912364,Expectations For an Interferometric Sunyaev-Zel'dovich Effect Survey for Galaxy Clusters
+1003.0270,The AKARI/IRC Mid-Infrared All-Sky Survey
+1109.6741,The Dark Energy Survey Data Management System
+0305228,The 160 Square Degree ROSAT Survey: the Revised Catalog of 201 Clusters with Spectroscopic Redshifts
+0911.0002,The Australia Telescope 20 GHz Survey: The Source Catalogue
+0810.0005,Spectroscopic Confirmation of Two Massive Red-Sequence-Selected Galaxy Clusters at z ~ 1.2 in the SpARCS-North Cluster Survey
+0110259,Detecting Clusters of Galaxies in the Sloan Digital Sky Survey I : Monte Carlo Comparison of Cluster Detection Algorithms
+0701265,"A MaxBCG Catalog of 13,823 Galaxy Clusters from the Sloan Digital Sky Survey"
+0308075,"The Planck High Frequency Instrument, a 3rd generation CMB experiment, and a full sky submillimeter survey"
+0503249,The Bolocam Lockman Hole Millimeter-Wave Galaxy Survey: Galaxy Candidates and Number Counts
+1010.0677,The XMM Cluster Survey: X-ray analysis methodology
+9904235,Overview of Secondary Anisotropies of the CMB
+0908.3808,Photometric Calibration of the Supernova Legacy Survey Fields
+1203.5775,Galaxy clusters discovered via the Sunyaev-Zel'dovich effect in the first 720 square degrees of the South Pole Telescope survey
+0907.1659,Cosmological Constraints from the Clustering of the Sloan Digital Sky Survey DR7 Luminous Red Galaxies
+0509240,Testing LMC Microlensing Scenarios: The Discrimination Power of the SuperMACHO Microlensing Survey
+0303188,SUMSS: A Wide-Field Radio Imaging Survey of the Southern Sky. II. The Source Catalogue
+0810.1917,Evolution of the Color-Magnitude Relation in Galaxy Clusters at z ~1 from the ACS Intermediate Redshift Cluster Survey
+0811.3596,Physical Properties of Four SZE-Selected Galaxy Clusters in the Southern Cosmology Survey
+0808.0214,Southern Cosmology Survey I: Optical Cluster Detections and Predictions for the Southern Common-Area Millimeter-Wave Experiments
+0701043,"The ESSENCE Supernova Survey: Survey Optimization, Observations, and Supernova Photometry"
+1306.3470,"Extragalactic millimeter-wave point source catalog, number counts and statistics from 771 square degrees of the SPT-SZ Survey"
+9905256,A Sunyaev-Zel'dovich Effect Survey for High Redshift Clusters
+0408484,Cluster Survey Studies of the Dark Energy
+1208.3368,High-Redshift Cool-Core Galaxy Clusters Detected via the Sunyaev--Zel'dovich Effect in the South Pole Telescope Survey
+9708135,A Deep Sub-millimeter Survey of Lensing Clusters: A New Window on Galaxy Formation and Evolution
+1207.4790,Assembly of the Red Sequence in Infrared-Selected Galaxy Clusters from the IRAC Shallow Cluster Survey
+1207.4369,"Redshifts, Sample Purity, and BCG Positions for the Galaxy Cluster Catalog from the first 720 Square Degrees of the South Pole Telescope Survey"
+1205.6478,SPT-CL J0205-5829: A z = 1.32 Evolved Massive Galaxy Cluster in the South Pole Telescope Sunyaev-Zel'dovich Effect Survey
+0608246,Cyber-infrastructure to Support Science and Data Management for the Dark Energy Survey
+1202.0090,A 2% Distance to z=0.35 by Reconstructing Baryon Acoustic Oscillations - I : Methods and Application to the Sloan Digital Sky Survey
+0907.1660,Baryon Acoustic Oscillations in the Sloan Digital Sky Survey Data Release 7 Galaxy Sample
+0410011,RASS-SDSS galaxy cluster survey. II. A unified picture of the Cluster Luminosity Function
+0506201,RASS-SDSS Galaxy Cluster Survey. IV. A ubiquitous dwarf galaxy population in clusters
+0609080,RASS-SDSS Galaxy Cluster Survey. VI. The dependence of the cluster SFR on the cluster global properties
+0704.3202,"The SCUBA-2 ""All-Sky"" Survey"
+0402242,CAIRNS: The Cluster And Infall Region Nearby Survey II. Environmental Dependence of Infrared Mass-to-Light Ratios
+9710308,The ROSAT Deep Cluster Survey: the X-ray Luminosity Function out to z=0.8
+1203.6616,The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: cosmological implications of the large-scale two-point correlation function
+0801.2779,AzTEC Millimetre Survey of the COSMOS Field: I. Data Reduction and Source Catalogue
+0810.0036,Spectroscopic Confirmation of a Massive Red-Sequence-Selected Galaxy Cluster at z = 1.34 in the SpARCS-South Cluster Survey
+1211.3741,The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: weighing the neutrino mass using the galaxy power spectrum of the CMASS sample
+0810.1578,Galaxy clusters discovered with a Sunyaev-Zel'dovich effect survey
+1210.7231,A Measurement of the Cosmic Microwave Background Damping Tail from the 2500-square-degree SPT-SZ survey
+0002467,An Australia telescope survey for CMB anisotropies
+1111.0141,The XMM-BCS galaxy cluster survey: I. The X-ray selected cluster catalog from the initial 6 deg$^2$
+1909.04352,Automatic Code Summarization: A Systematic Literature Review
+2305.05959,Survey of Code Search Based on Deep Learning
+9910494,The velocity and mass distribution of clusters of galaxies from the CNOC1 cluster redshift survey
+0912.2338,"Extragalactic millimeter-wave sources in South Pole Telescope survey data: source counts, catalog, and statistics for an 87 square-degree field"
+9909315,The ROSAT All-Sky Survey Bright Source Catalogue
+1303.2726,ALMA redshifts of millimeter-selected galaxies from the SPT survey: The redshift distribution of dusty star-forming galaxies
+1503.05296,Efficient Machine Learning for Big Data: A Review
+2112.15131,"Resource-Efficient Deep Learning: A Survey on Model-, Arithmetic-, and Implementation-Level Techniques"
+2405.11868,Towards Graph Contrastive Learning: A Survey and Beyond
+2205.01293,A Survey of Deep Learning Models for Structural Code Understanding
+1908.00492,A review of feature extraction and performance evaluation in epileptic seizure detection using EEG
+2103.05127,Model Complexity of Deep Learning: A Survey
+2210.14267,A Survey on Deep Generative 3D-aware Image Synthesis
+1904.02743,How should my chatbot interact? A survey on human-chatbot interaction design
+2108.11451,From Statistical Relational to Neurosymbolic Artificial Intelligence: a Survey
+2408.10726,Quantum Artificial Intelligence: A Brief Survey
+2402.17236,A Review of Data Mining in Personalized Education: Current Trends and Future Prospects
+2309.04761,A Comprehensive Survey on Deep Learning Techniques in Educational Data Mining
+2005.01467,Spiking Neural Networks Hardware Implementations and Challenges: a Survey
+2310.02095,"A Survey on the Role of Crowds in Combating Online Misinformation: Annotators, Evaluators, and Creators"
+2101.00454,Mining the online infosphere: A survey
+1807.02303,A survey on policy search algorithms for learning robot controllers in a handful of trials
+1403.7426,An Overview of Hierarchical Task Network Planning
+2005.05842,A Survey of Behavior Trees in Robotics and AI
+2111.06257,Branch and Bound in Mixed Integer Linear Programming Problems: A Survey of Techniques and Trends
+2203.02878,A Survey for Solving Mixed Integer Programming via Machine Learning
+2111.00905,Smart Fashion: A Review of AI Applications in the Fashion & Apparel Industry
+2305.05092,Artificial Intelligence in 3GPP 5G-Advanced: A Survey
+1904.12770,A Review of Modularization Techniques in Artificial Neural Networks
+2211.04780,On the Robustness of Explanations of Deep Neural Network Models: A Survey
+2202.07183,A Survey of Neural Trojan Attacks and Defenses in Deep Learning
+1904.12539,A Survey of Community Search Over Big Graphs
+1705.03172,A Survey of Location Prediction on Twitter
+1905.00964,A Survey of Moving Target Defenses for Network Security
+1903.12394,Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems
+2111.00418,Deep Learning in Human Activity Recognition with Wearable Sensors: A Review on Advances
+2009.06472,Estimating Individual Treatment Effects using Non-Parametric Regression Models: a Review
+2206.13508,Data Augmentation techniques in time series domain: A survey and taxonomy
+2202.13096,Continuous Human Action Recognition for Human-Machine Interaction: A Review
+1701.03639,A survey of location inference techniques on Twitter
+1805.01109,AGI Safety Literature Review
+2010.04050,"A survey of algorithmic recourse: definitions, formulations, solutions, and prospects"
+1701.05132,Estimation of causal effects with multiple treatments: a review and new ideas
+2205.10468,Deep Learning for Omnidirectional Vision: A Survey and New Perspectives
+2206.05498,A Review of Causality for Learning Algorithms in Medical Image Analysis
+1310.0720,A Survey on Device-to-Device Communication in Cellular Networks
+1406.0440,Software-Defined Networking: A Comprehensive Survey
+1912.12467,QoE Management of Multimedia Streaming Services in Future Networks: A Tutorial and Survey
+2307.14397,"A Survey on Generative Modeling with Limited Data, Few Shots, and Zero Shot"
+2402.07127,Learning by Watching: A Review of Video-based Learning Approaches for Robot Manipulation
+2104.07784,A survey of active learning algorithms for supervised remote sensing image classification
+2104.04059,"Machine Learning on the COVID-19 Pandemic, Human Mobility and Air Quality: A Review"
+2203.10480,Encoder-Decoder Architecture for Supervised Dynamic Graph Learning: A Survey
+2007.01126,A Brief Review of Deep Multi-task Learning and Auxiliary Task Learning
+2305.13843,Advances and Challenges of Multi-task Learning Method in Recommender System: A Survey
+2312.01540,Robust Computer Vision in an Ever-Changing World: A Survey of Techniques for Tackling Distribution Shifts
+2209.05700,Vision Transformers for Action Recognition: A Survey
+2109.11301,"A Survey on Cost Types, Interaction Schemes, and Annotator Performance Models in Selection Algorithms for Active Learning in Classification"
+2302.11075,Deep Active Learning in the Presence of Label Noise: A Survey
+2310.09822,Turn Passive to Active: A Survey on Active Intellectual Property Protection of Deep Learning Models
+1505.06646,A Survey on Retrieval of Mathematical Knowledge
+1912.03028,A Survey on Theorem Provers in Formal Methods
+2005.12876,A Survey of Languages for Formalizing Mathematics
+2110.10720,Privacy in Open Search: A Review of Challenges and Solutions
+2203.01829,A Brief Overview of Unsupervised Neural Speech Representation Learning
+2401.03717,Universal Time-Series Representation Learning: A Survey
+2210.12089,"A Survey on Graph Counterfactual Explanations: Definitions, Methods, Evaluation, and Research Challenges"
+2205.04766,Explainable Deep Learning Methods in Medical Image Classification: A Survey
+2012.00467,A Survey on ML4VIS: Applying Machine Learning Advances to Data Visualization
+2103.05154,Explanations in Autonomous Driving: A Survey
+2302.02790,Perception Datasets for Anomaly Detection in Autonomous Driving: A Survey
+2204.07974,Anomaly Detection in Autonomous Driving: A Survey
+2012.13581,Camouflaged Object Detection and Tracking: A Survey
+1901.08292,Anomaly Detection in Road Traffic Using Visual Surveillance: A Survey
+2007.08041,A Survey on Security Attacks and Defense Techniques for Connected and Autonomous Vehicles
+2203.14965,A Systematic Survey of Attack Detection and Prevention in Connected and Autonomous Vehicles
+2005.11081,Learning Combinatorial Optimization on Graphs: A Survey with Applications to Networking
+2209.10117,A Comprehensive Survey on Trustworthy Recommender Systems
+2303.16004,A Survey on Malware Detection with Graph Representation Learning
+2203.06714,A Survey on Deep Graph Generation: Methods and Applications
+2404.03354,A Comprehensive Survey on Self-Supervised Learning for Recommendation
+2108.09091,DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction
+2304.01829,A Survey on Vertical Federated Learning: From a Layered Perspective
+2307.00495,STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction
+2405.00314,Model Quantization and Hardware Acceleration for Vision Transformers: A Comprehensive Survey
+2303.14320,"A Survey on Model-based, Heuristic, and Machine Learning Optimization Approaches in RIS-aided Wireless Networks"
+2004.10777,Code Smells and Refactoring: A Tertiary Systematic Review of Challenges and Observations
+1705.07839,A Survey on QoE-oriented Wireless Resources Scheduling
+2309.05658,From Capture to Display: A Survey on Volumetric Video
+2304.12367,Overview of the TREC 2022 NeuCLIR Track
+1502.03552,Applications of Artificial Intelligence Techniques to Combating Cyber Crimes: A Review
+2308.01118,A Survey on Popularity Bias in Recommender Systems
+2507.01925,A Survey on Vision-Language-Action Models: An Action Tokenization Perspective
+2507.10672,Vision Language Action Models in Robotic Manipulation: A Systematic Review
+2510.24795,A Survey on Efficient Vision-Language-Action Models
+2304.10020,"A Survey on Deep Neural Network Partition over Cloud, Edge and End Devices"
+2307.10655,"A Survey of What to Share in Federated Learning: Perspectives on Model Utility, Privacy Leakage, and Communication Efficiency"
+2401.17807,Advances in 3D Generation: A Survey
+2110.01442,A review of Generative Adversarial Networks (GANs) and its applications in a wide variety of disciplines -- From Medical to Remote Sensing
+1712.05956,Overview of the Wikidata Vandalism Detection Task at WSDM Cup 2017
+1606.05609,Research on Wikipedia Vandalism: a brief literature review
+2303.02851,A Survey on Incremental Update for Neural Recommender Systems
+2004.11794,A Review of Privacy-preserving Federated Learning for the Internet-of-Things
+2110.11168,A Survey on Methods and Metrics for the Assessment of Explainability under the Proposed AI Act
+2311.17228,Survey on AI Ethics: A Socio-technical Perspective
+2107.02850,Survey of Self-Play in Reinforcement Learning
+1909.08329,From Server-Based to Client-Based Machine Learning: A Comprehensive Survey
+2004.06632,A Survey on Activation Functions and their relation with Xavier and He Normal Initialization
+2402.06330,Continual Learning on Graphs: A Survey
+2301.12230,Continual Graph Learning: A Survey
+2205.15445,"Continual Object Detection: A review of definitions, strategies, and challenges"
+2111.05040,A survey on high-dimensional Gaussian process modeling with application to Bayesian optimization
+2206.07922,Challenges and Opportunities in Deep Reinforcement Learning with Graph Neural Networks: A Comprehensive review of Algorithms and Applications
+2101.05954,Recent Advances in Video Question Answering: A Review of Datasets and Methods
+1909.06423,Zero-Shot Action Recognition in Videos: A Survey
+2109.04269,Asynchronous Federated Learning on Heterogeneous Devices: A Survey
+1707.09183,A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity
+2310.14277,"A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application"
+2012.09049,Knowledge Graphs in Manufacturing and Production: A Systematic Literature Review
+2302.12552,Deep Learning for Video-Text Retrieval: a Review
+2005.11041,"A Survey of Information Cascade Analysis: Models, Predictions, and Recent Advances"
+2207.07730,How to Reuse and Compose Knowledge for a Lifetime of Tasks: A Survey on Continual Learning and Functional Composition
+2107.14040,Artificial Intelligence (AI) and Big Data for Coronavirus (COVID-19) Pandemic: A Survey on the State-of-the-Arts
+2302.05011,Context Understanding in Computer Vision: A Survey
+2312.09257,Brain-Inspired Machine Intelligence: A Survey of Neurobiologically-Plausible Credit Assignment
+2007.06022,Blockchain for the Internet of Vehicles towards Intelligent Transportation Systems: A Survey
+2106.14631,Blockchain and AI-based Solutions to Combat Coronavirus (COVID-19)-like Epidemics: A Survey
+1611.06439,A Survey of Credit Card Fraud Detection Techniques: Data and Technique Oriented Perspective
+1601.05511,RGB-D-based Action Recognition Datasets: A Survey
+2304.05055,A Comprehensive Survey on Deep Graph Representation Learning
+2404.11973,A critical review of methods and challenges in large language models
+2112.01146,Conversational Agents in Therapeutic Interventions for Neurodevelopmental Disorders: A Survey
+2304.05436,Chatbots and ChatGPT: A Bibliometric Analysis and Systematic Review of Publications in Web of Science and Scopus Databases
+2401.15497,"Foregrounding Artist Opinions: A Survey Study on Transparency, Ownership, and Fairness in AI Generative Art"
+2404.02309,A Survey of Web Content Control for Generative AI
+2306.04542,On the Design Fundamentals of Diffusion Models: A Survey
+2205.10766,Recent Advances in Embedding Methods for Multi-Object Tracking: A Survey
+2201.04736,"Security for Machine Learning-based Software Systems: a survey of threats, practices and challenges"
+2207.09092,IoT Anomaly Detection Methods and Applications: A Survey
+1907.08138,A Survey of Data Quality Measurement and Monitoring Tools
+2203.07018,"A review of Generative Adversarial Networks for Electronic Health Records: applications, evaluation measures and data sources"
+2306.04139,A Comprehensive Survey on Generative Diffusion Models for Structured Data
+2307.06162,Deep Generative Models for Physiological Signals: A Systematic Literature Review
+2307.13125,Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review
+1912.01667,A Survey of Black-Box Adversarial Attacks on Computer Vision Models
+2210.05952,3D Brain and Heart Volume Generative Models: A Survey
+2006.08480,Symbolic Logic meets Machine Learning: A Brief Survey in Infinite Domains
+1811.04169,"Understanding the Motivations, Challenges and Needs of Blockchain Software Developers: A Survey"
+2407.14662,Relational Composition in Neural Networks: A Survey and Call to Action
+2004.13175,A scoping review of transfer learning research on medical image analysis using ImageNet
+2008.08264,Intelligent Radio Signal Processing: A Survey
+1903.05434,Visual Semantic Information Pursuit: A Survey
+1610.00782,"Network Structure Inference, A Survey: Motivations, Methods, and Applications"
+2003.00653,"Adversarial Attacks and Defenses on Graphs: A Review, A Tool and Empirical Studies"
+2305.05840,Achieving Diversity in Counterfactual Explanations: a Review and Discussion
+1608.01807,SIFT Meets CNN: A Decade Survey of Instance Retrieval
+2412.12770,A Survey on Sequential Recommendation
+2306.06955,A Brief Review of Hypernetworks in Deep Learning
+2312.05589,A Review of Hybrid and Ensemble in Deep Learning for Natural Language Processing
+2106.11650,A Survey on Human-aware Robot Navigation
+2101.03564,Cybersecurity of Industrial Cyber-Physical Systems: A Review
+1809.02609,Cyber-Security in Smart Grid: Survey and Challenges
+1912.02258,A Survey of Game Theoretic Approaches for Adversarial Machine Learning in Cybersecurity Tasks
+1911.05268,Adversarial Examples in Modern Machine Learning: A Review
+1702.06162,Survey of Automated Vulnerability Detection and Exploit Generation Techniques in Cyber Reasoning Systems
+1905.13258,A survey of advances in vision-based vehicle re-identification
+2109.08794,A Comprehensive Overview of Recommender System and Sentiment Analysis
+2402.05355,A Survey on Safe Multi-Modal Learning System
+2208.09191,Synthetic Data in Human Analysis: A Survey
+2301.05603,A Comprehensive Survey of Dataset Distillation
+1508.07951,Measuring user influence on Twitter: A survey
+1407.4735,A Survey of Digital Watermarking Techniques and its Applications
+1511.00148,A survey on measuring indirect discrimination in machine learning
+2104.00234,A Survey on Natural Language Video Localization
+2401.10904,A Review of Findings from Neuroscience and Cognitive Psychology as Possible Inspiration for the Path to Artificial General Intelligence
+2308.09388,Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey
+2406.01872,A Survey of Unikernel Security: Insights and Trends from a Quantitative Analysis
+1906.03018,Learning Software Configuration Spaces: A Systematic Literature Review
+2112.03241,Unsupervised Domain Adaptation for Semantic Image Segmentation: a Comprehensive Survey
+1812.05944,"A Tutorial on Distance Metric Learning: Mathematical Foundations, Algorithms, Experimental Analysis, Prospects and Challenges (with Appendices on Mathematical Background and Detailed Algorithms Explanation)"
+1709.00848,Neural Distributed Autoassociative Memories: A Survey
+2403.10075,A survey of synthetic data augmentation methods in computer vision
+2403.17400,A Survey on Resource Management in Joint Communication and Computing-Embedded SAGIN
+2111.14324,Is the Rush to Machine Learning Jeopardizing Safety? Results of a Survey
+2102.04538,A Tutorial on 5G NR V2X Communications
+2112.12310,Adversarial Attacks against Windows PE Malware Detection: A Survey of the State-of-the-Art
+2207.09370,Data-Centric Epidemic Forecasting: A Survey
+2303.06471,Multimodal Data Integration for Oncology in the Era of Deep Neural Networks: A Review
+2011.00901,"Sampling Algorithms, from Survey Sampling to Monte Carlo Methods: Tutorial and Literature Review"
+1802.06993,A Survey on the Security of Blockchain Systems
+1810.00329,An Overview of Blockchain Integration with Robotics and Artificial Intelligence
+2404.18279,Out-of-distribution Detection in Medical Image Analysis: A survey
+2401.16402,"A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect"
+2301.11514,Deep Industrial Image Anomaly Detection: A Survey
+2404.04841,"Unveiling Decentralization: A Comprehensive Review of Technologies, Comparison, Challenges in Bitcoin, Ethereum, and Solana Blockchain"
+2209.14645,"Reducing Stress and Anxiety in the Metaverse: A Systematic Review of Meditation, Mindfulness and Virtual Reality"
+2303.11191,A Survey of Demonstration Learning
+2109.00893,A Survey on Open Set Recognition
+2108.04172,"Johnson-Lindenstrauss Lemma, Linear and Nonlinear Random Projections, Random Fourier Features, and Random Kitchen Sinks: Tutorial and Survey"
+1712.08081,Overview of the Triple Scoring Task at the WSDM Cup 2017
+1904.12742,How software engineering research aligns with design science: A review
+2404.18861,Visual Mamba: A Survey and New Outlooks
+2305.04811,Deep learning models for price forecasting of financial time series: A review of recent advancements: 2020-2022
+2212.14464,Result Diversification in Search and Recommendation: A Survey
+2308.07050,Survey on video anomaly detection in dynamic scenes with moving cameras
+2211.06004,A Comprehensive Survey of Transformers for Computer Vision
+2102.04458,Detecting Fake News Using Machine Learning : A Systematic Literature Review
+2302.08641,Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey
+2211.10708,A Survey on Differential Privacy with Machine Learning and Future Outlook
+2107.01614,Survey: Leakage and Privacy at Inference Time
+2212.04003,A Systematic Literature Review On Privacy Of Deep Learning Systems
+2305.03678,Towards Segment Anything Model (SAM) for Medical Image Segmentation: A Survey
+2211.05567,Partial Differential Equations Meet Deep Neural Networks: A Survey
+2401.03188,"A Survey on Verification and Validation, Testing and Evaluations of Neurosymbolic Artificial Intelligence"
+2302.11777,Embeddings for Tabular Data: A Survey
+2206.14397,Fair Machine Learning in Healthcare: A Review
+2305.00359,A Review of Deep Learning Techniques for Speech Processing
+2511.20871,A review on data fusion in multimodal learning analytics and educational data mining
+2210.13944,"A Survey on Artificial Intelligence for Music Generation: Agents, Domains and Perspectives"
+2306.07999,Artificial intelligence in digital pathology: a systematic review and meta-analysis of diagnostic test accuracy
+2304.05482,Computational Pathology: A Survey Review and The Way Forward
+2107.00272,A Survey on Graph-Based Deep Learning for Computational Histopathology
+2403.02619,Training Machine Learning models at the Edge: A Survey
+2304.04780,"A Review on Explainable Artificial Intelligence for Healthcare: Why, How, and When?"
+1709.08992,Embodied Evolution in Collective Robotics: A Review
+2103.16378,End-to-End Constrained Optimization Learning: A Survey
+2012.03301,Deep Transfer Learning for Industrial Automation: A Review and Discussion of New Techniques for Data-Driven Machine Learning
+2307.05232,A Survey From Distributed Machine Learning to Distributed Deep Learning
+1801.08829,Symbol Emergence in Cognitive Developmental Systems: a Survey
+2107.03059,"Cellular, Wide-Area, and Non-Terrestrial IoT: A Survey on 5G Advances and the Road Towards 6G"
+1907.02941,A Survey on Spatial Modulation in Emerging Wireless Systems: Research Progresses and Applications
+1911.05438,Learning to Communicate in Multi-Agent Reinforcement Learning : A Review
+2207.10223,Fairness Testing: A Comprehensive Survey and Analysis of Trends
+2305.19725,Direct Learning-Based Deep Spiking Neural Networks: A Review
+2201.03916,Automated Reinforcement Learning (AutoRL): A Survey and Open Problems
+2112.05909,Neural Attention Models in Deep Learning: Survey and Taxonomy
+2412.14538,"Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities"
+2111.14247,A Survey of Large-Scale Deep Learning Serving System Optimization: Challenges and Opportunities
+2408.01072,A Survey on Self-play Methods in Reinforcement Learning
+2404.07771,"An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization"
+2403.18103,Tutorial on Diffusion Models for Imaging and Vision
+1811.00233,Survey on Vision-based Path Prediction
+2309.01955,A Survey on Interpretable Cross-modal Reasoning
+2208.09052,A Review of Uncertainty for Deep Reinforcement Learning
+1501.05964,Advances in Human Action Recognition: A Survey
+1402.0590,A Survey of Multi-Objective Sequential Decision-Making
+2412.12836,"A Survey on Recommendation Unlearning: Fundamentals, Taxonomy, Evaluation, and Open Questions"
+2203.13922,AutoML for Deep Recommender Systems: A Survey
+2406.19240,Data Preparation for Deep Learning based Code Smell Detection: A Systematic Literature Review
+2308.07426,A Survey on Point-of-Interest Recommendations Leveraging Heterogeneous Data
+2401.11441,On-Device Recommender Systems: A Comprehensive Survey
+2406.03430,Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis
+2205.10839,Deep Learning for Visual Speech Analysis: A Survey
+2308.03573,When Federated Learning meets Watermarking: A Comprehensive Overview of Techniques for Intellectual Property Protection
+2101.11501,"Evolution of artificial intelligence languages, a systematic literature review"
+2403.15442,"Artificial Intelligence for Cochlear Implants: Review of Strategies, Challenges, and Perspectives"
+2403.14415,Random Graph Modeling: A survey of the concepts
+1601.06444,Large Graph Models: A Review
+2206.11526,A Survey on Learnable Evolutionary Algorithms for Scalable Multiobjective Optimization
+2209.09239,Non-Imaging Medical Data Synthesis for Trustworthy AI: A Comprehensive Survey
+2406.00951,How disinformation and fake news impact public policies?: A review of international literature
+2211.08943,Comparing Explanation Methods for Traditional Machine Learning Models Part 1: An Overview of Current Methods and Quantifying Their Disagreement
+2208.10658,"Survey on Evolutionary Deep Learning: Principles, Algorithms, Applications and Open Issues"
+2402.18558,"Unifying F1TENTH Autonomous Racing: Survey, Methods and Benchmarks"
+2210.03736,Trustworthy clinical AI solutions: a unified review of uncertainty quantification in deep learning models for medical image analysis
+2112.01800,A Survey: Deep Learning for Hyperspectral Image Classification with Few Labeled Samples
+2101.12631,A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search
+2307.03195,A Comprehensive Survey of Artificial Intelligence Techniques for Talent Analytics
+1404.1100,A Tutorial on Principal Component Analysis
+2207.08603,Abstraction between Structural Causal Models: A Review of Definitions and Properties
+2310.07127,An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions
+2401.11963,Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms
+1312.6609,A comprehensive review of firefly algorithms
+2410.01833,Ethical software requirements from user reviews: A systematic literature review
+2212.00253,Distributed Deep Reinforcement Learning: A Survey and A Multi-Player Multi-Agent Learning Toolbox
+2408.14562,A Survey of Camouflaged Object Detection and Beyond
+2303.01259,Explainable Artificial Intelligence and Cybersecurity: A Systematic Literature Review
+2405.10376,"Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy"
+1812.02282,Differential Privacy Techniques for Cyber Physical Systems: A Survey
+1809.10745,A Short Survey of Topological Data Analysis in Time Series and Systems Analysis
+2507.13887,A Survey of Dimension Estimation Methods
+2403.11395,Automated data processing and feature engineering for deep learning and big data applications: a survey
+1906.00245,Blockchain for Internet of Things: A Survey
+1809.09805,Towards Safer Smart Contracts: A Survey of Languages and Verification Methods
+2005.11016,Reinforcement learning with human advice: a survey
+1704.06857,A Review on Deep Learning Techniques Applied to Semantic Segmentation
+1602.06541,A Survey of Semantic Segmentation
+1806.06172,Semantic Video Segmentation: A Review on Recent Approaches
+2005.14282,"A Survey on Blockchain Interoperability: Past, Present, and Future Trends"
+1812.11470,A Systematic Literature Review of Automated Techniques for Functional GUI Testing of Mobile Applications
+2310.13518,Vision-Based Mobile App GUI Testing: A Survey
+2411.10943,Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms
+2104.11271,A Systematic Survey on Android API Usage for Data-Driven Analytics with Smartphones
+2208.09579,"Learning in Audio-visual Context: A Review, Analysis, and New Perspective"
+1709.03583,Quality of Information in Mobile Crowdsensing: Survey and Research Challenges
+2204.07370,2D Human Pose Estimation: A Survey
+2302.10913,From paintbrush to pixel: A review of deep neural networks in AI-generated art
+2304.13269,Games for Artificial Intelligence Research: A Review and Perspectives
+1909.04430,An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue
+2506.10280,AI-Based Software Vulnerability Detection: A Systematic Literature Review
+1805.11001,"The Coming Era of AlphaHacking? A Survey of Automatic Software Vulnerability Detection, Exploitation and Patching Techniques"
+2504.17977,From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets
+1904.11685,A Survey on Face Data Augmentation
+1907.00725,Social Media-based User Embedding: A Literature Review
+2011.03751,Software engineering for artificial intelligence and machine learning software: A systematic literature review
+1910.05528,Preliminary Systematic Literature Review of Machine Learning System Development Process
+2401.17878,A Survey on Data-Centric Recommender Systems
+2107.10295,A Review of Some Techniques for Inclusion of Domain-Knowledge into Deep Neural Networks
+1902.10590,Architecting Dependable Learning-enabled Autonomous Systems: A Survey
+2004.09741,On the Performance of Hybrid Search Strategies for Systematic Literature Reviews in Software Engineering
+1811.06740,A Survey of Challenges for Runtime Verification from Advanced Application Domains (Beyond Software)
+2008.05074,A Review of Deep Reinforcement Learning for Smart Building Energy Management
+2104.02214,Intelligent Building Control Systems for Thermal Comfort and Energy-Efficiency: A Systematic Review of Artificial Intelligence-Assisted Techniques
+1702.02311,RFID Localisation For Internet Of Things Smart Homes: A Survey
+2304.06119,IoT trust and reputation: a survey and taxonomy
+1801.07090,An Overview of Wireless IoT Protocol Security in the Smart Home Domain
+2008.03343,"A Survey on Device Behavior Fingerprinting: Data Sources, Techniques, Application Scenarios, and Datasets"
+2102.00813,About Face: A Survey of Facial Recognition Evaluation
+1905.10048,Beyond Intra-modality: A Survey of Heterogeneous Person Re-identification
+1812.05389,Safely Entering the Deep: A Review of Verification and Validation for Machine Learning and a Challenge Elicitation in the Automotive Industry
+2102.07574,Machine Learning Model Development from a Software Engineering Perspective: A Systematic Literature Review
+2306.03446,Computational Agent-based Models in Opinion Dynamics: A Survey on Social Simulations and Empirical Studies
+2208.14674,A Survey of Security and Privacy Issues in V2X Communication Systems
+2310.18244,A Review of the Evidence for Existential Risk from AI via Misaligned Power-Seeking
+2302.10856,Overview of the TREC 2021 Fair Ranking Track
+2411.08666,A Survey on Vision Autoregressive Model
+2407.13934,Towards Trustworthy AI: A Review of Ethical and Robust Large Language Models
+2404.16356,Integration of Mixture of Experts and Multimodal Generative AI in Internet of Vehicles: A Survey
+2207.10510,Autonomous Vehicles in 5G and Beyond: A Survey
+1909.13587,A Survey on Resource Allocation in Vehicular Networks
+2105.15035,Machine Learning for Security in Vehicular Networks: A Comprehensive Survey
+2304.09240,"The Metaverse: Survey, Trends, Novel Pipeline Ecosystem & Future Directions"
+1306.6709,A Survey on Metric Learning for Feature Vectors and Structured Data
+1908.01262,A systematic review of fuzzing based on machine learning techniques
+2212.04481,A Survey of Graph Neural Networks for Social Recommender Systems
+2407.19679,Harnessing Large Vision and Language Models in Agriculture: A Review
+1709.01015,A Survey of Indoor Localization Systems and Technologies
+2409.09502,One missing piece in Vision and Language: A Survey on Comics Understanding
+2305.09880,A survey of the Vision Transformers and their CNN-Transformer based Variants
+2402.02941,Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey
+2106.07085,Survey: Image Mixing and Deleting for Data Augmentation
+2503.06027,Empowering Edge Intelligence: A Comprehensive Survey on On-Device AI Models
+1406.0873,"Linear Dimensionality Reduction: Survey, Insights, and Generalizations"
+2405.20431,Exploring the Practicality of Federated Learning: A Survey Towards the Communication Perspective
+2305.05257,Survey of Federated Learning Models for Spatial-Temporal Mobility Applications
+2401.17319,Decentralized Federated Learning: A Survey on Security and Privacy
+2202.10450,A Survey of Ad Hoc Teamwork Research
+2504.08296,Generative AI for Film Creation: A Survey of Recent Advances
+2409.11864,"Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review"
+1709.02426,Intelligent Disaster Response via Social Media Analysis - A Survey
+1407.7071,Processing Social Media Messages in Mass Emergency: A Survey
+2408.11537,A Survey of Embodied Learning for Object-Centric Robotic Manipulation
+1912.12318,Deep Learning in Medical Image Registration: A Review
+2207.02988,Microservice Architecture Reconstruction and Visualization Techniques: A Review
+2011.02094,A Survey on Contact Tracing: the Latest Advancements and Challenges
+2509.03883,Human Motion Video Generation: A Survey
+2401.13266,SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model
+2305.18035,Physics-Informed Computer Vision: A Review and Perspectives
+2404.02954,Deep Generative Models through the Lens of the Manifold Hypothesis: A Survey and New Connections
+2409.00031,Quality Assessment in the Era of Large Models: A Survey
+2407.08590,A Review of Nine Physics Engines for Reinforcement Learning Research
+2207.01911,"Explainability in Deep Reinforcement Learning, a Review into Current Methods and Applications"
+2311.11383,A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI
+2408.12171,Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey
+2101.04271,"What Do We Mean by ""Accessibility Research""? A Literature Survey of Accessibility Papers in CHI and ASSETS from 1994 to 2019"
+2408.04380,Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations
+2311.12154,User-Like Bots for Cognitive Automation: A Survey
+2106.15518,An expert survey to assess the current status and future challenges of energy system analysis
+2008.04094,Adversarial Examples on Object Recognition: A Comprehensive Survey
+2307.05638,"A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions"
+2506.13904,A Systematic Review of User-Centred Evaluation of Explainable AI in Healthcare
+2506.15408,Unifying VXAI: A Systematic Review and Framework for the Evaluation of Explainable AI
+2206.09484,A Critical Review of Communications in Multi-Robot Systems
+2406.04086,A Survey of Language-Based Communication in Robotics
+2409.13059,Comprehensive Overview of Artificial Intelligence Applications in Modern Industries
+1812.10360,A Review on The Use of Deep Learning in Android Malware Detection
+2002.11310,From Seeing to Moving: A Survey on Learning for Visual Indoor Navigation (VIN)
+2410.23687,Adversarial Attacks of Vision Tasks in the Past 10 Years: A Survey
+2306.00380,Survey of Trustworthy AI: A Meta Decision of AI
+2302.05558,Overview of the TREC 2022 Fair Ranking Track
+1811.08520,Rebooting Research on Detecting Repackaged Android Apps: Literature Review and Benchmark
+2103.01766,COVID-19 Digital Contact Tracing Applications and Techniques: A Review Post Initial Deployments
+2309.02057,Robust Recommender System: A Survey and Future Directions
+2308.05731,The Integration of Prediction and Planning in Deep Learning Automated Driving Systems: A Review
+2406.05575,A Survey on Hybrid Motion Planning Methods for Automated Driving Systems
+2006.10306,A Survey of COVID-19 Contact Tracing Apps
+2005.03599,COVID-19 Contact-tracing Apps: a Survey on the Global Deployment and Challenges
+2501.14836,Symbolic Knowledge Extraction and Injection with Sub-symbolic Predictors: A Systematic Literature Review
+2407.19422,A Generic Review of Integrating Artificial Intelligence in Cognitive Behavioral Therapy
+2112.06654,Toward Open-World Electroencephalogram Decoding Via Deep Learning: A Comprehensive Survey
+2401.05446,Self-supervised Learning for Electroencephalogram: A Systematic Survey
+2405.00726,Unveiling Thoughts: A Review of Advancements in EEG Brain Signal Decoding into Text
+2407.21022,A Comprehensive Survey on Retrieval Methods in Recommender Systems
+1910.13011,"A Survey on Subgraph Counting: Concepts, Algorithms and Applications to Network Motifs and Graphlets"
+2403.01759,Open-world machine learning: A review and new outlooks
+2007.06622,SoK: The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems
+2207.02556,Deep Learning Approaches to Grasp Synthesis: A Review
+2209.15179,Physical Adversarial Attack meets Computer Vision: A Decade Survey
+1904.08117,A Survey on Traffic Signal Control Methods
+2102.06638,UAVs Path Deviation Attacks: Survey and Research Challenges
+1805.11773,Autonomous Vehicles that Interact with Pedestrians: A Survey of Theory and Practice
+2005.09830,Deep Learning for LiDAR Point Clouds in Autonomous Driving: A Review
+2307.15363,Robotic Vision for Human-Robot Interaction and Collaboration: A Survey and Systematic Review
+2203.08698,Architectures and Synchronization Techniques for Distributed Satellite Systems: A Survey
+2004.11718,Graph Learning Approaches to Recommender Systems: A Review
+2301.04317,Teleoperation of Humanoid Robots: A Survey
+2001.02443,Coordination of Autonomous Vehicles: Taxonomy and Survey
+2110.13484,Applications of Multi-Agent Reinforcement Learning in Future Internet: A Comprehensive Survey
+2212.11366,Statistical Challenges in Online Controlled Experiments: A Review of A/B Testing Methodology
+2308.04929,A/B Testing: A Systematic Literature Review
+2303.08060,Beyond Games: A Systematic Review of Neural Monte Carlo Tree Search Applications
+1511.06252,Network-based recommendation algorithms: A review
+2005.04573,A Survey on Deep Learning for Neuroimaging-based Brain Disorder Analysis
+2004.05224,Deep Learning for Image and Point Cloud Fusion in Autonomous Driving: A Review
+2002.00269,A Tutorial on Learning With Bayesian Networks
+2406.12945,Tabular Data Generation Models: An In-Depth Survey and Performance Benchmarks with Extensive Tuning
+1909.12948,Video Skimming: Taxonomy and Comprehensive Survey
+2503.08998,From Task-Specific Models to Unified Systems: A Review of Model Merging Approaches
+2202.05433,A Survey on Programmatic Weak Supervision
+2302.06754,Relatedly: Scaffolding Literature Reviews with Existing Related Work Sections
+2310.03392,Unpacking Human-AI Interaction in Safety-Critical Industries: A Systematic Literature Review
+2008.13538,Scientific Paper Recommendation: A Survey
+2412.03991,Quality Control in Open-Ended Crowdsourcing: A Survey
+2310.14301,An overview of text-to-speech systems and media applications
+2405.04787,The Impact of Human Aspects on the Interactions Between Software Developers and End-Users in Software Engineering: A Systematic Literature Review
+2502.08333,"Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact"
+2501.15724,"A Survey on Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluation Tasks"
+2006.08159,"Survey on Deep Multi-modal Data Analytics: Collaboration, Rivalry and Fusion"
+2104.09954,A Survey on Fundamental Limits of Integrated Sensing and Communication
+2403.16189,Interference Management for Integrated Sensing and Communication Systems: A Survey
+2401.12025,A Survey of Recent Advances in Optimization Methods for Wireless Communications
+2408.06687,Masked Image Modeling: A Survey
+2307.04644,Fairness and Diversity in Recommender Systems: A Survey
+2411.13740,Federated Continual Learning for Edge-AI: A Comprehensive Survey
+2303.08557,Deep Learning for Cross-Domain Few-Shot Visual Recognition: A Survey
+2303.09253,A Survey of Deep Visual Cross-Domain Few-Shot Learning
+2105.13502,Unsupervised Domain Adaptation of Object Detectors: A Survey
+2004.05214,A Review on Deep Learning Techniques for Video Prediction
+2410.16602,Foundation Models for Remote Sensing and Earth Observation: A Survey
+2305.04513,Blockchained Federated Learning for Internet of Things: A Comprehensive Survey
+2306.10388,Breaking On-device Training Memory Wall: A Systematic Survey

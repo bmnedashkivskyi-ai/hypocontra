@@ -17,11 +17,18 @@ from pathlib import Path
 
 import pandas as pd
 
-from find_surveys_bulk import ARXIV_NS, PAGE_DELAY, fetch_page
+from find_surveys_bulk import ARXIV_NS, PAGE_DELAY, PersistentBlockError, fetch_page
 from mine_disagreement_from_surveys import SRC_CACHE_DIR
 
 RESULTS_DIR = Path(__file__).resolve().parents[1] / "results"
 CACHE_PATH = RESULTS_DIR / "round17_title_resolution_cache.jsonl"
+SKIPPED_LOG_PATH = RESULTS_DIR / "round18_skipped_titles.txt"
+
+# Cap on fetch_page's retry loop for a single title: ~1050s (~17.5 min) of
+# backoff before giving up on THIS title and moving on, instead of the
+# unbounded retry that stalled the whole run for 4.5+ hours on one query
+# (see PersistentBlockError's docstring in find_surveys_bulk.py).
+MAX_ATTEMPTS_PER_TITLE = 6
 
 
 def normalize_title(title: str) -> str:
@@ -44,16 +51,32 @@ def append_to_cache(record: dict) -> None:
         f.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 
-def resolve_one(title: str) -> dict:
+def resolve_one(title: str) -> dict | None:
+    """Returns None if arXiv persistently refuses this exact query (see
+    PersistentBlockError) -- the caller should skip it, not cache it, so a
+    later run can retry it fresh."""
     escaped = title.replace('"', "'")
     query = f'ti:"{escaped}"'
-    root = fetch_page(0, 3, query)
+    try:
+        root = fetch_page(0, 3, query, max_attempts=MAX_ATTEMPTS_PER_TITLE)
+    except PersistentBlockError as e:
+        print(f"  SKIPPING title after persistent block: {e}", flush=True)
+        with SKIPPED_LOG_PATH.open("a", encoding="utf-8") as f:
+            f.write(title + "\n")
+        return None
     entries = root.findall("atom:entry", ARXIV_NS)
     target_norm = normalize_title(title)
     for entry in entries:
         entry_title = entry.find("atom:title", ARXIV_NS).text.strip().replace("\n", " ")
         if normalize_title(entry_title) == target_norm:
-            arxiv_id = entry.find("atom:id", ARXIV_NS).text.strip().split("/")[-1].split("v")[0]
+            # Round 18 (2026-09-18): .split("/")[-1] silently dropped the
+            # category prefix (e.g. "cs/") that pre-2007 old-style arXiv IDs
+            # require -- "cs/0504061" became bare "0504061", which then 404s
+            # against arxiv.org/e-print/. Splitting on "abs/" instead keeps
+            # the prefix for old-style IDs while new-style ("2011.00362")
+            # IDs are unaffected (no "abs/" substring inside them to split on).
+            raw_id = entry.find("atom:id", ARXIV_NS).text.strip()
+            arxiv_id = raw_id.split("abs/")[-1].split("v")[0]
             return {"title": title, "match": True, "arxiv_id": arxiv_id, "matched_title": entry_title}
     return {"title": title, "match": False, "arxiv_id": None, "matched_title": None}
 
@@ -79,6 +102,12 @@ def main() -> None:
             record = cache[title]
         else:
             record = resolve_one(title)
+            if record is None:
+                # Persistently blocked -- not cached, so a later run retries
+                # it fresh instead of either stalling here again or wrongly
+                # treating it as a permanent no-match.
+                time.sleep(PAGE_DELAY)
+                continue
             record["timestamp"] = time.time()
             append_to_cache(record)
             time.sleep(PAGE_DELAY)

@@ -1,0 +1,13 @@
+A survey of fpga-based accelerators for convolutional neural networks,
+A survey and taxonomy of fpga-based deep learning accelerators,
+A survey of fpga based deep learning accelerators: Challenges and opportunities,
+Fpga-based accelerators of deep learning networks for learning and classification: A review,
+Toolflows for mapping convolutional neural networks on fpgas: A survey and future directions,
+Methods and datasets on semantic segmentation: A review,
+A review of long-term memory in natural and synthetic systems,
+Cloud robotics and automation: A survey of related work,
+Service robots in the hospitality industry: An exploratory literature review,
+A review on service robots: Mechanical design and localization system,
+Social acceptance of robots in different occupational fields: A systematic literature review,
+The digital divide: A review and future research agenda
+A survey of fpga-based accelerators for convolutional neural networks,
