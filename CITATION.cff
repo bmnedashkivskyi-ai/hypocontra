@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software, corpus, or its results, please cite it as below."
 type: software
 title: "hypocontra"
-version: "2.0.0"
-date-released: "2026-09-11"
+version: "2.1.0"
+date-released: "2026-09-18"
 abstract: >
   HypoContra: a 103-pair curated corpus (rounds 1-17) and evaluation
   pipeline for detecting conceptual contradictions between scientific
