@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22834691.svg)](https://doi.org/10.5281/zenodo.22834691)
 
-Перше реальне виконання методології `~/test-article/02-HypoContra-taksonomiia-korpus-superechnostei/hypocontra-taksonomiia-korpus-superechnostei.md` (§4) — таксономії й методології побудови корпусу для виявлення концептуальних суперечностей між науковими гіпотезами в NLP-літературі. Оригінальна стаття — methodology-only ("на момент написання корпус ще не зібрано"); цей проєкт — перша реальна реалізація.
+Перше реальне виконання методології `~/02-HypoContra-taksonomiia-korpus-superechnostei/hypocontra-taksonomiia-korpus-superechnostei.md` (§4) — таксономії й методології побудови корпусу для виявлення концептуальних суперечностей між науковими гіпотезами в NLP-літературі. Оригінальна стаття — methodology-only ("на момент написання корпус ще не зібрано"); цей проєкт — перша реальна реалізація.
 
 **Підсумковий звіт пілоту: `docs/pilot_final_summary.md`** — почніть звідси для round 1-6. Round 7-17 (масштабування, завершено) описані нижче.
 
